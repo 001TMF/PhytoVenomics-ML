@@ -1,0 +1,85 @@
+# Default Configuration for Phytovenomics ML Platform
+
+# Data paths
+data_paths:
+  toxins: "../data/snake_toxins/snake_toxins_synthetic.csv"
+  antibodies: "../data/antibody_structures/human/human_antibodies_synthetic.fasta"
+  binding_data: "../data/toxin_antibody_binding/toxin_antibody_binding_pairs.csv"
+  output: "output"
+
+# General settings
+random_seed: 42
+epitopes_per_target: 3
+optimize_affinity: true
+cocktail_variants: 3
+
+# Toxin Database configuration
+toxin_database:
+  cache_enabled: true
+  cache_dir: ".cache/toxins"
+  max_toxins: 1000
+  # Toxin family groupings
+  toxin_families:
+    three_finger_toxins: ["3FTX001", "3FTX002", "3FTX003", "3FTX004", "3FTX005"]
+    phospholipase_a2: ["PLA2001", "PLA2002", "PLA2003", "PLA2004"]
+    snake_venom_metalloproteases: ["SVMP001", "SVMP002", "SVMP003"]
+    snake_venom_serine_proteases: ["SVSP001", "SVSP002"]
+    c_type_lectins: ["CTL001", "CTL002"]
+
+# Epitope Discovery configuration
+epitope_discovery:
+  min_epitope_length: 8
+  max_epitope_length: 20
+  ideal_epitope_length: 15
+  scoring_weights:
+    accessibility: 0.3
+    hydrophilicity: 0.2
+    conservation: 0.25
+    immunogenicity: 0.25
+  conservation_threshold: 0.6
+  accessibility_threshold: 0.5
+  epitope_overlap_threshold: 5
+
+# Antibody Designer configuration
+antibody_designer:
+  framework_templates:
+    heavy: "FRAMEWORK_HEAVY_CHAIN_TEMPLATE"
+    light: "FRAMEWORK_LIGHT_CHAIN_TEMPLATE"
+  max_antibodies_per_epitope: 5
+  design_parallel_threads: 4
+  design_weights:
+    binding_affinity: 0.6
+    developability: 0.4
+  cdr_length_limits:
+    "CDR-H1": [8, 12]
+    "CDR-H2": [8, 19]
+    "CDR-H3": [8, 22]
+    "CDR-L1": [8, 16]
+    "CDR-L2": [7, 11]
+    "CDR-L3": [8, 12]
+
+# Affinity Optimizer configuration
+affinity_optimizer:
+  optimization_iterations: 3
+  optimization_population: 5
+  optimization_threshold: -9.5  # Energy threshold (kcal/mol)
+  acceptable_affinity: 10.0     # Affinity threshold (nM)
+
+# Cocktail Optimizer configuration
+cocktail_optimizer:
+  max_cocktail_size: 10
+  min_coverage_threshold: 0.7
+  manufacturability_threshold: 0.65
+  # Toxin family groupings reference the toxin_database.toxin_families
+
+# Model paths
+model_paths:
+  epitope_predictor: "models/epitope_predictor.pt"
+  binding_predictor: "models/binding_predictor.pt"
+  developability_model: "models/developability_model.pt"
+
+# Logging configuration
+logging:
+  level: "INFO"
+  file: "logs/phytovenomics.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

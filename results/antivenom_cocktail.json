@@ -1,0 +1,56 @@
+{
+  "cocktail": {
+    "id": "COCKTAIL_001",
+    "name": "PolyVenom-X1",
+    "antibodies": [
+      "AB33_MAT",
+      "AB22_MAT",
+      "AB13_MAT"
+    ],
+    "coverage": 0.92,
+    "synergy_score": 0.85,
+    "geographical_suitability": {
+      "South Asia": 0.94,
+      "Southeast Asia": 0.78,
+      "Africa": 0.61
+    },
+    "estimated_production_cost": 120.5,
+    "stability_score": 0.89,
+    "neutralization_breadth": 0.88
+  },
+  "performance": {
+    "coverage_by_toxin": {
+      "T001": 0.973897370090367,
+      "T002": 0.8729152708892174,
+      "T003": 0.9665351159553952,
+      "T004": 0.8809778996635728,
+      "T005": 0.8513985915484221
+    },
+    "coverage_by_species": {
+      "Naja naja": 0.8120454978333188,
+      "Daboia russelii": 0.8661201196216168,
+      "Bothrops jararaca": 0.8456529126677748,
+      "Crotalus atrox": 0.864613681746087
+    },
+    "synergy_matrix": [
+      [
+        0.7292718339762212,
+        0.751376311989254,
+        0.7173126595191254
+      ],
+      [
+        0.8253178983508336,
+        0.7012230818651195,
+        0.7522122660779921
+      ],
+      [
+        0.8645206869269789,
+        0.8313039705982266,
+        0.7701553633951964
+      ]
+    ],
+    "cost_effectiveness": 0.87,
+    "production_feasibility": 0.92,
+    "estimated_shelf_life": "24 months"
+  }
+}

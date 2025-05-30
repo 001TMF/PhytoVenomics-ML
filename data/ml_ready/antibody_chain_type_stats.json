@@ -1,0 +1,18 @@
+{
+  "label_counts": {
+    "Heavy": 21,
+    "Heavy Chain": 120,
+    "Kappa Chain": 84,
+    "Lambda Chain": 35,
+    "Light": 21,
+    "Unknown": 17
+  },
+  "class_weights": {
+    "Heavy": 2.365079365079365,
+    "Heavy Chain": 0.41388888888888886,
+    "Kappa Chain": 0.5912698412698413,
+    "Lambda Chain": 1.4190476190476191,
+    "Light": 2.365079365079365,
+    "Unknown": 2.9215686274509802
+  }
+}

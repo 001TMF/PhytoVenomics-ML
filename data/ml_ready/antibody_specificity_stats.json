@@ -1,0 +1,14 @@
+{
+  "label_counts": {
+    "Broad-spectrum": 42,
+    "Snake venom": 20,
+    "Specific": 197,
+    "Unknown": 39
+  },
+  "class_weights": {
+    "Broad-spectrum": 1.7738095238095237,
+    "Snake venom": 3.725,
+    "Specific": 0.37817258883248733,
+    "Unknown": 1.9102564102564104
+  }
+}

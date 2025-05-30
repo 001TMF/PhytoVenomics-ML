@@ -1,0 +1,226 @@
+[
+  {
+    "id": "8IA6",
+    "description": "",
+    "resolution": "2.75",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8IA6.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8DND",
+    "description": "",
+    "resolution": "2.018",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8DND.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7ROX",
+    "description": "",
+    "resolution": "2.1",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7ROX.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7M6C",
+    "description": "",
+    "resolution": "1.95",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7M6C.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7RJZ",
+    "description": "",
+    "resolution": "1.7",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7RJZ.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7RJI",
+    "description": "",
+    "resolution": "1.71",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7RJI.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7LYE",
+    "description": "",
+    "resolution": "1.758",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7LYE.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "6TMY",
+    "description": "",
+    "resolution": "1.8",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6TMY.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "6PWH",
+    "description": "",
+    "resolution": "1.749",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6PWH.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "6MQD",
+    "description": "",
+    "resolution": "1.6",
+    "toxin_type": "Phospholipase A2",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6MQD.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "9E6K",
+    "description": "",
+    "resolution": "3.15",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9E6K.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "9CLP",
+    "description": "",
+    "resolution": "3.43",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9CLP.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8SNO",
+    "description": "",
+    "resolution": "2.78",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNO.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8SNN",
+    "description": "",
+    "resolution": "2.32",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNN.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8SNM",
+    "description": "",
+    "resolution": "3.84",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNM.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8SNL",
+    "description": "",
+    "resolution": "2.78",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNL.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7QAJ",
+    "description": "",
+    "resolution": "2.1",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7QAJ.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8CQY",
+    "description": "",
+    "resolution": "1.7",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8CQY.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "6X5X",
+    "description": "",
+    "resolution": "1.92",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6X5X.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "4Q1L",
+    "description": "",
+    "resolution": "1.9",
+    "toxin_type": "Metalloproteinase",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/4Q1L.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "9BK7",
+    "description": "",
+    "resolution": "2.58",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9BK7.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "9BK6",
+    "description": "",
+    "resolution": "2",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9BK6.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "9BK5",
+    "description": "",
+    "resolution": "2.68",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9BK5.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "8SXP",
+    "description": "",
+    "resolution": "2.9",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SXP.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "5XWE",
+    "description": "",
+    "resolution": "1.8",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/5XWE.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "7C28",
+    "description": "",
+    "resolution": "2.4",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7C28.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "6WJC",
+    "description": "",
+    "resolution": "2.55",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6WJC.pdb",
+    "source": "PDB"
+  },
+  {
+    "id": "6RC7",
+    "description": "",
+    "resolution": "",
+    "toxin_type": "Three-finger toxin",
+    "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6RC7.pdb",
+    "source": "PDB"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "toxins": {
+    "total_count": 376,
+    "real_count": 176,
+    "synthetic_count": 200,
+    "train_count": 300,
+    "test_count": 76,
+    "toxin_types": {
+      "Snake Venom Metalloproteinase": 79,
+      "Snake Venom Serine Protease": 79,
+      "Cysteine-Rich Secretory Protein": 74,
+      "Phospholipase A2": 49,
+      "Disintegrin": 37,
+      "Kunitz-type Serine Protease Inhibitor": 29,
+      "Three-Finger Toxin": 29
+    },
+    "species_count": 96,
+    "added_features": [
+      "molecular_weight",
+      "aromaticity",
+      "instability_index",
+      "isoelectric_point",
+      "hydrophobicity",
+      "charge_at_pH7",
+      "cysteine_count",
+      "cysteine_percentage",
+      "sequence_complexity",
+      "helix_fraction",
+      "sheet_fraction",
+      "turn_fraction"
+    ]
+  },
+  "antibodies": {
+    "total_count": 373,
+    "real_count": 73,
+    "synthetic_count": 300,
+    "train_count": 298,
+    "test_count": 75,
+    "chain_types": {
+      "Heavy Chain": 150,
+      "Kappa Chain": 106,
+      "Lambda Chain": 44,
+      "Light": 26,
+      "Heavy": 26,
+      "Unknown": 21
+    },
+    "added_features": [
+      "molecular_weight",
+      "aromaticity",
+      "instability_index",
+      "isoelectric_point",
+      "hydrophobicity",
+      "charge_at_pH7",
+      "cysteine_count",
+      "cysteine_percentage",
+      "sequence_complexity",
+      "helix_fraction",
+      "sheet_fraction",
+      "turn_fraction",
+      "cdr_score"
+    ]
+  },
+  "binding_pairs": {
+    "total_count": 4367,
+    "real_count": 3663,
+    "synthetic_count": 704,
+    "train_count": 3493,
+    "test_count": 874,
+    "added_features": [
+      "toxin_length",
+      "toxin_family_code",
+      "antibody_chain_type",
+      "antibody_chain_type_code",
+      "binding_type_code",
+      "binding_site_code",
+      "binding_score",
+      "combined_efficacy"
+    ]
+  }
+}

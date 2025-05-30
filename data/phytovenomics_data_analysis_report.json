@@ -1,0 +1,66 @@
+{
+  "project": "Phytovenomics ML Platform",
+  "focus": "Human Antibody Production in Plants for Antivenom Development",
+  "datasets": {
+    "snake_toxins": {
+      "records": 200,
+      "unique_types": 7,
+      "average_length": 160.625,
+      "key_features": [
+        "sequence",
+        "toxin_type",
+        "species",
+        "effects"
+      ]
+    },
+    "human_antibodies": {
+      "records": 300,
+      "chain_types": {
+        "Heavy Chain": 150,
+        "Kappa Chain": 106,
+        "Lambda Chain": 44
+      },
+      "specificity_types": {
+        "Specific": 248,
+        "Broad-spectrum": 52
+      },
+      "key_features": [
+        "sequence",
+        "chain_type",
+        "cdr_sequences",
+        "targeted_toxin_type"
+      ]
+    },
+    "binding_data": {
+      "records": 704,
+      "neutralizing_pairs": 567,
+      "binding_types": {
+        "Specific": 379,
+        "Broad-spectrum": 325
+      },
+      "key_metrics": [
+        "binding_affinity_nM",
+        "neutralization_percent"
+      ]
+    }
+  },
+  "ml_model_recommendations": {
+    "features": [
+      "CDR sequences",
+      "Amino acid composition",
+      "Toxin signature motifs",
+      "Sequence length",
+      "Chain pairing information"
+    ],
+    "model_types": [
+      "Convolutional Neural Networks for sequence patterns",
+      "RNN/LSTM for sequence dependencies",
+      "Ensemble methods for cocktail formulation"
+    ],
+    "evaluation_metrics": [
+      "Binding affinity prediction error",
+      "Neutralization prediction accuracy",
+      "Toxin coverage of predicted antibody cocktails"
+    ]
+  }
+}

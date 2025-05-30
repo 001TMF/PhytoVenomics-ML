@@ -1,0 +1,2463 @@
+{
+  "toxins": [
+    {
+      "id": "XCA51370.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MTALWIVAVWLMGVEGDLNQFKEMIDHVSGRRFWYYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYNYKFQNGDIICGDENPCLKEVCECDRVAAICFRNNRDTYDPKYVGYSMFTLECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51353.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MTALWIVAVWLMGVEGDLNQFKEMIDHVSGRRFWYYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYNYKFQNGDIICGDENPCLKEVCECDRVAAICFRNNKDTYDPNYFAFKLKSNECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51350.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MTAFWIVAVWLMGVEGHLNQFREMIDHVSGRSFLAYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYNYKFQNGDIICGDENPCLKEVCECDRVAAICFRNNRDTYDPKYVGYSMFTLECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51265.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MTALWIVAVWLMGVEGDLNQFKEMIDHVSGRRFWYYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYNYKFQNGDIICGDENPCLKEVCECDRVAAICFRNNRDTYDPKYVGYSMFTLECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51249.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MTALWIVAVWLMGVEGDLNQFKEMIDHVSGRRFWYYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYNYKFQNGDIICGDENPCLKEVCECDRVAAICFRNNKDTYDPNYFAFKLKSNECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51247.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MTALWIVAVWLMGVEGDLNQFREMIDHVSGRSFWRYMFYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYNYKFQNGDIICGDENPCLKEVCECDRVAAICFRNNRDTYDPKYVGYSMFTLECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51238.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MRALWIVAVWLMGVEGDLNQFREMIDHVWGRSFFSYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYKYEFQNGDIICGDENPCKKEVCECDKVAAFCFRNNQDTYDPKYVGYSMFTLECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51214.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MRALWIVAVWLMGVEGDLNQFREMIDHVSGRSFFSYLSYGCYCGWGGSGKPQDATDRCCFVHDCCYGITDKCGPKTAFYKYEFQNGDIICGDENPCKKEVCECDKVAAFCFRNNQDTYDPKYVGYSMFTLECKKETEQC",
+      "length": 139,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XCA51213.1",
+      "description": "snake venom phospholipase A2 [Bitis arietans]",
+      "sequence": "MRALWIVAVWLMGVEGSLVEFGQMITEETEKPVFPFYMFYGCYCGWGGNGKPIDATDRCCFVHDCCYGNLPDCSPKTDMYKYHRENEAIVCDKGTSCENRICECDKAAAICFRENLKTYKDGNMFYKGPECSMPSEKC",
+      "length": 138,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bitis arietans",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAG5858194.1",
+      "description": "snake venom acidic phospholipase A2 precursor [Bothrops jararaca]",
+      "sequence": "MRTLWIVAVLLVGVEGNLWQFGRMIQQETGKHPLFHYLSYGCYCGWGGGGQPKDATDRCCYVHDCCYGKVTGCDPKIDIYTYSKETGDIVCGGDDPCKKQICECDRVAAICFQDNKDTYDKKYRFLNAENCQEASEAC",
+      "length": 138,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB36472.1",
+      "description": "phospholipase A2 basic subunit, PLA2-I subunit B [Vipera aspis, zinnikeri, venom, Peptide, 122 aa]",
+      "sequence": "NLFQFAKMINGKLGAFSVWNYISYGCYCGWGGQGTPKDATDRCCFVHDCCYGRVRGCNPKLAIYSYSFKNGNIVCGKNLGCLRDICECDRVAANCFHQNKNTYNKNYRFKSSSRCRQTSEQC",
+      "length": 122,
+      "toxin_type": "Phospholipase A2",
+      "species": "Vipera aspis",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB36471.1",
+      "description": "phospholipase A2 acidic subunit, PLA2-I subunit A [Vipera aspis, zinnikeri, venom, Peptide, 122 aa]",
+      "sequence": "NLFQFGDMILQKTGKEAVHSYAIYGCYCGWGGQGRAQDATDRCCFAQDCCYGRVNDCNPKMATYTYSFENGDIVCGDNDLCLRAVCECDRAAAICLGENVNTYDKNYEYYSISHCTEESEQC",
+      "length": 122,
+      "toxin_type": "Phospholipase A2",
+      "species": "Vipera aspis",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB33760.1",
+      "description": "OS2=secretory phospholipase A2 [Oxyuranus scutellatus=Taipan snakes, ssp. scutellatus, venom, Peptide, 119 aa]",
+      "sequence": "NLAQFGFMIRCANGGSRSPLDYTDYGCYCGKGGRGTPVDDLDRCCQVHDECYGEAEKRLGCSPFVTLYSWKCYGKAPSCNTKTDCQRFVCNCDAKAAECFARSPYQKKNWNINTKARCK",
+      "length": 119,
+      "toxin_type": "Phospholipase A2",
+      "species": "Oxyuranus scutellatus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB33759.1",
+      "description": "OS1=secretory phospholipase A2 [Oxyuranus scutellatus=Taipan snakes, ssp. scutellatus, venom, Peptide, 127 aa]",
+      "sequence": "SLLNFANLIECANHGTRSALAYADYGCYCGKGGRGTPLDDLDRCCHVHDDCYGEAEKLPACNYLMSSPYFNSYSYKCNEGKVTCTDDNDECKAFICNCDRTAAICFAGATYNDENFMISKKYNDICQ",
+      "length": 127,
+      "toxin_type": "Phospholipase A2",
+      "species": "Oxyuranus scutellatus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB28455.1",
+      "description": "phospholipase A2 isozyme III, PLA2-III {EC 3.1.1.4} [Trimeresurus gramineus=green habu snakes, venom, Peptide, 122 aa]",
+      "sequence": "NLMQFETLIMKVAGRSGVWYYGSYGCFCGAGGQGRPQDASDRCCFVHDCCYGKVNGCDPKKDFYTYSEENGAIVCGGDDPCKKEICECDKDAAICFRDNKDTYDNKYWFFPAKNCQEESEPC",
+      "length": 122,
+      "toxin_type": "Phospholipase A2",
+      "species": "Craspedocephalus gramineus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB28454.1",
+      "description": "phospholipase A2 isozyme IV, PLA2-IV {EC 3.1.1.4} [Trimeresurus gramineus=green habu snakes, venom, Peptide, 122 aa]",
+      "sequence": "HLMQFETLIMKVAGRSGVWYYGSYGCFCGAGGQGRPQDASDRCCFVHDCCYGKVNGCDPKKDFYTYSEENGDIVCGGDDPCKKEICECDKDAAICFRDNKDTYDNKYWFFPAKNCQEESEPC",
+      "length": 122,
+      "toxin_type": "Phospholipase A2",
+      "species": "Craspedocephalus gramineus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB26654.1",
+      "description": "phospholipase A2 monomers {EC 3.1.1.4} [Agkistrodon piscivorus, piscivorus, venom, Peptide, 122 aa]",
+      "sequence": "DLMQFETLIMKIAKRSGMFWYSAYGCYCGWGGQGRPQDATDRCCFVHDCCYGKVTGCDPKLDSYTYSVENGDVVCGGNNPCKKEICECDRAAAICFRDNKVTYDNKYWRFPPQNCKEESEPC",
+      "length": 122,
+      "toxin_type": "Phospholipase A2",
+      "species": "Agkistrodon piscivorus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB25792.1",
+      "description": "lysine-49 phospholipase A2 [Agkistrodon piscivorus, ssp. piscivorus, venom, Peptide, 123 aa]",
+      "sequence": "NLFQFEKLIKKMTGKSGMLWYSAYGCYCGWGGQGRPKDATDRCCFVHDCCYGKVTGCNPKMDIYTYSVDNGNIVCGGTNPCKKQICECDRAAAICFRDNLKTYDSKTYWKYPKKNCKEESEPC",
+      "length": 123,
+      "toxin_type": "Phospholipase A2",
+      "species": "Agkistrodon piscivorus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB24834.1",
+      "description": "phospholipase A2 [Bungarus fasciatus=banded krait, venom, Peptide Mutant, 118 aa]",
+      "sequence": "NMVQFKSMVQCTSTRPWLDYVDYGCNCDIGGTGTPLDELDRCCQTHANCYTEARKFPECAPYYKTYSYTCSGGTITCNADNDECAASVCNCDRTAALCFAGAPYNQNNFDVDLETRCQ",
+      "length": 118,
+      "toxin_type": "Phospholipase A2",
+      "species": "Bungarus fasciatus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB20783.1",
+      "description": "notechis 11'2=non-toxic phospholipase A2 [Notechis scutatus=Australian tiger snakes, ssp. scutatus, venom, Peptide, 118 aa]",
+      "sequence": "NLYQFGNMIQCANHGRRPTLAYADYGCYCGAGGSGTPVDELDRCCKAHDDCYGEAGKKGCYPTLTLYSWQCIEKTPTCNSKTGCERSVCDCDATAAKCFAKAPYNKKNYNIDTEKRCQ",
+      "length": 118,
+      "toxin_type": "Phospholipase A2",
+      "species": "Notechis scutatus",
+      "effects": [
+        "Neurotoxicity",
+        "Myotoxicity"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P82942.1",
+      "description": "RecName: Full=Hemorrhagic metalloproteinase-disintegrin-like kaouthiagin; AltName: Full=Snake venom metalloproteinase; Short=SVMP",
+      "sequence": "TNTPEQDRYLQAEKYIEFYVIVDNRMYRYYNYDKPAIKIRVYEMINAVNTKFRPLKIHIALIGLEIWSNEDKFEVKPAASVTLKSFREWRQTVLLPRKRNDNAQLLTGINLNGTAVGIAYPGSLCTQRSVFVVQDYNRRMSLVASTMTHELGHNLGIHHDEASCICIPGPCIMLKKRTAPAFQFSSCSIRDYQEYLLRDRPQCILNKPLSTDIVSPAICGNYFVEEGEECDCGSPAACQSACCDAATCKFNGAGAECRAAKHDCDLPELCTGQSAECPTDSLQRNGHPCQNNQGYCYNGKCPTLTNQCIALLGPHFTVSPKGCFDLNMRGDDGSFCRMEDGTKIPCAAKDVKCGRLYCTEKNTMSCLIPPNPDGIMAEPGTKCGDGMVCSKGQCVDVQTAY",
+      "length": 401,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Naja kaouthia",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q90495.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like ecarin; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQILLVIICLAVFPYQGCSIILGSGNVNDYEVVYPQKVTALPKGAVQQPEQKYEDAMQYEFEVKGEPVVLHLEKNKELFSEDYSETHYSSDDREITTNPSVEDHCYYHGRIQNDAESTASISACNGLKGHFKLRGETYFIEPLKIPDSEAHAVYKYENIENEDEAPKMCGVTQDNWESDEPIKKTLGLIVPPHERKFEKKFIELVVVVDHSMVTKYNNDSTAIRTWIYEMLNTVNEIYLPFNIRVALVGLEFWCNGDLINVTSTADDTLHSFGEWRASDLLNRKRHDHAQLLTNVTLDHSTLGITFVYGMCKSDRSVELILDYSNITFNMAYIIAHEMGHSLGMLHDTKFCTCGAKPCIMFGKESIPPPKEFSSCSYDQYNKYLLKYNPKCILDPPLRKDIASPAVCGNEIWEEGEECDCGSPADCRNPCCDAATCKLKPGAECGNGECCDKCKIRKAGTECRPARDDCDVAEHCTGQSAECPRNEFQRNGQPCLNNSGYCYNGDCPIMLNQCIALFSPSATVAQDSCFQRNLQGSYYGYCTKEIGYYGKRFPCAPQDVKCGRLYCLDNSFKKNMRCKNDYSYADENKGIVEPGTKCEDGKVCINRKCVDVNTAY",
+      "length": 616,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Echis carinatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P17347.3",
+      "description": "RecName: Full=Disintegrin metalloproteinase/disintegrin echistatin; Contains: RecName: Full=Snake venom metalloproteinase; Short=SVMP; Contains: RecName: Full=Disintegrin echistatin; Short=Ech; AltName: Full=Carinatin; AltName: Full=Disintegrin echistatin-alpha-1; AltName: Full=Platelet aggregation activation inhibitor; Contains: RecName: Full=Disintegrin echistatin-alpha-2; Flags: Precursor",
+      "sequence": "IGIAYNRGMCDPKKSVGTVMDHSTEHLSVAVAMAHEMGHNLGMDHDGNQCNCGGAGCVMSEELIESRSYKFSDCSKNQYQNYLTIYKPQCILNQPLRTDTVSTPVSGNELLQNSANPCYDPLTCHPREGEQCESGPCCRNCKFLKEGTICKRARGDDMDDYCNGKTCDCPRNPHKGPATAKGSVLM",
+      "length": 186,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Echis carinatus sochureki",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "U3KRG1.1",
+      "description": "RecName: Full=Snake venom metalloproteinase TM-1; Short=SVMP; AltName: Full=Zinc-dependent metalloproteinase",
+      "sequence": "QQRFPQRYVMLAIVADHGMVTKYSGNSSAITTRVHQMVSHVTEMYSPLNIATTLSLLRIWSSKDLITVQSDSSVTLGSFGDWRKVVLLSQQAHDCAFLNTATALDDSTIGLAYSNGMCDPKFSVGLVQDHSSNVFMVAVTMTHELGHNLGMAHDEAGGCACSSCIMSPAASSGPSKLFSDCSKDDYQTFLTNTNPQCILNAP",
+      "length": 202,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Protobothrops mucrosquamatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DJ43.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like mikarin; AltName: Full=Snake venom metalloproteinase; Short=SVMP",
+      "sequence": "TNTPEQDRYLQVKKYLEYVVVDNNMYRNYGNAGPCVMSAEISFEPLQEFSSCDIQEPLSQDIVQPAVCGNYYVEVGGECDCGSPKPCRSACCNAATCKLQREHQCDSGECCEKKDDCDLPEICTGRSAKCSCVISQGDLGYGMVEPGTKCTDGMVCSNEQCVDVQTAAK",
+      "length": 169,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Micropechis ikaheca",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E9NW27.1",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin PMMP-2; Contains: RecName: Full=Snake venom metalloproteinase; Short=SVMP; Contains: RecName: Full=Disintegrin trimucrin; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVDDYEVVYPRRVSALPKGAVQPKYEDAMQYEFKVNGEAVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIHNDADSTASISACDGLKGYFKLQGETYLIEPLKLPDSEAHAVYKYENIEKEDEAPKMCGVTQNWESDESIKKASQLNLTPLQQRFLQRYVKLAIVVDYRMYIKYNRDSNKITVRAHEMVNHVNEMYKPLNITITLSLLQIWSQNDLITVQPASSITLRLFGNWRKTVLLNQQNHDNAQLLTDIVFNGRTIGKAPVAGMCQPDRSVGVVRDYSSNVFVVAVIMTHELGHNLGMEHDEDKNEKKCKCDTCIMAPAISDPPAQLFSDCSKNDYQLFLTVYNPQCILNAPLRTDTVSTPVSGNEFLEAGEECDCGSPENPCCDAATCKLRPGAQCAEGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRNGLYG",
+      "length": 484,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Protobothrops mucrosquamatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0C7A9.1",
+      "description": "RecName: Full=Snake venom metalloproteinase bothrojaractivase; Short=SVMP",
+      "sequence": "RYIELAVVADHGMFTKYRVHELVNTVNGFFRSKQDLIKVQKDKTLTSFGEWRERDLLPRI",
+      "length": 60,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q0NZX6.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin jararin; AltName: Full=Snake venom metalloproteinase; Short=SVMP",
+      "sequence": "FVANRMAHELGHNLGIDNDRDSCSCGANSCIMSATVSNEPSSRFSDCSLNQYSSDLINYYGCLLNEPLRTDIVSPPFCGNYYPEVGEDCDCGPPANCQNPCCDAATCKLTTGSQCAEGLCCDQCKFIKARQICRKGRGDNPDDRCTGQSGDCPRNS",
+      "length": 156,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q2EI26.1",
+      "description": "RecName: Full=Snake venom metalloproteinase AaPA; Short=SVMP; AltName: Full=Agkistrodon acutus prothrombin activator; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAAFPYQGSSIILESGKVNDYEVVYPQRLAPLPEGAVQQKYEDTMQYEFKVNGEPVVLHLEKNKGLFSKDYSEIHYSPDGRRITTHPLVEDHCYYRGHIRNDADSTASISACHGLKGHFKLRGETYLIEPMKISNSEAHAVYKYENVEKEDEAHKMCGVTQNWESYEPIKKASQLIVSTEFQRYMEIVIVVDHSMVKKYNGDSDKIKAWVYEMINTITESYSYLYIDIILSGLEIWSEKDLINVETSAENTLKSFGEWRAKDLIHRISHDNAQLLTATDFDGPTIGLAYVASMCDPKRSVGVVQDHSSVNRLVAITLAHEMAHNLGVRHDEGSCSCGSGYTCIMSPVINSEVIKYFSDCSYIQCREYISKENPPCILNKPLRTDTVSTPVSGNELLEAEKDYD",
+      "length": 413,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Deinagkistrodon acutus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q2UXQ5.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like EoVMP2; AltName: Full=Haemorrhagic 56 kDa metalloproteinase; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=Zinc metalloproteinase-disintegrin-like Eoc22; Flags: Precursor",
+      "sequence": "MMQVLLVTICLAVFPYQGSSIILESGNVNDYEIVYPQKVTALPIEAILQPEQKYEDAMQYEFEVNGEPVVLHLEKNKNLFTKDYSETHYSPDGREITTKPLIEDHCYYHGRIQNDAHSTASISACNGLKGHFKLQGETYLIEPLKIPDSEAHAVYKYENIEKEDEALKMCGVKHTNWESDEPIKEASQLFATSEQHRFRERYIEFFIVVDQRMYNKHNNDSAAIRTWIFEMLNTVNEIYLPWNIHVPLVGLEFWTQGDLINVVSSADKTLDSFGEWRRRDLLNRKAHDNAHLITAMHFDAQTLGLAYTGSMCHPKYSTGVFQDSSEINIFVAITLAHELGHNLGISHDVPSCTCQTKACIMSPYLSDQPTKLFSNCSEIQYERFLTQRNPKCMINKPLRTDIISPPVCGNGLLEREEECDCGSPENCRDPCCDAASCKLHSWVECESGECCDQCRFKRAGTLCRPARDDCDMAESCSGHSADCPIDGFHANGQPCSHNLGYCYNGKCPLTLYQCRAFLGKDVVGVQESCFQYNRLGNTYAYCRKENGRKIPCAPKDEKCGRLYCSYKSFGDYISCLPCYRANEEDKGMVDEGTKCGEGKVCSNGYCVDLNVAY",
+      "length": 613,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Echis ocellatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q9W7S2.1",
+      "description": "RecName: Full=Snake venom metalloproteinase aculysin-1; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAAFPYQGSSIMLESGKVNDYEVVYPQRLAPLPEGAVQQKYEDTMQYEFKVNGETIVLHLEKNKGLFSKDYSETHYSPDGRKITTYPSVEDHCYYHGRIENYEDSTASISACNGLKGHFKIQGETYFIESLKLSDSEAHAVFKYENVEKEDETHKICGVTQNWKSYDPIKKPSWLNLTPKQQTWPQTSVNLQLIVDHSMYAKYNSNSEKITKTLQERVNIMKEIFKPLNLDITLSGIEMWDKKDLITVKTAATDTLKLFAKWRQTDLLKRIDNDNAQLQTAVDFDGETVGLAFKSTMCDKRYSAGIIQDHSAIPLLMAVTMAHELGHNLGMDHDDTSKCNCNVCIMAPRLNTNPSKTFSDCSNNDYQKFLTDKKPKCIHKKSLKTDTVSTSVSGNEPLDDNVDGFHA",
+      "length": 417,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Deinagkistrodon acutus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q9IAY2.1",
+      "description": "RecName: Full=Snake venom metalloproteinase H5; Short=SVMP; Flags: Precursor",
+      "sequence": "FPYQGSSIMLESGKVNDYEVVYPQRLAPLPEGAVQQKYEDTMQYEFKVNGETIGLHMEKSKGLFSKDYSETHYSPDGRKITTYPSVEDHCYYHGRIENYEDSTASISACNGLKGHFKIQGETYFIESLKLSDSEAHAVFKYENVEKEDETHKMCGVTQNWKSYDPIKKPSWVNLTPKQQTWPQTSVNLQLVVDRSMYAKYNSDSEKITQTLQERVNIMKEIFKPLNLDITLSVIEMWDKKDLITVKTAATDTLKLFPKWRQTDLLKRIDNDNAQLQTAVDFDGETVGLAFKGTMCDKRYSAGIIQDHSAIPLLMAVTMAHELGHNLGMDHDDTYKCNCNVCIMPPRLNTNPSKTFSDCSNNDYQKFLTDKKPKCIHKKSLKTDTVSTSVSGNEPLDDNVDGFHA",
+      "length": 404,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Deinagkistrodon acutus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q90ZI3.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like HV1; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=Vascular apoptosis-inducing protein; Short=VAP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPRKVTALPKGAVQQKYEDAMQYEFTVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTNPPVEDHCYYHGRIQNDADLTASISACDGLKGHFKLQGETYIIEPLKLPDSEAHAVFKYENVEKEDEAPKMCGVTQSNWESDESIKEDSQSNLTPAQQKYLNAKKYVKFFLVADHIMYLKYGRNLTTLRTRMFDTVNIVNQILQRINIHVALIGIEIWSKEDKIIVQSVPDVTLKLFATWRESVLLKRKNHDNAHLLTGINFNGPTAGLAYLGGICKPMYSAGIVQDHNKIHHLVAIAMAHEMGHNLGMDHDKDTCTCRAKACVMAGTLSCDASYLFSDCSRQEHRAFLIKNMPQCILKKPLKTDVVSPPVCGNYFVEVGEDCDCGSPATCRDPCCDAATCKLRQGAQCAEGLCCDQCRFKAAGTECRAATDECDMADLCTGRSAECTDRFQRNGQPCQNNNGYCYNRTCPTMNNQCIALFGPNAAVSQDACFQFNRQGNYYGYCRKEQNTKIACEPQNVKCGRLYCIDSSPAKKNPCNIIYSPNDEDKGMVLPGTKCADGMACNSNGQCVDVNRTY",
+      "length": 612,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Protobothrops flavoviridis",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q8UVG0.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like berythractivase; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=ery1; Flags: Precursor",
+      "sequence": "MIQVLLVIICLEAFPYQGSSIILESGNVNDYEVVYPRKVTALSKGAVHPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSEIHYSPDGREITTYPLVEDHCYYHGRIQNDADSSASISACNGLKGHFKLQGEMYLIEPFKLPDSEAHAVFKYENVEKEDEAPKMCGVTETNWESDEPIKKASLLNLTPEQQAYLDAKKYVEFVVVLDHGMYKKYKDDLDKIKRRIYEIVNTMNEMFIPLNICVALTGLEIWSKGDKINVTSESWFTLILFTNWRGADLLKRKSHDNAQLLTNTDFDGSTIGRAHIGSMCHPYLSVGIIQDYSPVNLLVASTMAHEMGHNLGMHHDNDTCTCGAPSCVMAAAISKDPSKLFSNCSQEYQRKYLIKNRPQCLLNKPLRTDIISPPVCGNELLEVGEECDCGTPENCRDPCCNATTCKLTPGSQCVEGLCCDQCRFRKTGTECRAAKHDCDLPESCTGQSADCPMDDFQRNGHPCQNNNGYCYNGKCPTMENQCIDLVGPKATVAEDSCFKDNQKGNDYGYCRKENGKKIPCEPQDVKCGRLYCNDNSPGQNNPCKCIYFPRNEDRGMVLPGTKCADGKVCSNRHCVDVATAY",
+      "length": 612,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops erythromelas",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q5XUW8.1",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase insularinase-A; Short=SVMP; Contains: RecName: Full=Disintegrin insularin; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAAFPYQGSSIILESGNVNDYEVVYARKVTELPKGAVQQKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGRQIITYPPFEDHCYYHGRIENDADSTASISACNGLKGHFKLQGETYLIEPLKLPDSEAHAVYKYENVEKEDEAPKMCGVTETNWESYEPIEKASQSNLTPEQQKFSPRYIELAVVADHGMFTKYNSNLNTIRTRVHEMVNTLNGFFRSVNVDASLANLEVWSKKDLIKVEKDSSKTLTSFGEWRERDLLPRISHDHAQLLTTIVFDQQTIGLAYTAGMCDPRQSVAVVMDHSKKNLRVAVTMAHELGHNLGMDHDDTCTCGAKSCIMASTISKGLSFEFSKCSQNQYQTYLTDHNPQCILNKPLTTVSGNELLEAGEECDCGAPENPCCDAATCKLRPRAQCAEGLCCDQCRFKGAGKICRRARGDNPDDRCTGQSADCPRNRFHA",
+      "length": 476,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops insularis",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "O57413.1",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase TM-3; Short=SVMP; AltName: Full=Atrolysin e; AltName: Full=Fibrinlysin; AltName: Full=Trimutase; Contains: RecName: Full=Disintegrin trimucrin; Flags: Precursor",
+      "sequence": "MIEVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPRKVSALPKGAVQPKYEDAMQYEFKVNGEAVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIHNDADSTASISACDGLKGYFKLQGETYPIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESDESIKKASQLYLTPEQQRFPQRYIKLAIVVDHGMYTKYSSNFKKIRKRVHQMVSNINEMCRPLNIAITLALLDVWSEKDFITVQADAPTTAGLFGDWRERVLLKKKNHDHAQLLTDTNFARNTIGWAYVGRMCDEKYSVAVVKDHSSKVFMVAVTMTHELGHNLGMEHDDKDKCKCDTCIMSAVISDKQSKLFSDCSKDYYQTFLTNDNPQCILNAPLRTDTVSTPVSGNEFLEAGEECDCGSPENPCCDAATCKLRPGAQCAEGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRNGLYG",
+      "length": 481,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Protobothrops mucrosquamatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "O42138.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like ACLD; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=VMP-III; Short=AclVMP-III; Flags: Precursor",
+      "sequence": "MIQVLLVTLCLAVFPYQGSSIILESGNVNDYEVVYPRKVTVLPKGAVQPKYEDAMQYEFKVNGEPVVLHLEKNKQLFSKDYSETHYSPDGREITTYPLVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGEMYLIDPLKLPDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQLNLTPEQQAYLDAKKYVEFVVVLDHGMYTKYKDNLDKIKTRIFEIVNTMNEMFIPLNIRVALICLEIWSDKDKFNMTSAANVTSISFRNWRATDLLKRKSHDNAQLLTVIDFDGPTIGKAYMASMCDPKRSVGIIQDHSTINLMMAVTMAHEMGHNLGMDHDEKYCTCGAKSCVMAKALSRQPSKLFSNCSQEDYRKYLIKRRPKCILNEPNGTDIVSPPVCGNELLEVGEECDCGSPTNCQNPCCDAATCKLTPGSQCADGVCCDQCRFTRAGTECRQAKDDCDMADLCTGQSAECPTDRFQRNGHPCLNDNGYCYNRTCPTLKNQCIYFFGPNAAVAKDSCFKGNQKSNNHTYCRKENGKKIPCAPQDIKCGRLYCFRNLPGKKNICSVIYTPTDEDIGMVLPGTKCEDGKVCSNGHCVDVNIAYKSTTGFSQI",
+      "length": 620,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Agkistrodon laticinctus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P14530.3",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase HR2a; Short=SVMP; AltName: Full=Snake venom metalloproteinase HR2b; AltName: Full=Trimerelysin II; Contains: RecName: Full=Disintegrin flavostatin; AltName: Full=Platelet aggregation activation inhibitor; Flags: Precursor",
+      "sequence": "MIEVLLVTICLAVFPYPGSSIILESGNVDDYEVVYPQKLTALPKGAVQPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIQNDADSTASISACDGLKGYFKLQGETYLIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESDESIKKASQLYLTPEQQRFPQRYIELAIVVDHGMYTKYSSNFKKIRKRVHQMVNNINEMYRPLNIAITLSLLDVWSEKDLITMQAVAPTTARLFGDWRETVLLKQKDHDHAQLLTDINFTGNTIGWAYMGGMCNAKNSVGIVKDHSSNVFMVAVTMTHEIGHNLGMEHDDKDKCKCEACIMSAVISDKPSKLFSDCSKDYYQTFLTNSKPQCIINAPLRTDTVSTPVSGNEFLEAGEECDCGSPSNPCCDAATCKLRPGAQCADGLCCDQCRFKKKRTICRRARGDNPDDRCTGQSADCPRNS",
+      "length": 478,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Protobothrops flavoviridis",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P84035.1",
+      "description": "RecName: Full=Snake venom metalloproteinase basparin-A; Short=SVMP",
+      "sequence": "SHDNAQLLTAIKAYIATMCDPKMAVIMAHEIGHGGYYGYCRKIPCAPEDVKDDDIGMVLPGTK",
+      "length": 63,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops asper",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q9PW36.1",
+      "description": "RecName: Full=Snake venom metalloproteinase acutolysin-C; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAALPYQGSSIMLESGKVNDYEVVYPQRLAPLPEGAVQQKYEDTMQYEFKVNGETIVLHLEKNKGLFSKDYSETHYSPDGRKITTYPSVEDHCYYHGRIENYEDSTASISACNGLKGHFKIQGETYFIESLKLSDSEAHAVLKYENVGKEDETHQICGVTLNWKSYDPIKRPSRLNLTPKQQTWPQTSVNLQLIVDHSMYAKYNSNSEKITKTVQERVNIMKEIFKPLNFDITLSGIEMWDKKDLITVKTAATDTLKLFAKWRQTDLLKRIDNDNAQLQTAVDFDGETVGLAFKSTMCDKRYSAGIIQDHSAIPLLMAVTIAHELGHNLGMDHDDTSKCNCNVCIMAPRLNTNPSKTFSDCSNNDYQKFLTDKKPKCIHKKSLKTDTVSTSVSGNEPLDDNVDGFHA",
+      "length": 417,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Deinagkistrodon acutus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P20165.3",
+      "description": "RecName: Full=Snake venom metalloproteinase trimerelysin-2; Short=SVMP; AltName: Full=H2 metalloproteinase; Short=H2-proteinase; AltName: Full=Trimerelysin II",
+      "sequence": "QRFPQRYIELAIVVDHGMYKKYNQNSDKIKVRVHQMVNHINEMYRPLNIAISLNRLQIWSKKDLITVKSASNVTLESFGNWRETVLLKQQNNDCAHLLTATNLNDNTIGLAYKKGMCNPKLSVGLVQDYSPNVFMVAVTMTHELGHNLGMEHDDKDKCKCEACIMSDVISDKPSKLFSDCSKNDYQTFLTKYNPQCILNAP",
+      "length": 201,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Protobothrops flavoviridis",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "C0HM67.1",
+      "description": "RecName: Full=Snake venom metalloproteinase rhomb-I; AltName: Full=Hemorrhagic metalloproteinase rhomb-I",
+      "sequence": "FSQKYIELVVVADHGMFTKYNGNLNTIRTRVHEIVNTLNGFYRSLNVRVSLTELEIWSNQDLINVQSAAADTLKTFGEWRERVLLNRISHDNAQLLTAIDLADNTIGIAYTGGMCYPKNSVGIVQDHSPKTLLIAVTMAHELGHNLGMKHDENHCHCSASFCIMPPSISEGPSYEFSDCSKDYYQMFLTKRKPQCILNKP",
+      "length": 200,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Lachesis muta rhombeata",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "V5TBK6.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like protein H4 subunit A; AltName: Full=Hemorrhagin 4 subunit A; AltName: Full=Metalloproteinase H4-A; AltName: Full=P-III metalloproteinase H4 subunit A; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=VaH4-A; Flags: Precursor",
+      "sequence": "MIQPLLVVTCLVVFPYQVSSIILESGNVNDYEVVYPQKVTSLPKGAVQQPEQKYEDTMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTNPPVEDHCYYHGHIQNEADSTASISACNGLKGHFKLQGETYLIEPLKIPESEAHAVYKYENIEKEDEAPKMCGVTETNWESDEPIRKASQLVATSEQRRNIQKYIELVIVVDNVMFRKYTGNSTAIRTRIYEIVNTLNVVFRNVHIFVALVGIEIWNKKDQIKVKSAESVTLDLFGDWREKDLLRRKRHDNAQLLTGIDLNEQTLGIAPMSGMCKPKSSVGLIQDYCKSYLLVAIVMAHELGHNLGMDHDDGNCICREMPCIMSPEAGSKPAFYFSDCSWNQYQKFRNDIKSKCIDNKPLKTDIVSPAFCGNYFVEEGEECDCGFPGNCRNPCCNATTCKLTPGSECGDGECCDQCRIQTAGTECRPAWDECDVPEYCTGQSAECPTDVLQRNGQPCKNNNGYCYNGVCPILTNQCISLFGSSVTVAPDRCFNNNLQGTENFHCGMENGRYIKCKPQDKKCGRLFCVEPPTGGGINCKSIRSEGDPDHGMVDLGTKCADGKVCNSNRQCVDVNTAY",
+      "length": 614,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Vipera ammodytes ammodytes",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "R4NNL0.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like protein H3; AltName: Full=H3 metalloproteinase 1; AltName: Full=Hemorrhagin 3; AltName: Full=P-IIIc metalloproteinase H3; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=VaH3; Flags: Precursor",
+      "sequence": "MIQVLLVIICLAVFPYQGSSIILESGNVNDYEVVYLQKVTAMNKGAVKQPEQKYEDTMQYEFKVNGEPVILHLEKNKDLFSEDYSETHYSPDGREITTNPPVEDHCYYHGRIQNDADSTASISACNGLKGHFQLRGETYFIEPLKIPDSEAHAVYKYENVEKEDEAPKTCGVTQTNWESDELIKKASQLNLTPEQQRYLNSPKYIKLVIVADYIMFLKYGRSLITIRTRIYEIVNLLNVIYRVLNIYIALVGLEIWNNGDKINVLPEAKVTLDLFGKWRETDLLNRRKHDNAQLLTGINFNGPTAGLGYLGSMCNPQYSAGIVQDHNKVNFLVALAMAHEMGHNLGMDHDGIQCTCGAKSCIMSGTLSCEASIRFSNCSQEEHRKYLINKMPQCILNKPLKTDIVSPAVCGNYLVELGEDCDCGSPRDCQNPCCNAATCKLTPGSQCADGECCDQCKFGRAGTVCRPANGECDVSDVCTGQSAECPTDQFQRNGHPCQNNNGYCYNGTCPILGKQCISLFGASATVAQDACFQFNRLGNEYGYCRKENGRKIPCAPQDVKCGRLYCFDNLPEHKNPCQIYYTPRDENKGMVDPGTKCGDGMACSSNGQCVDVNTAY",
+      "length": 616,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Vipera ammodytes ammodytes",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A0A0B4U9L8.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like protein F1; AltName: Full=Fibrinogenase 1; AltName: Full=Metalloproteinase F1; AltName: Full=P-IIIa metalloproteinase F1; AltName: Full=Snake venom metalloproteinase; Short=SVMP; AltName: Full=VaF1; Flags: Precursor",
+      "sequence": "MLQVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPQKLTALLKGAIQQPEQKYEDAMQYEFKVNGKPVVLHLEKNKGLFSEDYSETHYSPDGREITTNPPVEDHCYYHGHIQNDAHLTASISACNGLKGHFQLRGETYLIEPLKIPDSEAHAVYKYENVEKEDEGPKKCGVTQTNWKSDEPIKASQFILTPEQRAYMNANKYIKLAIVVDNVMFRKYTGNFTAIRTRIYEIVNTLNLIYTILNIHIALVFLEIWSKGDSINVQSVVDVTLNSFGEWRERDLLNRKRHDNAQLLTGINFNGDTIGFGFVGSMCIPKKSVGIVQDHSKTHLLVATTMAHELGHNLGINHDGDSCTCQANSCIMAAKLSHQPSYQFSDCSINELWMYLISHTPRCILNEPLTTDVVSPAVCGNYVVEEGEECDCGSLWYCRNPCCDAATCKLKPGAECGDGVCCYQCRFVTAGTVCRPARSECDIPEYCSGQSVECPMDHIQKNGKPCLMNHGYCYNGRCPIMIHQCIALWGPGTTVSSDVCFQRNESGQGYSYCRRENNQNIPCAPQDVKCGRLYCKFHNVNTLPCNFKYSDFAPDYGLVDHGTKCGDGKVCNSNRQCVDVNTAY",
+      "length": 614,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Vipera ammodytes ammodytes",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DQT6.1",
+      "description": "RecName: Full=Snake venom metalloproteinase BmooMP-I; Short=SVMP",
+      "sequence": "AFSPRYIELAVVADNGMFTKYNSNLNTIRTRVHEMVNTVNGFYSSVNANASLANLQVWSIKDLIKVEKDSNKTLTSFGEWRERDLLPRISHDHAQLLTTIVFDNYVIGRSRSGKMCDPEQSVGVVRDHSKNNLWVAVTMAHELGHNLDMHHDDTCSCGAKSCIMASVLSKTKSYAFSTCSQNEYQTFLTKHNPQCILNEP",
+      "length": 200,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops moojeni",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "C0L2T8.1",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin; AltName: Full=Metalloproteinase PII; Short=MPII; Contains: RecName: Full=Snake venom metalloproteinase; Short=SVMP; Contains: RecName: Full=Disintegrin Cdc; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAAFPYQGSSIILESGNVNDYEVIYPRKVTALPKGAVQPKYEDTMQYELKVNGQPVVLHLEKNKGLFSKDYSETHYSPDGRKITTNPSVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGEMYIIEPLELSDSEDHAVFKLENVEKEDEAPKMCGVTQNWESNEPIKKASHLNLNPEHQRYVEIVIVVDHGMFTKYNGDSDKIRQRVHQMVNIMKESYRYMYIDISLAGIEIWSNKDLINVQPAAPNTLKSFGEWRETDLPKRKSHDNAQLLTSIDFNGQTIGIANIGAICDPKPSTRVVQDHSKINLRVALTMTHELSHNLGIHHDTGSCSCSGYSCIMSPVISDEPSKYFSDCSYIQCWNFIMNQKPQCILKKPLRTDTVSTPVSGNELLEARIECDCGSIENPCCYATTCKLRPGSQCAEGMCCDQCRFMKKGTVCRVSLVNKNDDTCTGQSADCPRNVLYG",
+      "length": 478,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus durissus collilineatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "C0HJU2.1",
+      "description": "RecName: Full=Snake venom metalloproteinase BpMP-1; Short=SVMP; AltName: Full=Fibrinogenolytic metalloproteinase",
+      "sequence": "YIELAVVADHGMFTKYNSNVNTIRTWVHEMVNSLNGFFRSMXVDDASLVNLEVWSKTLTSFGEWRDLLPRISHDHAQLLTTIVFDQQTIGIAYTAGMCDPSQSVAVVMDHVAVTMAHELGHNLGMDHDDTCTCGAKSCIMASTISKGLSFEFSDCSQNQYQTYVTKHNPQCILNK",
+      "length": 175,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops pauloensis",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A2TK72.1",
+      "description": "RecName: Full=Zinc metalloproteinase recombinant fibrinogenase II; Short=FIIa; Short=rF II; AltName: Full=Snake venom metalloproteinase; Short=SVMP",
+      "sequence": "KREAEANRTPEQQIYDPYKYVETVFVVDKAMVTKYNGDLDKIKTRMYEAANNMNEMYRYMFFRVVMVGLIIWTEEDKITVKPDVDYTLNAFAEWRKTYLLAEKKHDNAQLITGIDFRGSIIGYAYIGSMCHPKRSVGIIQDYSPINLVLAVIMAHEMGHNLGIHHDDGYCYCGGYPCIMGPSISPEPSKFFSNCSYIQCWDFIMNHNPECIDNEPLGTDIISPPLCGNELLEA",
+      "length": 233,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Deinagkistrodon acutus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "J3SDW8.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like 8; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILGSGNVNDYEVVYPRKVTALPKGAAQPKYEDTMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPPVEDHCYYHGRIQNDADSTASISACNGLKGHFKLQGEMYLIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQLNLTPEQQRYLNTKKYIELVIVADNVMVKKYTSNSTAIRTRIYACVNTLNLIYRAFNIHIALVGIEIWSNGDLINVTSAANVTLDLFGNWRRRVLLRHKRHDNAQLLTAIDFDGPTVGLAYGASMCDPRFATGIVQDHSKLDIMVAVTMAHELGHNLGMNHDGNQCNCGGNPCIMSATLNFEPAYQFSDCSRDEHWRYLIDNRPPCILNKPSITDIVSPPVCGNYFVEVGEECDCGLPARCQNPCCNAATCKLRPGTQCEDGECCEQCQFKGAGTECRAASSECDIAESCTGQSADCPTDDFQRNGQPCLNNNGYCYNGTCPTLDDQCISFFGSSKTVAPDVCFNLNLQGQGDFYCRRENTRIFPCAPQDKKCGRLFCVLGPTGNTISCQSTYSQSDLDIGMVDLGTKCGDGRVCNSTRQCVDVNTAY",
+      "length": 612,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "F8S108.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like 4a; AltName: Full=Snake venom metalloproteinase 7; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTISLAVFPYQGSSVILESGNVNDYEVVYPRKVTALPKGAVQPKYEDTMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPTVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGEMYLIEPLKLPDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQSNLTPEQQRYLNAKKYVKLFLVADYIMYLKYGRNLTAVRTRMYDIVNVITPIYHRMNIHVALVGLEIWSNTDKIIVQSSADVTLNLFGNWRATDLLRRKSHDNAQLLTGINFNGPTAGLAYLGGICNTMYSAGIVQDHSKIHHLVAIAMAHEMGHNLGMDHDKDTCTCGTRPCVMAGALSCEASFLFSDCSQKDHREFLIKNMPQCILKKPLKTDVVSPAVCGNYFVEVGEECDCGSPRTCRDPCCDATTCKLRQGAQCAEGLCCDQCRFKGAGTECRAAKDECDMADVCTGRSAECTDSFQRNGQPCKNNNGYCYNGKCPIMADQCIALFGPSATVSQDACFQFNREGNHYGYCRKEQNTKIACEPQDVKCGRLYCFPNSPENKNPCNIYYSPNDEDKGMVLPGTKCADGKACSNGQCVDVTTPY",
+      "length": 610,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "J3S830.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like 3a; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTILAVFPYQGSSIILGSGNVNDYEVVYPRKVTALPKGAVQPKYEDAMQYELKVNGEPMVLHLEKNKQLFSKDYSETHYSPDGREITTYPLVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGEIYLIEPLKLRDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQLVVTAEQQRYLNPYRYVELVIVADHGMFTKYNRNLTEVKTWVYEIVNTLNEIYRYLYIRVALVGLEIWSDGDLSNVTLSSGNTLDSFGEWRKRDLLRRKRHDNAQLLTAIDFSGNTIGRASIANMCDPKYSTGIVQDHSPINLLVAVTMAHEMGHNLGLHHDGKSCTCGDYICIMNATLSHQHSKYFSNCSYNQYWDYINTYTPKCILNEPLRTDIISPPVCGNELLEAGEECDCGSPRNCQYQCCDAATCKLHSWVECESGVCCEQCKFRTAGTECRARRSECDIAESCTGQSADCPTDDFHKNGQPCLNNFGYCYNGNCPIMYHQCYALFGSNVYEAEDSCFESNQKGDDYGYCRKENGEKIPCAPEDVKCGRLYCNDNSPGQNDPCKIFPSNEDEHKEMVLPGTKCADGKFCTNGHCVDVATAY",
+      "length": 610,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "J3SDW6.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like 2d; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILGSGNVNDYEVVYPRKVTALPKGAAQPKYEDTMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPPVEDHCYYHGRIQNDADSTASISACNGLKGHFKLQGEMYLIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQLNLTPEQQRYLNTKKYIELVIVADNVMVKKYTSNSTAIRTRIYACVNTLNLIYRAFNIHIALVGIEIWSNKDLINVISASNVTLDLFGNWRRRVLLRRKRHDNAQLLTAIDLDGPTIGLARVGSMCDPKCSTGIVQDHSKLDVMVAVTMAHELAHNLGINHDGNQCNCGGNPCIMSATLNFEPAYRFSDCSRDEHWRYLIDNRPPCILNKPLITDIVSPPVCGNYFVEVGEECDCGLPAHCQNPCCNAATCKLRPGTQCEDGECCEQCQFTSAGTECRAAKSECDIAESCTGQSADCPTDNFQRNGRPCLNNNGYCYNGKCPTLDHQCISFFGSSATVAPDVCFNLNLKGEGNFYCRRENTRIFPCAPQDKKCGRLFCVLGPTGNTISCQATSSQSNVDIGMVDLGTKCGDGRVCNSNRQCVDVNTAY",
+      "length": 612,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "J3S829.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like 2a; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILGSGNVNDYEVVYPRKVTALPKGAAQPKYEDTMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPPVEDHCYYHGRIQNDADSTASISACNGLKGHFKLQGEMYLIEPLELSDSEAHAVFKYENVEKEDEAPKMCGVTQNWESYEPIKKASQLNLTPEQQRYLNTKKYIELVIVADNVMVKKYTSNSTAIRTRIYACVNTLNLIYRAFNIHIALVGIEIWSNKDLINVISASNVTLDLFGNWRRRVLLRRKRHDNAQLLTAIDLDGPTIGLARVGSMCDPKCSTGIVQDHSKLDVMVAVTMAHELAHNLGINHDGNQCNCGGNPCIMSATLNFEPAYRFSDCSRDEHWRYLIDNRPPCILNKPLITDIVSPPVCGNYFVEVGEECDCGLPAHCQNPCCNAATCKLRPGTQCEDGECCEQCQFTSAGTECRAAKSECDIAESCTGQSADCPTDNFQRNGRPCLNNNGYCYNGKCPTLDHQCISFFGSSATVAPDVCFNLNLKGEGNFYCRRENTRIFPCAPQDKKCGRLFCVLGPTGNTISCQSTYSQSDLDIGMVDLGTKCGDGRVCNSTRQCVDVNTAY",
+      "length": 612,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "U5PZ28.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin BlatH1; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAALPYQGSSIILESGNVNDYEVVYPRKVTALPKGAGQPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSKDYSETHYSSDGRKITTNPPVEDHCYYHGRIENDADSTGSISACNGLKGHFKLQGEMYLIEPLKLSDSEAHAIYKYENVEKEDEAPKMCGVTETNWESYEPIKKASQSNLTPEQQRFNPFKYVELVIVADHRMFTKYNGDLEKIRIKIYEIVNILNEMFRYLYIRIALVDLEIWSNRDLINVTSVAGDTLDSFGNWRETDLLKRKSHDNAQLLTGIDFNGTTIGIAYIASMCNPYLSVGIVQDHSEINFLIAVTMAHEMGHNLGMRHDTDYCTCGGYSCIMCAVLSDQPSKFFSNCSYIQYGKFIMNQNSQCILNEPLGTDIVSPPVCGNEILEVGEECDCGCPTNCQDPCCNAATCKQYSWVQCESGECCEQCRFRAAGTVCRRATDNDMDNRCTGQSADCPSNG",
+      "length": 484,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothriechis lateralis",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "J3SBP9.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin 8; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPRKVTALPKGAAQPKYEDAMQYEFKVNGEPVVLHLEKNKELFSEDYSETHYSPDGREITTYPLVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGETYLIEPLKLSDSEAHAVYKYENVEKEDEASKMCGVTETNWESYEPIKKASQLNLPPEQQRFPQTYIELVVVADHRMYTKYDGDKTEISSIIYEIVNTLTQIFRPLHIRVALIGLEIWSSGELSKVTLSADDTLEAFGEWRETVLMNRKRHDNAQLLTGMIFNETIEGRTYKSGMCNPKHSVGIVRDYRTRRHFVANRMAHELGHNLGIDHDRDSCTCGANSCIMSATVSNEPSSQFSDCSLNKYLNYIVRYQSTTRCLHNEPSETDIVSPPFCGNYFKEVGEDCDCGPPANCQNPCCDAATCKLTTGSQCAEGLCCDQCKFTKKGTACRPARGDWNDDTCTGQSADCPRNGLYG",
+      "length": 488,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "F8RKV9.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like MTP9; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIEVLLVTICFTVFPYQGSSIILESGNVNDYEVVYPQKVPALPKGGVQNPQPETKYEDTMQYEFHVNGEPVVLHLERNKGLFSEDYTETHYAPDGREITTSPPVQDHCYYHGYIQNEADSSAAISACDGLKGHFKHRGETYFIEPLKLSNSESHAIYKDEHVEKEDEIPKICGVTQTTSESDEPIEKISQLTNTPEQDRYLQVKKYIELYVVVDNRMYRNYNSNRDAINERVYEMVNTLNVMYRPLNFFIALIGLEIWSNQDEINIEPEVAVTLRSFGEWRNTTLLPRKRNDNAQLLTGIDFNGATVGLAYVGTLCRPTQSVAVIQDHSKRTSMVASTMAHELGHNLGINHDSASCNCNAGPCIMSATISNQPLSEFSSCSVQEHQRYLLRVRPQCILNKPLSTDIVTPPVCGNYFVERGEECDCGSPQDCQDACCNAATCKLQHDCDSGECCEQCKFKKAGAECRAAKDDCDLPESCTGQSAECPTDSFQRNGHPCQNNQGYCYNGKCPIMTNQCIALKGPGVNVSPDECFTLKQNDPECGFCRIENGTKIPCAEKDKMCGKLLCQEGNATCICFPTTDDPDYGMVEPGTKCGDGKVCINRQCVDVQTAY",
+      "length": 611,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Drysdalia coronoides",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "F8RKW0.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like MTP8; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIEVLLVTICFTVFPYQGSPIILESGNVNDYEVVYPQKVPALPKGGVQNPQPETKYEDTMQYEFHVNGEPVVLHLERNKGLFSEDYTETHYAPDGREITTSPPVQDHCYYHGYIQNEADSSAAISACDGLKGHFKHRGETYFIEPLKLSNSESHAIYKDEHVEKEDEIPKICGVTQTTSESDETIEKISQLTNTPEQDRYLQVKKYIELYVVVDNRMYRNYNSNRDAINERVYEMVNTLNVMYRPLNFFIALIGLEIWSNQDEINIEPEVAVTLRSFGEWRNTTLLPRKRNDNAQLLTGIDFNGATVGLAYVGTLCRPTQSVAVIQDHSKRTSMVASTMAHELGHNLGINHDSASCNCNAGPCIMSATISNQPLSEFSSCSVQEHQRYLLRVRPQCILNKPLRKDIVTPPVCGNYFVERGEECDCGSPQDCQSACCNATTCKLQHEAQCDSGECCEQCKFKKAGAECRAAKDDCDLPESCTGQSAKCPTDSFQRNGHPCQNNQGYCYNGKCLIMTNQCIALKGPGVNVSPDECFTLKQNDPECGFCRIENGTKIPCAEKDKMCGKLLCQEGNATCICFPTTDDPDYGMVEPGTKCGDGKVCINRQCVDVQTAY",
+      "length": 613,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Drysdalia coronoides",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "F8RKW1.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like MTP4; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIEVLLVTICFTVFPYQGSSIILESGNVNDYEVVYPQKVPALPKGGVQNPQPETKYEDTMQYEFHVNGEPVVLHLERNKGLFSEDYTETHYAPDGREITTSPPVQDHCYYHGYIQNEADSSAAISACDGLKGHFKHRGETYFIEPLKLSNSESHAIYKDEHVEKEDEIPKICGVTQTTSESDEPIEKISQLTNTPEQDRYLQVKKYIELYVVVDNRMYRNYNSNRDAINERVYEMVNTLNVMYRPLNFFIALIGLEIWSNQDEINIEPEVAVTLRSFGEWRNTTLLPRKRNDNAQLLTGIDFNGATVGLAYVGTLCSPTQSVAVIQDHSKRTSMVASTMAHELGHNLGINHDSASCNCNAGPCIMSATISNQPFSKFSSCSVQEHQRYLLRVRPQCILNKPLSTDIVTPPVCGNYFVERGEECDCGSPQDCQSACCNATTCKPQHEAQCDSGECCEKCKFKKAGAECRAAKDDCDLPESCTGQSAKCPTDSFQRNGHPCQNNEGYCYNGKCPIMTNQCIALGGPGVNVSPDECFTLKQNVPECGFCRIENGRKIPCAEKDKMCGKLLCEKGNATCICFPTTHDPDYGMVEPGTKCGDGKVCINRQCVDVQTAY",
+      "length": 613,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Drysdalia coronoides",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DM90.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like brevilysin H2b; AltName: Full=Snake venom metalloproteinase; Short=SVMP",
+      "sequence": "QQRYLNAKRYVKLAIVADRSMVTKHNGKLKKLRKWIYRIVNTINEVYRSLNILVALVYLEIWSKEDLINVTSAAKDTLASFGNWRATDLLKRRSHDAAHLLTNIKFDGTTVGKAYVASMCQQDSSVGINQDHSKINLLVALTMAHELGHNLGMSHDVVNTEKQCNCGTCVMAPTISDQISKLFSNCSKNDYENFLTLYKPQCILNEPSKTDIVSPPVCGNELLEVGEECDCGSPETCQNPCCDAATCKLTSGSQCAKGLCCDQCKFSKSGTECRAAKDDCDIAESCTGQSADCPTDDLQRNGQPCGNNAQYCRKGKCPIMTNQCISFYGPNAAVAPDACFDYNLKGEGNFYCRKEQATIFPCAQKDKKCGRLFCVLGPTGKRISCEHTYSQDDPDIGMVLPGTKCADGKVCNSNRECVDVNTAY",
+      "length": 424,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Gloydius brevicauda",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DM89.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like brevilysin H2a; AltName: Full=Snake venom metalloproteinase; Short=SVMP",
+      "sequence": "QQRYLNAKRYVKLAIVADRSMVTKHNGKLKKLRKWIYRIVNTINEVYRSLNILVALVYLEIWSKEDLINVTSAAKDTLASFGNWRATDLLKRRSHDAAHLLTNIKFDGTTVGKAYVASMCQQDSSVGINQDHSKINLLVALTMAHELGHNLGMSHDVVNTEKQCNCGTCVMAPTISDQISKLFSNCSKNDYENFLTLYKPQCILNEPSKTDIVSPPVCGNELLEVGEECDCGSPETCQNPCCDAATCKLTSGSQCAKGLCCDQCKFSKSGTECRAAKDDCDIAESCTGQSADCPTDDLQRNGKPCQNNAGYCYNGKCPIMLNQCISFYGSNATVAPDICFNYNLKGEGNFYCRKEQATIFPCAQKDKKCGRLFCVLGPTGKRISCKNTYSEDDPNYGMVDLGTKCEDGKVCNSNRECVDVNTAY",
+      "length": 424,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Gloydius brevicauda",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DM87.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin stejnitin; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGNSIILESGNVNDYEVVYPRKVTALPKGAVQPKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPSVEDHCYYHGRIQNDADLTASISACNGLKGYFKLQGETYLIEPLKLPDSEAHAVFKYENVEKEDEAPKMCGVTETNWESDEPIKKASQLNLTPDEQRFIELVIVADHRMYTKYDGDETEISSKIYEIANDLNVIFRALYIHVALIGLEIWPSGELCNVTLSADDTLDSFAEWTKRDLQKRKRHDNAQLLTGMIFNEKIEGRAYKKTMCHWKRSVGIVRDHRTRPHFVANRMAHGLGHNLGINHDGDSCTCGANSCIMSATVSNDPSSRFSDCSLNQYSSDIIHNPYTSRCLYNGPWKTDIVSPPVCGNYYVEVGEDCDCGPPANCQNRCCDAATCRLTPGSQCAEGLCCEQCRFSTEGKLCREAKGDWNNDYCSGQSGDCPRNPFRA",
+      "length": 484,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Trimeresurus stejnegeri",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "J9Z332.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin VMP-II; Short=CamVMP-II; AltName: Full=Disintegrin r-Cam-dis; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPRKVTALPKGAVQLKYEDAMQYEFKVNGEPVVLHLEKNKGLFSEDYSETHYSPDGREITTYPPVEDHCYYHGRIQNDADSTASISACNGLKGHFKLQGEMYLIEPLKLSDSEAHAVYKYENVEKEDEASKMCGVTETNWESYEPIKKASQSNIPPEEEAFYQRYIELVVVADHRMYTKYDGDKTEISSIIYEIVNTLTQIFRPLHIRVALIGLEIWSSGELSKVTLSADDTLEAFGEWRKTVLMNRKRHDNAQLLTGMIFNETIEGRTYKSGMCNPKHSVGIVRDYRTRRHFVANRMAHELGHNLGIDHDRDSCTCGANSCIMSATVSNEPSSQFSDCSLNKYLNYIVRYQSTTRCLHNEPSETDIVSPPFCGNYFKEVGEDCDCGPPANCQNPCCDAATCKLTTGSQCAEGLCCDQCKFTKKGTACRPARGDWNDDTCTGQSADCPRNGLYG",
+      "length": 488,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DM97.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin BA-5A; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MMQVLLVTICLAVFPYQGSSIILESGNVNDYEVVYPQKVTALPKGAVQQAEQKYEDAMQYEFEVNGQPVVLHLEKNKDLFSEDYSETHYSPDGKEITTNPPIEDHCYYHGRIQNDAHSTASISACNGLKGHFKLRGETYLIEPLKIPDSEAHAVYKYENIEKEDDAPKMCGVTQTNWESDEPIKEASQLVATSDQQRYYDHFRYIKYFIVVDHRMVEKYNGNLRTIRRRIYQLVNILNEIYLPWNIRAPLVGIEFWNQRDLINVTSSAPYTLDLFGKWRASDLLNRKIHDYTHLLTAIVFVEQILGMAHIATMCHSELSVGLVQDYMPSEHVVAAIMVHEMGHNLGISHDEKYCNCGADSCIMYPQISIPPPVYFSNCSWEQYQNFLTIYKPDCTLIRPSRTDIVSPPVCGNDILEQGEECDCGSPEKCQDPCCDAASCKLHSWIECEFGECCDQCRFKPAGTECRGIRSECDLPEYCTGQSVDCPIDHFHRNGKPCLNNNGAEKGEFQHTGGRY",
+      "length": 515,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bitis arietans",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0C6R9.2",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like alternagin; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Contains: RecName: Full=Disintegrin-like alternagin-C; Short=Alt-C",
+      "sequence": "IISPPVCGNELLEVGEECDCGTPENCQNXCCDAATCKLKSGSQCGHXDCCEQCKFTKSGTECRASMSECDPAEHCTGQSXXCXXDVFHKNGQPCLDNYGYCYNGNCPIMYHAQCYALFGADVYEAEDSCFKDNQKGNYYGYCRKENXXXXXCXXXDVKCGRLYCKDNSPKQNNPCKMFYSNDDEHKGNVLPGTKCE",
+      "length": 196,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops alternatus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q698K8.3",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase brevilysin L4; Short=SVMP; AltName: Full=Snake venom metalloproteinase hxl-1; Contains: RecName: Full=Disintegrin brevicaudin-1a; Contains: RecName: Full=Disintegrin brevicaudin-1b; AltName: Full=Disintegrin adinbitor; AltName: Full=Disintegrin halystatin; Flags: Precursor",
+      "sequence": "EDEAPKMCGVTQNWESYEPIKKASQSNLTPAHQRYIELVIVADHGMFTKYNGDSDKIREWVRQMVNTVDEIYSYMYIDVALAGLEIWSNEDLINVQPAAPHTLDSFGKWRERDLLHRIHHDNAMLLTAIDFDGPTIGLAYVGTMCKPKGSTGVVQDHSTINLRVAVTMAHEIGHNLGIHHDTGSCSCGGYSCIMSPVISHEPSKYFSDCSYTQCWDFIMNQKPQCILNKPLRTDTVSTPVSGNELLEAGEECDCGSPGNPCCDAATCKLRQGAQCAEGLCCDQCRFMKKGTVCRIARGDDMDDYCNGISAGCPRNPFHA",
+      "length": 319,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Gloydius brevicauda",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DL29.1",
+      "description": "RecName: Full=Snake venom metalloproteinase BpirMP; Short=SVMP; AltName: Full=Alpha-fibrinogenase; AltName: Full=Fibrinolytic metalloproteinase; AltName: Full=Zinc metalloproteinase",
+      "sequence": "TYIEVAVVADHRMFKKYNSNLNTIRKWVHEMVNSMNGVYRSMDVHLSLANLEVWSKKDLINVQKDSRETLKSFGEWRERDLLPRISHDNAQLLTAIVFDQQTIGRAYIGGMCDPRHSVGVVMDHSKINLQVAVTMAHELGHNLGMEHDENQCHCDAPSCVMXXXXXXXXXXXXXXCXXXXXXXXXTKHNPQCILNEPL",
+      "length": 198,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bothrops pirajai",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A3R0T9.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like ohanin; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQVLLVTICLVVFPYQGSSIILESGKVNDYEVVYPQKIPVLPKSKIQRREQKMYEDTMKYEFKVNGEPVVLHLERNKELFSKDYTETHYSPDGREITTSPPVEDHCYYHGYIQSDIDSTAILNACNGLKGYFRHHGEAYHIEPLKFSDSEAHAVYKYENIEKEDETPKICGVKHSTWESDEPIEKISQKKDFLEEKKYLELYIVADYVMFRKYGRNVTTIRMRVFDMVNYITVVYKALNIHVALIGFEIWSLKDKFVINASTKNNLLHFSIWRSTVLRKRNDNAQLLTGVDLNGYTLGSAYLKAMCDVLQSVGIVQDYSKSPYLVGAAMAHEIGHNLGMEHDTKTCSCMRGNCIMSPEEEGSDFPMEFSSCSLYDFQNYMLTDTPQCLINKPSNTSIIKNAVCGNYVEEEGEECDCGSPEQCENNCCEAATCKLKPGAKCAKGACCKKCQFKKAGAECRAARNECDLPEFCIGQSAECPMDRFHKNGHSCQNDQGYCFRGYCPTLAKQCITLWGSDAKVAPDECFQNNTNGNEYDYCKKTNNVIIPCKPTDVKCGRLYCTGGTENPSEGEKISSDPCKASYSEIEDIGMVDHRTKCGEKMVCSDGKCIPL",
+      "length": 611,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Ophiophagus hannah",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A8QL59.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like NaMP; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQPLLVAICLVVFPYQGSSTILESGKVRDYEVVYPQKIPSLPKGRLQRREEKTKYENTMKYEFKVNGEPVVLNLEKNKRLFSKDYTETHYSPDGREITTSPPVQDHCYYHGHIQNDADSTAVIRACDGLNGYFKSNGEMYIIEPLKLSDSEAHAVFKYESLEKEDETPKTCGAIHNSGESDETIKKISNTFVTPEKGEEYLEAEKHIELYMVADNLVYRKYSSNITVVRMRIFEILNYVNLYYKILNIHVVLIGLEVWSDEDKILINGSSELTVRSFAAWRHSDLLKHKRNDNAQLLTGIHFDKRVLGIAFIGGMCNNFTSVGAIQDNSIHAVLIAATMTHELGHNLGMNHDTDSCTCNTGPCIMKAALNFKPPYEFSSCSYWDFQNYIMTKSAQCILNDPLTTDIVPTAICGNGFVEEGEECDCGPPEICKNECCEAATCKLKPEAQCASGACCEECQFRRAGELCRAAKDDCDLDELCTGQSAECPMNHFHMNGHPCQNNQGYCFRGTCPTLTKQCIALWGPDAEVAPDGCFMNNQKGNYYGYCKKKNGTNIPCEPENVKCGRLYCIDDSTEENSCKFHFSNENANSGMVQPGTKCGEGMVCGFGECIGLETALGINQ",
+      "length": 621,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Naja atra",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A8QL49.1",
+      "description": "RecName: Full=Zinc metalloproteinase-disintegrin-like BmMP; AltName: Full=Snake venom metalloproteinase; Short=SVMP; Flags: Precursor",
+      "sequence": "MIQALLVTICLAVFPYQGSSIILESGNVNDYEVVYPQKVPLLPKGGVQNPQPKTKYEDTVQYEFEVNGEPVVLHLERNKGLFSEDYTEAHYAPDGREITTRPPVQDHCYYHGYIQNEADSSAAISACDGLKGHFKHQGETYFIEPLKLSDSEAHAIYKDENVEEENETPKICGLTETTWESDEPIRNASLLIYTPEQNRYLKVKKYIEFYVAVDNRMYRHYKRNKPIIKRRVYELVNILNTILRRLNFHIALIGLEIWSKRDKINVQSDVKATLKSFGKWREKKLLPRKRNDNAQLLTRIDFNGNTVGLAALGSLCSVKYSVAVIQDYSKRTSMVASTMAHEMGHNLGINHDRASCTSCGSNKCIMATKRTKPASRFSSCSVREHQRYLLRDRPQCILNKPLITDIVAPAICGNYFVEVGEECDCGSPRDCRSACCNAATCKLKHEAQCDSGECCGKCKFKKVGAKCRAAKDDCDLPERCTGRSAECPTDIFRRNGLPCQNKQGYCYNGKCPTLTNQCIALMGPNVKVSRDSCFTLNQRGKGCGYCRMQNGAKIPCAAKDIKCGKLFCKKRNSGVCNCLILPDDPNYGMVETGTKCGDGMVCSDRKCVKLQTVY",
+      "length": 614,
+      "toxin_type": "Snake Venom Metalloproteinase",
+      "species": "Bungarus multicinctus",
+      "effects": [
+        "Hemorrhagic",
+        "Tissue damage"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A0A1I9KNP0.1",
+      "description": "RecName: Full=Vaa serine proteinase homolog 1; Short=VaaSPH-1; AltName: Full=Enzymatically inactive serine proteinase-like protein SPH-1; AltName: Full=Snake venom serine protease homolog; Flags: Precursor",
+      "sequence": "MVLIRVLANLLVLQLSYAQKSSELVIGGDECNINEHPFLVALHTARSKRFYCAGTLINQEWVLTAARCDRKNIRIILGVHSKNVPNEDEQMRVPKEKFFCLSSKTYTRWDKDIMLIRLKRPVNDSTHIAPLSLPSSPPSVGSVCRIMGWGTITTTKVTYPDVPHCADINMFDYSVCQKVYRKLPEKSRTLCAGILQGGIDSCKVDNGGPLICNGQIQGIVSWGGYPCAQPHKPALYTNVFDYTDWIQSIIAGNITATCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Vipera ammodytes ammodytes",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DJG3.1",
+      "description": "RecName: Full=Thrombin-like enzyme TLBan; Short=SVTLE TLBan; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VIGGDECNINEHPFLVALYYSTFFCGMTLINQEWVLTAAHESEKFPKEKYFIFCPNNKDIMLIRLDKPVSNSEHIAPLSLPSSPPSVGSVCRKPALYTKVFDYLLWIQSIIAGNTATCP",
+      "length": 119,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrocophias andianus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DJF6.1",
+      "description": "RecName: Full=Thrombin-like enzyme chitribrisin; Short=SVTLE chitribrisin; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MMLIRVLANLLILQLSYAQKSSELVIGGDECNINEHRSLVVLFNSSGALCGGTLINQEYVLTAAHCDMPNMQILLGVHSASVLNDDEQARDPEEKYFCLSSNNDTKWDKDIMLIRLNRPVNNSVHIAPLTLPSSPPRLGAICRIMGWGAITSPNETYPDASQCANINILRYSLCQAVYRGMPAQSRIVCAGILRGGKGSCKGDSGGPLICNAQLQGIVSAGGDPCAQPRVPVLYIRVFDYTDWIQSIIEGNRTVTCPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Trimeresurus albolabris",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q5MCS0.1",
+      "description": "RecName: Full=Serine protease harobin; AltName: Full=Fibrin(ogen)olytic enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MPLIRVLASLLILQLSYGKSLDNGAKAITSLDRIIGGFECNPSEHRSLVYLYNSAGFFCSGTLLNHEWVLTAAHCNREDIQIRLGVHNVHVHYEDEQIRVPKEKLCCLSTNNCTQFSQDIMLIRLNSPVNYSEHIAPLSLPSNPPSMGSVCCVMGWGTITSPEVTYPEVPHCVDINILHIPVCQAAYPTMSGKNILCAGILEGGKDSCKGDSGGPLICNGQIQGIVSWGRFPCAQFLEPGIYTKVFDYKDWIEGIIAGNSNVICP",
+      "length": 265,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Hydrophis hardwickii",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q9PT51.1",
+      "description": "RecName: Full=Beta-fibrinogenase brevinase; AltName: Full=Snake venom serine protease; Short=SVSP; Contains: RecName: Full=Beta-fibrinogenase brevinase chain A; Contains: RecName: Full=Beta-fibrinogenase brevinase chain B",
+      "sequence": "VIGGDECNINEHRFLALLYSERFQCGGTLINEEWVLTAAHCDMGNMYIYLGVHNVSVQYDDEQRRYPKKKYFCLSSRNYNQWDNDIMLIRLNRPVRNSAHIAPLSLPSGPPSVGSVCRVMGWGTITSPNETYPDVPHCANINILDYEVCRAAYAGLPATSRTLCAGILEGGKDSCRGDSGGPLICNGEIQGIVSWGGNICAQPREPGLYTKVFDYIDWIQSIIAGNTTVNCPP",
+      "length": 233,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius blomhoffii",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "NP_001310176.1",
+      "description": "snake venom serine protease serpentokallikrein-2 precursor [Protobothrops mucrosquamatus]",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVIGGDECNINEHPFLVLVYYDDYQCGGTLINEEWVLTAAHCNGENMEIYLGMHSKKVPNKDRRRRVPKEKFFCDSSKNYTKWNKDIMLIRLNRPVRKSAHIAPLSLPSSPPSVGSVCRIMGWGTISPTKVTLPDVPRCANINLLDYEVCRAVYPELPATSRTLCAGILEGGKDSCGGDSGGPLICNGQFQGIVSWGGDPCAQPHEPGLYTNVFDHLDWIKGIIAGNTDVTCPL",
+      "length": 257,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Protobothrops mucrosquamatus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "D8MIA3.1",
+      "description": "RecName: Full=Snake venom serine protease rhinocerase 5; Short=BG-RHIN5; Short=SVSP; Flags: Precursor",
+      "sequence": "VLIRVLANLLLLQLSYAQESSELVIGGDECDINEHPFLVALHTARSKRFHCAGTLLNKEWVLTAAHCDMENMQIYLGLHNISRPNQDQKRRVPKQKFFCLSNKTYTRWDKDIMLIKLNSPVPYSTHIAPLSLPSSPPIVGSVCRIMGWGATKSPNENVPHVPHCANINILHYSVCRATYGRLPAKSRTLCAGIPRRRIGSCLGDSGGPLICNGQVEGIVSWASKPCVHNGAPGMYTKVYDYTDWIRSIIGGNTSATCPL",
+      "length": 259,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bitis rhinoceros",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "D8MIA2.1",
+      "description": "RecName: Full=Snake venom serine protease rhinocerase 4; Short=BG-RHIN4; Short=SVSP; Flags: Precursor",
+      "sequence": "VLIRVLANLLVLQLSYAQKSSELVIGGAECNINEHRSLALVYNSSGLLCCGILINQEWVLSAAHCDMENMQIYLGLHNISRPNQDQKRRVPKQKFFCLSNKTYTRWDKDIMLIKLNSPVPYSTHIAPLSLPSSPPIVGSVCRIMGWGATKSPNENVPHVPHCANINILHYSVCRATYGRLPAKSRTLCAGIPRRRIGSCLGDSGGPLICNGQVEGIVSWASKPCVHNGAPGMYTKVYDYTDWIRSIIGGNTSATCPL",
+      "length": 257,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bitis rhinoceros",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "D8MIA1.1",
+      "description": "RecName: Full=Snake venom serine protease homolog rhinocerase 3; Short=BG-RHIN3; AltName: Full=Venom serine proteinase-like protein 3; Flags: Precursor",
+      "sequence": "VLIRVLANLLLLQLSYAQESSELVIGGDECDINEHPFLVALHTARSKRFHCAGTLLNKEWVLTAARCDMENMQIYLGLHNISRPNQDQKRRVPKEKHFCVSSKTYTRWDKDIMLIRLKRPVNDGTHIAPLSLPSNPPSVGSVCRIMGWGSITTTKVTYPDVPHCANIKLFDYSVCRDAYKGLPEKSRTLCAGILEGGIDSCKVDNGGPLICNGQFQGIGSWEGHPCAQPLKPALYTNVFEYTDWIEGIIARNTTVTCPP",
+      "length": 259,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bitis rhinoceros",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "D8MIA0.1",
+      "description": "RecName: Full=Snake venom serine protease homolog rhinocerase 2; Short=BG-RHIN2; AltName: Full=Venom serine proteinase-like protein 2; Flags: Precursor",
+      "sequence": "VLIRVLANLLLLQLSYAQESSELVIGGDECDINEHPFLVALHTARSKRFHCAGTLLNKEWVLTAARCDRKNIRIKFGVHNKNVQNEDEEMRVPKEKHFCVSSKTYTRWDKDIMLIRLKRPVNDGTHIAPLSLPSNPPSVGSVCRIMGWGSITTTKVTYPDVPHCANIKLFDYSVCRDAYKGLPEKSRTLCAGILEGGIDSCKVDNGGPLICNGQFQGIGSWEGHPCAQPLKPALYTNVFEYTDWIEGIIARNTTVTCPP",
+      "length": 259,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bitis rhinoceros",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "C0HLA3.1",
+      "description": "RecName: Full=Snake venom serine protease LmrSP-4; Short=SVSP",
+      "sequence": "VFGGDECNINEHRSLVVLFDSDGFLCAGTLINKEWVLTAAHCDSENFQMQLGV",
+      "length": 53,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Lachesis muta rhombeata",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "C0HK19.1",
+      "description": "RecName: Full=Thrombin-like enzyme collinein-3; Short=SVTLE collinein-3; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "WDKDIMLIRLNKPVSYSEHIAPLSLPSSPPIVGSVCRPHCANINLLDYEVCRTAHPQFRLPATSRILCAGVLEGGIDTCHR",
+      "length": 81,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Crotalus durissus collilineatus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "B5U6Y3.1",
+      "description": "RecName: Full=Serine protease sp-Eoc49; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLVLQLSYAQMSSELVVGGGECNRNRHRSLALLYNSSGTLCGGTLIHEEWVLSAAHCDMENMKIYLGLHNLSLPNKDQQKREPRETHFCLPSRNYTLWDKDIMLIKLNRPVNNSPHIAPISLPSNPPRLRSVCHIMGWGAITSPNETYPDVPHCANINILRYSVCRAAFGRLPAQSRTLCAGILRGGIDTCLGDSGGPLICNGQIQGIVSWGAEVCAKPHAPGLYTKVSDYTDWIQSIIAGNTTATCPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Echis ocellatus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P18965.2",
+      "description": "RecName: Full=Factor V activator RVV-V gamma; AltName: Full=Russel's viper venom FV activator gamma; Short=RVV-V gamma; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIKVLANLLVLQLSYAQKSSELVVGGDECNINEHPFLVALYTSASSTIHCAGALINREWVLTAAHCDRRNIRIKLGMHSKNIRNEDEQIRVPRGKYFCLNTKFPNGLDKDIMLIRLRRPVTYSTHIAPVSLPSRSRGVGSRCRIMGWGKISTTEDTYPDVPHCTNIFIVKHKWCEPLYPWVPADSRTLCAGILKGGRDTCHGDSGGPLICNGEMHGIVAGGSEPCGQHLKPAVYTKVFDYNNWIQSIIAGNRTVTCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Daboia siamensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E5L0E5.1",
+      "description": "RecName: Full=Venom plasminogen activator; Short=APL-PA; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVVGGDECNINEHRSLVVFFNSSGFLCGGTSINQEWVLTAAHCDSKNFQMLFGVHSKKILNEDEQTRDPKEKFICPNRKKDDERDKDIMLIRLDSPVSNSEHIAPLSLPSSPPSVGSVCRIMGWGTISPTKVTYPDVPHCANINILDHAVCRAAYPTLLAESSTVCAGTQQEGKDTCGGDSGGPLICNGQIQGIVSWRAHPCGQGLKPGVYTKVFDYTDWIQSIISGNTDVTCPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Agkistrodon piscivorus leucostoma",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E5L0E6.1",
+      "description": "RecName: Full=Protein C activator; Short=APL-C; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILHLSYAQKSSELVIGGDECNINEHRFLALVYANGSLCGGTLINQEWVLTARHCDRGNMRIYLGMHNLKVLNKDALRRFPKEKYFCLNIRNDTIWDKDIMLIRLNRPVRNSAHIAPLSLPSNPPSVGSVCRVMGWGTITSPNATLPDVPHCANINILDYAVCQAAYRGLAATTLCSGILEGGKDTCKGDSGGPLICNGQFQGILSVGGNPCAQPRKPGVYTKVFDYTDWIQSIISGNTDAACPP",
+      "length": 255,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Agkistrodon piscivorus leucostoma",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E5L0E4.1",
+      "description": "RecName: Full=Beta-fibrinogenase-like; Short=RVBF; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIKVLANLLVLQLSYAQKSSELVVGGDECNINEHRSLVFLYNNSFGCSGTLINQQWVLSAVHCDMENVRIYLGVHNLTLRNNAEIRLPEERFFCLSNKNYTKWDKDIMLIKLDRPVKTSTYIAPLSLPSSPPRVGSVCRIMGWGAITSPNETFPGVTHCANINILPYSVCRAAYKGLPAQSRTLCGGILEGGIGSCMGDSGGPLICNGEMHGIVAWGDDTCAQPHKPVHYTKVYDYTDWIQSIIAGNTAATCPP",
+      "length": 256,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Daboia siamensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E5L0E3.1",
+      "description": "RecName: Full=Alpha-fibrinogenase-like; Short=RVAF; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLVLQLSYAQKSSELVVGGHPCNIYEHHFLAFMYNSSGFMCSGTLINQQWVLSAAHCDMENMHIYLGLHSFKLPNKDQKKRVAKEKFFCLSSKSYTKWDKDIMLIKLNKPVTYSTHIASLSLPSNPPRVGSVCRIMGWGSITSPKKILPFVPHCANINIVPYTVCRVIYRPLPEQSRTLCAGVSGRRIGSCLGDSGGPLICNGQIQGIVSWGSDPCVNRGAPSIYTKVFDYTDWIHSIIAGNTAATCPS",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Daboia siamensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DL27.1",
+      "description": "RecName: Full=Thrombin-like enzyme BpirSP41; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VVGGDECDINEHPFLAFLYSHGYFCGLTLINQEWVLTAAHCDRRFMRIYL",
+      "length": 50,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrops pirajai",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A8QL56.1",
+      "description": "RecName: Full=Alpha- and beta-fibrinogenase OhS1; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MALIRVLASLLILQLSYAVTPFDRIIGGFECNEYEHRSLVHLYNSSGFFCSGTLLNHEWVLTAAHCNRDDIQIKLGVHNVSVNYEDEQIRVPKEKLCCHSTNNCTQLGQDIMLIRLNSSVNYSEHIAPLSLPSNRPSMGSVCRVMGWGLLTSPEVTFPKVPHCVDINILHIQVCQAAYPSMSENYLLCAGVLEGGKDSCKGDSGGPLICNREIQGIVSWGGFPCAQLLEPGVYTKVFDYIDWIEGIIAGNTSVTCPSDNF",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Ophiophagus hannah",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A8QL53.1",
+      "description": "RecName: Full=Snake venom serine protease NaSP; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLASLLILQLSYSKSLDDGAKESAYDDEIQQSSWGNSTVNTTLTETVVIQLIMGGSECYKSKHPFLVYLYNSAGFFCSGTLLNHEWVLTAAHCNRDDIQLKLGVHNVHVHYEDEQIRVPKEKLCCLSTKNCTQWSQDIMLIRLNSSVNNSKHIEPLSLPSRPPSMGSDCTVMGWGTITSPKVTYPKVPHCVDIKILHNPVCQAAYPTMSRKNILCAGVLEGGKDSCKGDSGGPLICDGQIQGIVSWGRFPCAQLLEPGVYTKVFDYIDWIRGIIAGN",
+      "length": 282,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Naja atra",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A8QL57.1",
+      "description": "RecName: Full=Snake venom serine protease BmSP; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIGVLASLLILQLSYSKSLDDGAKESAYDDEIQQSSWGNSTVNTTLTETVVIQLIMGGSECYKSKHPFLVYLYNSAGFFCSGTLLNHEWVLTAAHCNRDDIQLKLGVHNVHVHYEDEQIRVPKEKLCCLSTKNCTQWSQDIMLIRLNSSVNNSKHIEPLSLPSRPPSMGSDCTVMGWGTITSPKVTYPKVPHCVDIKILHNPVCQAAYPTMSRKNILCAGVLEGGKDSCKGDSGGPLICDGQIQGIVSWGRFPCAQLLEPGVYTKVFDYIDWIKGIIAGN",
+      "length": 282,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bungarus multicinctus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P81824.2",
+      "description": "RecName: Full=Platelet-aggregating proteinase PA-BJ; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "NSLVIVVGGRPCKINVHRSLVLLYNSSSLLCSGTLINQEWVLTAAHCDSKNFKMKLGVHSIKIRNKNERTRHPKEKFICPNRKKDDVLDKDIMLIRLNRPVSNSEHIAPLSLPSSPPSVGSVCYVMGWGKISSTKETYPDVPHCAKINILDHAVCRAAYTWWPATSTTLCAGILQGGKDTCEGDSGGPLICNGLQGIVSGGGNPCGQPRKPALYTKVFDYLPWIESIIAGTTTATCP",
+      "length": 237,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "F8S114.1",
+      "description": "RecName: Full=Thrombin-like enzyme crotalase; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease 2; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVIGGDECNINEHRFLVALYDYWSQSFLCGGTLINEEWVLTAKHCDRTHILIYVGVHDRSVQFDKEQRRFPKEKYFFDCSNNFTKWDKDIMLIRLNKPVSYSEHIAPLSLPSSPPIVGSVCRAMGWGQTTSPQETLPDVPHCANINLLDYEVCRTAHPQFRLPATSRTLCAGVLEGGIDTCNRDSGGPLICNGQFQGIVFWGPDPCAQPDKPGLYTKVFDHLDWIQSIIAGEKTVNCPP",
+      "length": 262,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q9I8X1.2",
+      "description": "RecName: Full=Snake venom serine protease Dav-PA; Short=SVSP; AltName: Full=AaV-SP-I; AltName: Full=AaV-SP-II; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVIGGNECDINEHRFLVAFFNTTGFFCGGTLINPEWVVTAAHCDSTDFQMQLGVHSKKVLNEDEQTRNPKEKFICPNKNNNEVLDKDIMLIKLDKPISNSKHIAPLSLPSSPPSVGSVCRIMGWGSITPVKETFPDVPYCANINLLDHAVCQAGYPELLAEYRTLCAGIVQGGKDTCGGDSGGPLICNGQFQGIVSYGAHPCGQGPKPGIYTNVFDYTDWIQRNIAGNTDATCPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Deinagkistrodon acutus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E0Y418.1",
+      "description": "RecName: Full=Serine protease VLSP-1; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLVLHLSYAQKSSELVIGGDECNINEHPFLALMYNSTSMKFHCSGTLLNEEWVLTAAHCDMENMQIYLGVHDKKNPNKDQQTRVPKEMFFCLSNKSYTPWDKDIMLIRLNSPVTYSTHIAPFSLPSSPPTVGSVCRIMGWGAITSPNETYPDVPHCANIEIYDYSVCRKAYGGLPEKSRTLCAGVLQGGIDTCLADSGGPLICNGQFQGIVAWGRHPCAQPQLPAFYTKVFDYSDWIQSIIAGNTAATCPS",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Macrovipera lebetinus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E0Y421.1",
+      "description": "RecName: Full=Chymotrypsin-like protease VLCTLP; AltName: Full=Snake venom serine protease; Short=SVSP; AltName: Full=Vipera Lebetina with chymotrypsin-like proteolytic activity; Flags: Precursor",
+      "sequence": "MVLIRVLANLLLLQLSYAQKSSELVVGGDECNINEHRSLVFLYNSSFGCGGTLINQQWVLSAAHCDMENVQIYLGLHNLRLRNQDEQIRVAEEKFFCLSNKSYTKWDKDIMLIRLNSSVTYNTHIAPLSLPSSPPRVGSVCRIMGWGAITSPNETFPNVPHCANINILRYSVCRAAYRGLPAQSRTLCAGILQGGIGSCMGDSGGPLICNGEIQGIVSWGDDICAQPHKPVHYTKVFDYSDWIQSIIAGNTTATCPL",
+      "length": 257,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Macrovipera lebetinus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DJF5.1",
+      "description": "RecName: Full=Venom plasminogen activator GPV-PA; AltName: Full=Green pit viper plasminogen activator; Short=GPV-PA; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVFGGRPCNINEHRSLVVLFNSSGFLCGGTLINQDWVVTAAHCDSNNFQLLFGVHSKKTLNEDEQTRDPKEKFFCPNRKKDDEVDKDIMLIKLDSSVNNSEHIAPLSLPSSPPSVGSVCRIMGWGKTIPTKDIYPDVPHCANINILDHAVCRTAYSWRQVANTTLCAGILQGGKDTCHFDSGGPLICNEQFHGIVSWGGHPCGQPREPGVYTNVFDYTDWIQSIIAGNKDATCPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Trimeresurus albolabris",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E0Y419.1",
+      "description": "RecName: Full=Beta-fibrinogenase; Short=VLBF; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLLLQLSHAQKSSELVVGGDECNINEHRSLVFLYNSSFGCGGTLINQEWVLSAAHCDMENMRIYLGWHNFSLPNMNQKRRVAKEKFFCLSSKNYTEWDKDIMLIKMNRPVTYSTHVAPLSLPSSPPSVGSVCRIMGWGAITSPNETYPDVPHCANINILNYTVCRAAHPWLPAQSRTLCAGILQGGIDTCKGDSGGPLICNGQIQGIVSWGDNPCAQPLKPGHYTNVFDYTDWIQSIIAGNTTATCPP",
+      "length": 257,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Macrovipera lebetinus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0CJ41.1",
+      "description": "RecName: Full=Alpha-fibrinogenase albofibrase; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVVGGDECNINEHHSLVAIFNSTGFFCSGTLINQEWVVTAAHCDSKNFKMKFGAHSKKLLNEDEQIRNPKEKFICPNKKSNEILDKDIMLIKLDSPVSNSAHIAPLSLPSSPPSVGSVCRIMGWGSTTPIEVTYPDVPYCANINLLDDAECKPGYPELLPEYRTLCAGIVQGGKDTCGGDSGGPLICNEKLHGIVSYGGHPCGQSHKPGIYTNVFDYNDWIQSIIAGNTDATCLS",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Trimeresurus albolabris",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "E0Y420.1",
+      "description": "RecName: Full=Serine protease VLSP-3; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLVLQLSYAQKSSELVIGGDECNINEHRSLVYLYNDSNFQCGGTLINQEWVLSAAHCDMENMEIYLGVHNLSLPNKDQKRRDPKEKFFCLSSKNYTKWDKDIMLIKLNRPVKTSTHIAPLSLPSSPPSVGSVCRIMGWGTVTSPNETLLDVPHCANINILNYTVCRAASPRLPTQSRTLCAGILQGGIDACKGDSGGPLICNGQIQGIVSWGNHPCAQPLKPGHYTHVFDYTDWIQSIIAGNTTATCPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Macrovipera lebetinus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A7LAC7.1",
+      "description": "RecName: Full=Thrombin-like enzyme 2; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Green pit viper thrombin-like enzyme 2; Short=GPV-TL2; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MMLIRVLANLLILQLSYAQKSSELVIGGDECNINEHRFLVALYDVWSGDFLCGGTLINKEYVLTAAHCETRNMYIYLGMHNKMYQFDDEQRRYPKKKYFFRCSNNFTRWDKDIMLIRLNRPVRNSEHIAPLSLPSSPPSVGSVCRVMGWGTITSPNETLPDVPRCANINLLNYTVCRGVFPRLPARSRTLCAGVLQGGIDTCKRDSGGPLICNGKLQGVVFWGPKPCAQPRKPALYTKVFDHLDWIQSIIAGNTTVTCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Trimeresurus albolabris",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A7LAC6.1",
+      "description": "RecName: Full=Thrombin-like enzyme 1; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Green pit viper thrombin-like enzyme 1; Short=GPV-TL1; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLITVLANLLILQLSYAQKSSELVIGGDECNINEHRFLVALYDVWSGDFLCGGTLINKEYVLTAAHCETRNMYIYLGMHNKNVQFDDEQRRYPKKKYFFRCSNNFTRWDKDIMLIRLNRPVRNSEHIAPLSLPSSPPSVGSVCRVMGWGTITSPNETLPDVPRCANINLLNYTVCRGVFPRLPARSRTLCAGVLQGGIDTCKRDSGGPLICNGQLQGVVFWGPKPCAQPRKPALYTKVFNHLDWIQSIIAGNTTVTCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Trimeresurus albolabris",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "B0FXM2.1",
+      "description": "RecName: Full=Thrombin-like enzyme gyroxin B1.4; Short=SVTLE gyroxin B1.4; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVIGGDECNINEHNFLVALYEYWSQSFLCGGTLINGEWVLTAAHCDRTHFLIYVGVHDRSVQFDKEQRRFPKEKYFFNCGNNFTKWDKDIMLIRLNKPVRNNEHIAPLSLPSSPPSVGSVCRVMGWGQTTSPQNTLPDVPHCANINLLDYEVCRTALPQLRLPATSRILCAGVLEGGIDTCNRDSGGPLICNGEFQGIVFWGPDPCAQPDKPALYSKVFDHLDWIQSIIAGNTIVNCPP",
+      "length": 262,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Crotalus durissus terrificus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "B0FXM1.1",
+      "description": "RecName: Full=Thrombin-like enzyme gyroxin B1.3; Short=SVTLE gyroxin B1.3; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVIGGDECNINEHNFLVALYEYWSQSFLCGGTLINGEWVLTAAHCDRKHILIYVGVHDRSVQFDKEQRRFPKEKYFFNCRNNFTKWDKDIMLIRLNKPVSYSEHIAPLSLPSSPPIVGSVCRVMGWGTIKSPQETLPDVPHCANINLLDYEVCRTAHPQFRLPATSRILCAGVLEGGIDTCHRDSGGPLICNGEFQGIVSWGDGPCAQPDKPALYSKVFDHLDWIQNIIAGSETVNCPS",
+      "length": 262,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Crotalus durissus terrificus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0DJ86.1",
+      "description": "RecName: Full=Thrombin-like enzyme leucurobin; Short=Leuc; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VIGGDECDINEHPFLAFMYYSPRYFCGMTLINQEWVLTAAHCNRRFMRIXXXXHAGSVANYDEVVRXXXXXFICPNKKKNVITDKDIMLIRLDRPVKNSEHIAPLSLPSNPPSVGSVCRIMGWGAITTSEDTYPDVPHCANINLFNNTVCREAYNGLPAKTLCAGVLQGGIDTCGGDSGGPLICNGQFQGILSWGSDPCAEPRKPAFYTKVFDYLPWIQSIIAGNKTATCP",
+      "length": 231,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrops leucurus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0CG03.1",
+      "description": "RecName: Full=Thrombin-like enzyme bhalternin; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKASELVIGGDECNINEHRSLVVLFNSSGFLCAGTLINQEWVLTAANCDRKNIRIKLGMHSKNVTNEDEQTRVPKRSTFVSVAKTSHQTLGTRTSMLIRLKRPVNDSPHIAPLSLPSSPPSVGSVCRVMGWGTISPTKVSYPDVPHCANINLLDYEVCREAHGGLPATSRTLCAGILEGGKDSCQGDSGGPLICNGQFQGILSWGVHPCGQPHKPGVYTKVSDYSEWIQSIIAGNTDVTCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrops alternatus",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "B0ZT25.1",
+      "description": "RecName: Full=Snake venom serine protease homolog; Short=TjsvSPH; AltName: Full=Serine proteinase-like protein; Flags: Precursor",
+      "sequence": "MVLVRVLANLLMLQLSYAQKSSELIIGGDECNINEHRFLVALYTFRSRRFHCSGTLINEEWVLSAARCDRKNIRIQLGMHSTNVINEDVQTRVPKEKFFCLSSKTYTKWNKDIMLIRLKKPVNNSTHIAPVSLPSNPPSLGSVCRVMGWGTISATKETHPDVPYCANINILDYSVCRAAYARLPATSRTLCAGILEGGKDSCLTDSGGPLICNGQFQGIVSWGGHPCGQPRKPGLYTKVFDHLDWIKSIIAGNKDATCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Protobothrops jerdonii",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P0C5B4.2",
+      "description": "RecName: Full=Thrombin-like enzyme gloshedobin; Short=SVTLE; AltName: Full=Defibrase; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVQANLLILQLSYAQKSSELIIGGDECNINEHRFLVALYTSRSRRFYCGGTLINQEWVLTAAHCDRKNIRIKLGMHSEKVPNEDAETRVPKEKFFCLSSKTYTKWDKDIMLMRLKRPVNNSTHIAPVSLPSNPPSVDSVCRVMGWGTITSPQETYPDVPHCANINILDYEVCQAAHGGLPATSRTLCAGILKGGKDSCKGDSGGPLICNGQFQGIASWGAHPCGQSLKPGVYTKVFDYTEWIQSIIAGNTDATCPP",
+      "length": 260,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius shedaoensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q6T5L0.2",
+      "description": "RecName: Full=Alpha-fibrinogenase shedaoenase; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VIGGDECNINEHRFLVALYTSRFRTLFCGGTLINQEWVLTAAHCDRKNFRIKLGIHSKKVPNEDEQTRVPKEKFFCLSSKNYTLWDKDIMLIRLDSPVKNSTHIAPFSLPSSPPSVGSVCRIMGWGRISPTEETYPDVPHCVNINLLEYEMCRVPYPEFGLPATSRTLCAGILEGGKDTCRGDSGGPLICNGQFQGIASWGDDPCAQPHKPAAYTKVFDHLDWIKSIIAGNTDASCPP",
+      "length": 238,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius shedaoensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q8UUJ2.2",
+      "description": "RecName: Full=Snake venom serine protease ussurin; Short=SVSP",
+      "sequence": "VIGGVECNINEHRFLVALYTSRSRRFYCGGTLINQEWVLTAAHCDRKNIRIKLGMHSEKVPNEDAQTRVPKEKFFCLSSKTYTKWDKDIMLMRLKRPVNNSTHIAPVSLPSNPPSVGSVCRVMGWGTITSSQETHPDVPHCANINILDYEVCRAAYPELPVTRRTLCAGILEGGKDSCNGDSGGPLICNGQFQGIAYWGADTCAQPREPGLYTKVFDYTDWIQSIISGNTDATCPQ",
+      "length": 236,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius ussuriensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q8UUJ1.2",
+      "description": "RecName: Full=Snake venom serine protease ussurase; Short=SVSP",
+      "sequence": "VIGGVECNINEHGFLALLYSRRFQCGGTLINEEWVLTAAHCDMRNMYIYLGVHNVSVQYDDEQRRYPKKKYFCLSSRNYNQWDKDIMLIRLNRPVRNSAHIAPLSLPSNPPSVGSVCRVMGWGTITSPQETLPDVPHCANINILDYEVCRAAYPELPVTRRTLCAGILEGGKDSCNGDSGGPLICNGQFQGIAYWGADTCAQPREPGLYTKVFDYTDWIQSIISGNTDATCPQ",
+      "length": 233,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius ussuriensis",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "O93421.2",
+      "description": "RecName: Full=Snake venom serine protease pallase; Short=SVSP pallase",
+      "sequence": "VIGGDECNINEHRFLVALYTSRTLFCGGTLINQEWVLTAAHCNMEDIQIKLGMHSKKVPNEDEQKRVPKEKFFCLSSKKLYLWDKDIMLIRLDSPVKNSAHIAPLSLPSSPPSVGSVCRTMGWGRISSTKETYPDVPHCVNINLLEYEMCRAPYPEFELPATSRTLCAGILEGGKDTCVGDSGGPLICNGQFQGIASWGDHPCAQPHKPAAYTKVFDHLDWIENIIAGNTDASCPP",
+      "length": 236,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius halys",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P85109.1",
+      "description": "RecName: Full=Thrombin-like enzyme kangshuanmei; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VIGGDECNINEHRFLVALYHSRSRTFLCGGTLINQEWVLTAAHCDRFFMYIRLGMHNKNVNFDDEQRRSPKEKYFFRCSNNFTKWDKDIMLIRLDSPVNNSAHIAPLSLPSNPPSVGSVCRVMGWGQTTSPQEDLSDVPRCANINLFNFTVCRAAYPWLPATSRVLCAGDMEGGIDTCNRDSGGPLICNGQFQGIVSKGQNLCAQPRKPALYTKVFDHLDWIQSIIAGNKTVTCPP",
+      "length": 236,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius brevicauda",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q2PQJ3.1",
+      "description": "RecName: Full=Thrombin-like enzyme BjussuSP-1; Short=SVTLE BjussuSP-1; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Jararacussin-I; AltName: Full=Snake venom serine protease 1; Short=SVSP; AltName: Full=Thrombin-like enzyme BjussuSP-I; Short=SVTLE BjussuSP-I",
+      "sequence": "VLGGDECDINEHPFLAFLYSHGYFCGLTLINQEWVVTAAHCDSTNFQMQLGVHSKKVLNEDEQTRNPKEKFICPNKNMSEVLDKDIMLIKLDKPISNSKHIAPLSLPSNPPSVGSVCRIMGWGSITIPNETYPDVPYCANINLVDYEVCQGAYNGLPAKTTLCAGVLEGGKDTCVGDSGGPLICNGQFQGIVSYGAHSCGQGPKPGIYTNVFDYTDWIQRNIAGNTDATCPP",
+      "length": 232,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrops jararacussu",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q27J47.1",
+      "description": "RecName: Full=Venom plasminogen activator LV-PA; AltName: Full=LMUT0402S; AltName: Full=Plasminogen activating proteinase; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLITVLANLLILQLSYAQKSSKLVFGGDECNINEHRSLVVLFNSSGFLCAGTLINKEWVLTAAHCDSENFQMQLGVHSKKVPNKDEETRDPKEKFICPNRKKNDEKDKDIMLIRLNRPVSNSEHIALLSLPSSPPSVGSVCRIMGWGTISPTKEIYPDVPHCADINILDHAVCRAAYSGWLATSTTLCAGILEGGKDSCHGDSGGPLICNGQFQGIVSLGRHPCGHPDEPGVYTKVFDYTDWIQSIIAGNTDAACPP",
+      "length": 258,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Lachesis muta muta",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q072L6.1",
+      "description": "RecName: Full=Thrombin-like enzyme asperase; Short=SVTLE; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELVIGGDECNINEHRSLVVLFNSSGFLCAGTLVQDEWVLTAANCDSKNFQMQLGVHSKKVLNEDEQTRDPKEEASLCPNRKKDDEVDKDIMLIKLDSRVSNSEHIAPLSLPSSPPSVGSVCRIMGWGTISPTKETYPDVPHCANINILDHAVCRAAYPWQPVSSTTLCAGILQGGKDTCWGDSGGPLICNGEFQGIVSWGAHPCGQPHNPGVYTKVSDYTEWIKSIIAGNTAAACPP",
+      "length": 259,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Bothrops asper",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P84787.1",
+      "description": "RecName: Full=Thrombin-like enzyme elegaxobin-2; Short=SVTLE; AltName: Full=Elegaxobin II; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VIGGDECNINEHPFLVLVYYDEYQCGGTLINEEWVLTAAHCDGENMEIHLGMHSKKVPNKDRRRRVPKEKFFCDSSKNYTKWNKDIMLIRLNRPVRKSAHIAPLSLPSSPPSVGSVCRIMGWGTISPTEETYPDVPHCANINLLDYEVCRAAYPELPATSRTLCAGILEGGKDSCGGDSGGPLICNGQFQGIVSWGGDPCAQPHEPGSYTNVFDHLDWIKGIIAGNTDATCPL",
+      "length": 233,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Protobothrops elegans",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P84788.1",
+      "description": "RecName: Full=Thrombin-like enzyme elegaxobin-1; Short=SVTLE; AltName: Full=Elegaxobin I; AltName: Full=Fibrinogen-clotting enzyme; AltName: Full=Snake venom serine protease; Short=SVSP",
+      "sequence": "VIGGDECNINEHPFLVLVYYDDYQCGGTLINEEWVLTAAHCNGKNMEIYLGVHSKKVPNKDVQRRVPKEKFFCDSSKTYTKWNKDIMLIRLDRPVRKSAHIAPLSLPSSPPSVGSVCRVMGWGTITSPQETYPDVPHCAKINLLDYSECRAAYPGLPPKSRTLCAGVLEGGKDTCGGDSGGPLICNGQFQGIVSWGGDPCAQPHEPGSYTNVFDHLDWIKGIIAGNTDATCPL",
+      "length": 233,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Protobothrops elegans",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "Q9YGJ9.1",
+      "description": "RecName: Full=Snake venom serine protease Haly-2; Short=SVSP; Flags: Precursor",
+      "sequence": "MVLIRVLANLLILQLSYAQKSSELIIGGDECNINEHRSLVLMYYDGHQCDGTLINEEWVLTAAHCDGENMEIQLGVHSKKVPNEDVQTRVPKEKFFCDSNKTYARWNKDIMLIRLDRPVSNSAHIAPLSLPSSPPSVGSVCRIMGWGTFSTTQETYPDVPHCANINIHDFEVCQAAYPGLPATNRILCAGILEGGKDTCKGDSGGPLICNGEIQGIVSWGGHLCGNVLEPGIYTKVFDHLEWIRSIIAGNTDATCPL",
+      "length": 257,
+      "toxin_type": "Snake Venom Serine Protease",
+      "species": "Gloydius brevicauda",
+      "effects": [
+        "Anticoagulant",
+        "Procoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "P34182.1",
+      "description": "RecName: Full=Zinc metalloproteinase/disintegrin; Contains: RecName: Full=Snake venom metalloproteinase atrolysin-E; Short=SVMP; AltName: Full=Hemorrhagic metalloproteinase HT-E; AltName: Full=Hemorrhagic toxin E; Contains: RecName: Full=Disintegrin atrolysin-E; AltName: Full=Atrolysin-E disintegrin; Short=Atrolysin E/D; Contains: RecName: Full=Disintegrin atrolysin-E (4-73); Contains: RecName: Full=Disintegrin atrolysin-E (3-73); Flags: Precursor",
+      "sequence": "MIQVLLVTICLAAFPYQGSSIILESGNVNDYEVIYPRKVTALPKGAVQPKYEDTMQYELKVNGEPVVLHLEKNKGLFSKDYSETHYSFDGRKITTNPSVEDHCYYHGRIENDADSTASISACNGLKGHFKLQGEMYLIEPLKLSDSEAHAVFKLKNVEKEDEAPKMCGVTQNWESYEPIKKASDLNLNPEHQRYVELFIVVDHGMYTKYNGDSDKIRQRVHQMVNIMKESYTYMYIDILLAGIEIWSNGDLINVQPASPNTLNSFGEWRETDLLKRKSHDNAQLLTSIAFDEQIIGRAYIGGICDPKRSTGVVQDHSEINLRVAVTMTHELGHNLGIHHDTDSCSCGGYSCIMSPVISDEPSKYFSDCSYIQCWEFIMNQKPQCILKKPLRTDTVSTPVSGNELLEAGIECDCGSLENPCCYATTCKMRPGSQCAEGLCCDQCRFMKKGTVCRVSMVDRNDDTCTGQSADCPRNGLYG",
+      "length": 478,
+      "toxin_type": "Disintegrin",
+      "species": "Crotalus atrox",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "ABD34835.1",
+      "description": "venom metalloproteinase and disintegrin jararacin, partial [Bothrops jararaca]",
+      "sequence": "ERDLLVAVTMDHELGHNLGIRHDTGSCSCGGYSCVMSPVISHDISKYFSDCSYIQCWDFIMKENPQCILNKHLRTDTVSTPVSGNELLEAGEECDCGTPGNPCCDAATCKLRPGAQCAEGLCCDQCRFKGAGKICRRARGDNPDDRCTGQSADCPRNRFHA",
+      "length": 161,
+      "toxin_type": "Disintegrin",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "ABD34834.1",
+      "description": "venom metalloproteinase and disintegrin jarastatin, partial [Bothrops jararaca]",
+      "sequence": "RTDTVSTPVSGNELLEAGEECDCGTPGNPCCDAATCKLRPGAQCAEGLCCDQCRFMKEGTVCRRARGDDMDDYCNGISAGCPRNPFHA",
+      "length": 88,
+      "toxin_type": "Disintegrin",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB30855.1",
+      "description": "jararhagin-C=28 kda disintegrin homolog [Bothrops jararaca=snakes, venom, Peptide, 212 aa]",
+      "sequence": "IISPPVCGNELLEVGEECDCGTPENCQNECCDAATCKLKSGSQCGHGDCCEQCKFSKSGTECRASMSECDPAEHCTGQSSECPADVFHKNGQPCLDNYGYCYNGNCPIMYHQCYALFGADVYEAEDSCFKDNQKGNYYGYCRKENGKKIPCAPEDVKCGRLYCKDNSPGQNNPCKMFYSNDDEHKGMVLPGTKCADGKVCSNGHCVDVATAY",
+      "length": 212,
+      "toxin_type": "Disintegrin",
+      "species": "Bothrops jararaca",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB27211.1",
+      "description": "hemorrhagic metalloproteinase HT-1, disintegrin HT-1=31 kda platelet aggregation inhibitor [Crotalus ruber=red rattlesnakes, ssp. ruber, venom, Peptide Partial, 216 aa]",
+      "sequence": "LGTDIISPPVCGNELLEVGEECDCGFPRNCRDPCCDATTCKLHSWVECESGECCGQCKFTSAGNECRPARSECDIAESCTGQSADCPMDDFHRNGQPCLNNFGYCYNGNCPILYHQCYALFGSNVYEAEDSCFERNQKGDDDGYCRKENGEKIPCAPEDVKCGRLYCKDNSPGPNDSCKTFNSNEDDHKEMVLPGTKCADGKVCSNGHCVDVASAY",
+      "length": 216,
+      "toxin_type": "Disintegrin",
+      "species": "Crotalus ruber",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB27210.1",
+      "description": "hemorrhagic metalloproteinase HR1A, disintegrin HR1A=32 kda platelet aggregation inhibitor [Trimeresurus flavoviridis=Okinawa habus, venom, Peptide Partial, 209 aa]",
+      "sequence": "IVSPPVCGNELLEVGEECDCGSPATCRYPCCDAATCKLHSWVECESGECCEQCRFRTAGTECRARRSECDIAESCTGHSADCPTDRFHRNGQPCLHNFGYCYNGNCPIMYHQCYALWGANATVAKDSCFEDNQKGNDYGYCRKENGRKIPCEPQDVKCGRLYCSLGNQLPCRFFYTPTDENIGMVDTGTKCGDKKVCSNRQCVDVNTAY",
+      "length": 209,
+      "toxin_type": "Disintegrin",
+      "species": "Protobothrops flavoviridis",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB22478.1",
+      "description": "coagulation factor X activating enzyme light chain, RVV-X-light chain, LC1=metalloproteinase with disintegrin (platelet aggregation inhibitor)-like and C-type lectin-like domains [Vipera russelli=Russell's viper, Siamensis, venom, Peptide, 123 aa]",
+      "sequence": "VLDCPSGWLSYEQHCYKGFNDLKNWTDAEKFCTEQKKGSHLVSLHSREEEEFVVNLISENLEYPATWIGLGNMWKDCRMEWSDRGNVKYKALAEESYCLIMITHEKEWKSMTCNFIAPVVCKF",
+      "length": 123,
+      "toxin_type": "Disintegrin",
+      "species": "Daboia russelii",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAB22477.1",
+      "description": "coagulation factor X activating enzyme heavy chain, RVV-X-heavy chain=metalloproteinase with disintegrin (platelet aggregation inhibitor)-like and C-type lectin-like domains [Vipera russelli=Russell's viper, Siamensis, venom, Peptide, 429 aa]",
+      "sequence": "LVSTSAQFNKIFIELVIIVDHSMAKKCNSTATNTKIYEIVNSANEIFNPLNIHVTLIGVEFWCDRDLINVTSSADETLNSFGEWRASDLMTRKSHDNALLFTDMRFDLNTLGITFLAGMCQAYRSVEIVQEQGNRNFKTAVIMAHELSHNLGMYHDGKNCICNDSSCVMSPVLSDQPSKLFSNCSIHDYQRYLTRYKPKCIFNPPLRKDIVSPPVCGNEIWEEGEECDCGSPANCQNPCCDAATCKLKPGAECGNGLCCYQCKIKTAGTVCRTRRARDECDVPEHCTGQSAECPRDQLQQNGKPCQNNRGYCYNGDCPIMRNQCISLFGSRANVAKDSCFQENLKGSYYGYCRKENGRKIPCAPQDVKCGRLFCLNNSPRNKNPCNMHYSCMDQHKGMVDPGTKCEDGKVCNNKRQCVDVNTAYQSTTG",
+      "length": 429,
+      "toxin_type": "Disintegrin",
+      "species": "Daboia russelii",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "A43020",
+      "description": "platelet aggregation disintegrin (jararacin), venom - jararacussu",
+      "sequence": "EAGEECDCGTPGNPCCDAATCKLRPGAQCAEGLCCDQCRFKGAGKICRRARGDNPDDRCTGQSADCPRNRFHA",
+      "length": 73,
+      "toxin_type": "Disintegrin",
+      "species": "Bothrops jararacussu",
+      "effects": [
+        "Platelet aggregation inhibitor"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AEI52542.1",
+      "description": "venom Kunitz trypsin inhibitor protein 2 [Vipera renardi]",
+      "sequence": "MSSGGLLLLLGLLTLWAELTPISGQDHPVFCYLPADPGICKAHKPRFYYNPASNKCKEFFYGGCGGNANNFKTRDECHHTCVASAMGRPT",
+      "length": 90,
+      "toxin_type": "Kunitz-type Serine Protease Inhibitor",
+      "species": "Vipera renardi",
+      "effects": [
+        "Enzyme inhibitor",
+        "Anticoagulant"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_070812689.1",
+      "description": "cysteine-rich venom protein latisemin-like [Pituophis catenifer annectens]",
+      "sequence": "MWHEEMIAFIVLLSVAAVLQQSPGNADFASESSNKRENQKEIVDKHNALRRSVRPTARNMLQMEWNSNAAQNAKRWADRCSFNHSPRHLRTVGKLSCGENLFMSSHPHSWTGVIQAWYNEYKKFRYGVGANPPGSVIGHYTQIVWYKSYLVGCAAARCTSSRFNYFYVCHYCPAGNIVGSIATPYKSGPPCGDCPSACVNGLCTNPCEYENNFSNCEDLAKQFGCQSAWIKSNCPASCFCRNEII",
+      "length": 245,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pituophis catenifer annectens",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_070812678.1",
+      "description": "cysteine-rich venom protein TEL1 [Pituophis catenifer annectens]",
+      "sequence": "MIVFILLSLAAVLQQSFGNVDFDSESPRRQDKQREIVDMHNSFRRSVSPTASNMLKMEWYSEAASNAERWAYRCVLGHSPDTSRILEGIKCGENIYMSSVPLAWTEIIQLWYNEYKNFIYGVGANPEGSVIGHYTQIVWYKSYRIGCAAYYCPSSSYNYFYVCQYCPAGNLIGLTATPYKSGPTCGDCPSACDNGLCTNPCLHKDEFTNCKSLVQQSNCQNDWIRENCPATCFCPTEII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pituophis catenifer annectens",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_070588619.1",
+      "description": "cysteine-rich venom protein LIO1 [Erythrolamprus reginae]",
+      "sequence": "MIVFILLSFAAVLQQSFGLIDIDSQSPRRPEIQNLIVDTHNSYRRSVSPTATNMLKMEWYPEAAASAERWAYQCVYDHSQDYERVIDGIQCGENIFKSSNVRPWTEVLQSWYDEYRNFVFGVGANPSDSVIGHYTQIVWYKSYRVGCAVAYCPSNPYNYFYVCQYCPAGNFAGQTATPYNSGPTCEDCPSACDDRLCTNPCTRQNDFTNCNDLVRQSGCQDEWMKSKCSASCFCKNKII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Erythrolamprus reginae",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_070588618.1",
+      "description": "cysteine-rich venom protein kaouthin-2-like [Erythrolamprus reginae]",
+      "sequence": "MIAFIVLLSLAAVLQQSSGNVDFASESGNKREHQKEIVDKHNALRRSVRPTARNMLQMEWNANAAQNAKRWADRCSFSHSPPNLRTVGNVACGENLFMSSHPFTWTRVIQSWYDEYKNFRFGVGASPPGSVIGHYTQIVWYKSYLIGCAVARCSSSSFKYYHVCHYCPAGNIRGSIPTPYKPGPPCGDCPSACVNGLCTNPCKHNDVFTNCNSLAKQSRCQSDRIRSICPASCFCRTEII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Erythrolamprus reginae",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "6IMF_A",
+      "description": "Chain A, Cysteine-rich venom protein triflin",
+      "sequence": "NVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSSRDSRVIGGIKCGENIYMATYPAKWTDIIHAWHGEYKDFKYGVGAVPSDAVIGHYTQIVWYKSYRAGCAAAYCPSSKYSYFYVCQYCPAGNIIGKTATPYKSGPPCGDCPSDCDNGLCTNPCTRENEFTNCDSLVQKSSCQDNYMKSKCPASCFCQNKII",
+      "length": 221,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Protobothrops flavoviridis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAK9411069.1",
+      "description": "VENOM COMPONENT: cysteine-rich secretory protein-3 [Crotalus adamanteus]",
+      "sequence": "MIAFIVLPILAAVLQQSSGSVDFDSESPRKPEIQNKIVDLHNSLRRSVNPTASNMLKMEWYPEAADNAERWAYRCIDSHSPRDSRVLGGIKCGENIYISPVPIKWTEIIHAWHGENKNFKYGIGADPPNAVTGHFTQVIVWYKSYHVGCAAAYCPSSEYSYFYVCQYCPAGNIRGKTATPYKSGPPCGDCPSACDNGLCTNPCTKEDKYSNCKSLVQQAGCQDKQMQSDCSAICFCQNKII",
+      "length": 241,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Crotalus adamanteus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_063147517.1",
+      "description": "cysteine-rich venom protein kaouthin-2-like [Candoia aspera]",
+      "sequence": "MIALVLLLSLAAVLQQSSGNGHFAAESTSRIEKQKEIVDRHNYLRRTVNPKASNMLQMEWHSNAAKNAKSWADKCSFGHSPANLRTVEKLNCGENLFMSTHPHSWTAVLQSWHDEAKNFQHGIGPRPANAVTGHYTQMVWYNSYRVGCAAVKCPTSKFYYVCHYCPAGNIVTSVAMPYKAGPPCGDCPSACVNGLCTNPCKYQDTYSNCPDLVKDKKCKGDWITRACPASCFCPTEIK",
+      "length": 238,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Candoia aspera",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_034288380.1",
+      "description": "cysteine-rich venom protein latisemin-like isoform X2 [Pantherophis guttatus]",
+      "sequence": "MIAFIVLLSVAAVLQQSPGNADFASESSNKRENQKEIVDKHNALRRSVRPTARNMLQMEWNSNATQNAKRWADRCSFNHSPQHLRTVGKLSCGENLFMSSHPHSWTRVIQAWYNEYKKFRYGVGANPPGSVIGHYTQIVWYKSYLVGCAAARCTSSRFNYFYVCHYCPAGNIVGSIATPYKSGPPCGDCPSACVNGLCTNPCKYENRFSNCESLAKQMGCQSAWIKSNCPASCFCRNEII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pantherophis guttatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_034288379.1",
+      "description": "cysteine-rich venom protein latisemin-like isoform X1 [Pantherophis guttatus]",
+      "sequence": "MWHEEMIAFIVLLSVAAVLQQSPGNADFASESSNKRENQKEIVDKHNALRRSVRPTARNMLQMEWNSNATQNAKRWADRCSFNHSPQHLRTVGKLSCGENLFMSSHPHSWTRVIQAWYNEYKKFRYGVGANPPGSVIGHYTQIVWYKSYLVGCAAARCTSSRFNYFYVCHYCPAGNIVGSIATPYKSGPPCGDCPSACVNGLCTNPCKYENRFSNCESLAKQMGCQSAWIKSNCPASCFCRNEII",
+      "length": 245,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pantherophis guttatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_034288378.1",
+      "description": "cysteine-rich venom protein TEL1 [Pantherophis guttatus]",
+      "sequence": "MIVFILLSLAAVLQQSFGNVDFDSESPRRQDKQREIVGMHNSFRRSVSPTASNMLKMEWYSEAASNAERWAYRCVLGHSPDTSRILEGIKCGENIYMSSVPLAWTEIIQLWYNEYKNFIYGVGANPEGSVIGHYTQIVWYKSYRIGCAAYYCPSSSYNYFYVCQYCPGGNLKGSTATPYKSGPTCGDCPSACDNGLCTNPCLHKDEFTNCKSLVQQSNCQNDWIRENCPATCFCPTEII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pantherophis guttatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_058020710.1",
+      "description": "cysteine-rich venom protein latisemin-like [Ahaetulla prasina]",
+      "sequence": "MITFIVLLSVAAVLQQSPGNADFASESSNKRENQKEIVDKHNALRRSVRPTARNMLQMEWSSNAAQNAKRWADKCSFVHSPQHLRTAGRLKCGENLFMSSHPNSWTKVIQAWYDEYKNFKYGIGANPLGSVIGHYTQIAWYKSYLVGCAAARCSSSRYNYFYVCHYCPAGNIIGSIATPYKSGPPCGDCPSACVNGLCTNPCIYENRFSNCDSLAKDIGCQNSFIKSNCPGSCYCRTEII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Ahaetulla prasina",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_058038736.1",
+      "description": "cysteine-rich venom protein ophanin-like [Ahaetulla prasina]",
+      "sequence": "MIVFILLSLAAVLQQSFGKVDFNSESTRRREKQREIVDMHNSFRRSVSPTASNMLKMDWYDEAATSAEYWASVCAYEHSPDSSRTLNGILCGENIYMSSNPRAWSEVIQSWYDEYKDFIYGVGANPPGSVIGHYTQIVWYNSYLLGCAASYCPSSPYNYFYVCQYCPIGNLRGSTATPYKSGPTCGDCPSACDNGLCTNPCTYKNEYTNCKSLAEQSSCQDDWIQTKCPATCFCPDKII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Ahaetulla prasina",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAG8124483.1",
+      "description": "putative Cysteine-rich venom protein [Naja naja]",
+      "sequence": "MIAFIVLLSLAAVLQQSSGTVDFASESSNKRENQKQIVDKHNALRRSVRPTARNMLQMEWNSNAAQNAKRWADRCSFAHSPPHLRTVGKIGCGENLFMSSQPYAWSRVIQSWYDENKKFVYGVGANPPGSVIGHYTQIVWYNSHLLGCGAAKCSSSKYLYVCQYCPAGNIIGSIATPYKSGPPCGDCPSACVNGLCTNPCKHHNVFELPIFSETKCMPD",
+      "length": 219,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Naja naja",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAG8124481.1",
+      "description": "putative Cysteine-rich venom protein [Naja naja]",
+      "sequence": "MIAFSLLCFAAVLQQSFGNVDFNSESTRRKKKQKEIVDLHNSLRRRVSPTASNMLKMEWYPEAASNAERWANTCSLNHSPDNLRVLEGIQCGESIYMSSNARTWTEIIHLWHDEYKNFVYGVGANPPGSMTGHYTQIVWYQTYRAGCAVSYCPSSEWSYFYVCQYCPSGNFQGKTATPYKLGPPCGDCPSACDNGLCTNPCTIYNKLTNCDSLVKQNSCQDDWIKSNCPASCFCRNKII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Naja naja",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAG8124480.1",
+      "description": "putative Cysteine-rich venom protein [Naja naja]",
+      "sequence": "MSSNARAWTEIIQLWHDEYKNFVYGVGANPPGSVTGHYTQNLLPFGEDLEVRSSPSMVLSALSKLETQTRDTKTMQTKGNFEGLTATPYELGPPCGDCPSACDNGVCSTKIEVLFNNGTIQLTNDGKEVGDVIVTSGLAYFIPTMNTTTQVIANFSNDGVKNGKEEGEKDDNADSDTSDEEIEGETNPCKYVNTYSNCESLVNRAGCHIGFVRAHCRATCFCHNKII",
+      "length": 227,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Naja naja",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAG8124478.1",
+      "description": "putative Cysteine-rich venom protein [Naja naja]",
+      "sequence": "MIAFSLLCFAAVLQQSFGNVDFNSESTRREEKQKEIVDLHNSLRRSVSPTASNMLKMEWYPEAASSAERWANNCSLHHSPNSWRVLEGIQCGENLYKSSHPHAWSRVIQSLYDEHEYFTYGVGANPPGSMIGHYTQIASYKTYRVGCAANYCPSSEYNYFYVCQYCPSGNIKGLFATPYKSGPPCGDCPSACDNRLCTNPCKFENAFSNCESLVNTTGCHIGFIRTHCPATCSCHNKII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Naja naja",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "KAG8124477.1",
+      "description": "putative Cysteine-rich venom protein, partial [Naja naja]",
+      "sequence": "MFCCSASTVFGNVDFNSESTRREEKQKEIVDLHNSLRRSVSPTASNMLKMEWYPEAASSAERWANNCSLHHSPNSWRVLEGIQCGENLYKSSHPHAWSRVIQSLYDEHEYFTYGVGANPPGSMIGHYTQIAWYKTYRVGCAANYCPSSEYNYFYVCQYCPSYVSTMISIFVTFIASLIRVILIA",
+      "length": 184,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Naja naja",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_039185516.1",
+      "description": "cysteine-rich venom protein catrin-like [Crotalus tigris]",
+      "sequence": "MIAFTVLSILAAVLQQSSGSVDFDSESPRKPEIQNKIVDLHNSLRRSVNPTASNMLKMEWYPDAAANAERWAYRCVETHSPRDSRVLGEIKCGEYIYIYIYIYIYIYIYIYIYIYIYMSSVPIKWTEIIHGWHDENKNFKYGIGADPPNAVTGHFSQIVWYKSYRVGCAAAYCPSSEYSYFYVCQYCPAGNIIGKTATPYKSGPPCGDCPSACDNGLFTNPCTKEDKYTNCKSLVQQAGCQDKKMQSDCSAICFCQNKII",
+      "length": 260,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Crotalus tigris",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_039185515.1",
+      "description": "cysteine-rich venom protein catrin [Crotalus tigris]",
+      "sequence": "MIAFIVLPILAAVLQQSSGSVDFDSESPRKPEIQNKIVDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSPRDSRVLEGIKCGENIYMSSVPIKWTEIIHGWHGENKNFKYGIGADPPYAVTGHFTQVVWYKSYRVGCAAAYCPSSEYSYFYVCQYCPAGNIIGKTATPYKSGPPCGDCPSACDNGLCTNPCTKEDKYTNCKSLVQQSGCQTKQMQSDCSAICLCQNKII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Crotalus tigris",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_039204466.1",
+      "description": "cysteine-rich venom protein piscivorin-like [Crotalus tigris]",
+      "sequence": "MIAFIILPILAAVLQQSSGSVDFDSESPRKPEIQNEIVDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSPHDSRILGGINCGENIYKSSVPMKWTEIIHAWHGENKDFKYGIGADPPNAVTGHFTQIVWRKSYRVGCAAAYCPSSEYSYFYVCQYCPAGNIIGKTATP",
+      "length": 179,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Crotalus tigris",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_039190751.1",
+      "description": "cysteine-rich venom protein catrin-like [Crotalus tigris]",
+      "sequence": "MWWSPMENETRMQIVWYKSYRVGCAAAYCPSSEYSYFYVCQYCPAGNIIGKTATPYKSGPPCGDCPSACDNGLFTNPCTKEDKYTNCKSLVQQAGCQDKKMQSDCSAICFCQNKII",
+      "length": 116,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Crotalus tigris",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_039190748.1",
+      "description": "cysteine-rich venom protein piscivorin-like [Crotalus tigris]",
+      "sequence": "MIAFIILPILAAVLQQSSGSVDFDSESPRKPEIQNEIVDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSPHDSRILGKSI",
+      "length": 91,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Crotalus tigris",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_032069593.1",
+      "description": "cysteine-rich venom protein kaouthin-2 [Thamnophis elegans]",
+      "sequence": "MIAFIVLLSVAAVLQQSSGDVDFDPESSNKRQSQREIVEKHNALRRSVRPTASNMLQMEWNSNAAQNAKRWADRCTFAHSPGHLRTVGRLGCGENLFMSSHPYSWTRVIQSWYDEYKNFRYGVGANPPGSVIGHFTQIVWYNSYLVGCAAARCSSSRFKYFYVCQYCPAGNIIGSIATPYKSGPPCGDCPSACVNGLCTNPCKHTNTFNNCKSLAAQNGCQSNWMKSNCAASCFCRTEII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Thamnophis elegans",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_032069584.1",
+      "description": "cysteine-rich venom protein TEL1-like [Thamnophis elegans]",
+      "sequence": "MIVFILLSLAAVLQHSFGDVNFESESPRRKEKQDEIVNMHNSLRRSVSPTASNMLRMEWYPEAASNAERWAYQCFYDHSSENSRILDGIKCGENIFMSSNARTWAEMIQSWYDENKNFVYGVGANPAGSVVGHYTQIVWYKSYRIGCAAAYCPSYPYNYFYVCQYCPAGNMEGLTATPYKSGPSCADCPSACDNGLCTNPCLRENALSNCNELKEKYSCQHDFVRTNCPATCFCQNEII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Thamnophis elegans",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_015678374.1",
+      "description": "cysteine-rich venom protein [Protobothrops mucrosquamatus]",
+      "sequence": "MGDDFLKATKKLFLRLFKTIEMIAFIVLPILAAVLQQSSGNVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSSRDSRVIGGIKCGENIYMSPYPAKWTDIIHAWHGEYKDFKYGVGAVPSNAVTGHYTQIVWYKSYRGGCAAAYCPSSKYRYFYVCQYCPAGNMIGKTATPYTSGPPCGDCPSDCDNGLCTNPCTQENTYSNCNSLVQQSSCQDNNMKTKCPASCFCQNKII",
+      "length": 261,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Protobothrops mucrosquamatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026568636.1",
+      "description": "cysteine-rich venom protein ophanin-like [Pseudonaja textilis]",
+      "sequence": "MIAFILLSLATALQQSFGNVDFNSESTRRQEKQKEIVDLHNSLRRSVSPTATNMLKMEWYPEAASSAERWANNCSLHHSPNSSRVLEGIQCGENLYKSSHPHAWSRAIQSLYDEYKYLTYDIGANPPGSLIGPYTQIVWYNSYRIGCAVNYCPSSAYNYFYVCQYCPLGNIKGSIATPYKSGPPCADCPLACDNGLCTNPCKYVDSFWNCESLVNRTGCHIGLIRTHCPATCFCQNKII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pseudonaja textilis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026568634.1",
+      "description": "cysteine-rich venom protein pseudechetoxin-like isoform X4 [Pseudonaja textilis]",
+      "sequence": "MTEMIAFLVLLSLAAVLQQSSGTVDFASESSNKNDYQKEIVDKHNDLRRSVKPTARNMLQMKWNSRAAQNAKRWANRCTFAHSPPYTRTVGKLRCGENIFMSSQPFAWSGVVQAWYDEVKKFVYGIGAKPPSSVTGHYTQVVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNIVGSIATPYKSGPPCGDCPSACDNGLCKKREKWFRAVKPKLGFPPKLPNVSLHEFER",
+      "length": 229,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pseudonaja textilis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026568633.1",
+      "description": "cysteine-rich venom protein pseudechetoxin-like isoform X3 [Pseudonaja textilis]",
+      "sequence": "MIAFLVLLSLAAVLQQSSGTVDFASESSNKNDYQKEIVDKHNDLRRSVKPTARNMLQMKWNSRAAQNAKRWANRCTFAHSPPYTRTVGKLRCGENIFMSSQPFAWSGVVQAWYDEVKKFVYGIGAKPPSSVTGHYTQVVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNIVGSIATPYKSGPPCGDCPSACDNGLCTNPCKHNDDLSNCKTLVKKHKCQTEWIKSKCPATCFCRTEII",
+      "length": 238,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pseudonaja textilis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026568632.1",
+      "description": "cysteine-rich venom protein pseudechetoxin-like isoform X2 [Pseudonaja textilis]",
+      "sequence": "MTEMIAFLVLLSLAAVLQQSSGTVDFASESSNKNDYQKEIVDKHNDLRRSVKPTARNMLQMKWNSRAAQNAKRWANRCTFAHSPPYTRTVGKLRCGENIFMSSQPFAWSGVVQAWYDEVKKFVYGIGAKPPSSVTGHYTQVVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNIVGSIATPYKSGPPCGDCPSACDNGLCSRITGIMEDGQLSSKTNLGKTTGPPQNETFIHGITRHLELP",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pseudonaja textilis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026568631.1",
+      "description": "cysteine-rich venom protein pseudechetoxin-like isoform X1 [Pseudonaja textilis]",
+      "sequence": "MTEMIAFLVLLSLAAVLQQSSGTVDFASESSNKNDYQKEIVDKHNDLRRSVKPTARNMLQMKWNSRAAQNAKRWANRCTFAHSPPYTRTVGKLRCGENIFMSSQPFAWSGVVQAWYDEVKKFVYGIGAKPPSSVTGHYTQVVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNIVGSIATPYKSGPPCGDCPSACDNGLCTNPCKHNDDLSNCKTLVKKHKCQTEWIKSKCPATCFCRTEII",
+      "length": 241,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Pseudonaja textilis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026547764.1",
+      "description": "cysteine-rich venom protein-like, partial [Notechis scutatus]",
+      "sequence": "EWNSRAAQNAQRWADRCTFAHSLPHTRTVGKLSCGENIFMSTQPFAWSGVVQDWYDEIKNFVYGIGAKPPGSIIGHYIQVVWYKTHLLGCASAKCSSTKYLYVCQYCPAGNIRGSIATPYKSGPTCGDCPSACVNGLCTNPCKYEDAFTNCNDLVKGTKCQTEWIKSKCPATCFCHNKII",
+      "length": 180,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Notechis scutatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026547749.1",
+      "description": "cysteine-rich venom protein pseudechetoxin-like [Notechis scutatus]",
+      "sequence": "MIAFIVLLSLAAVLQQSSGTVDFASESSNKKDYQKEIVDKHNALRRSVKPTARNMLRMEWNSHAAQNAKRWADRCTFAHSPPHTRTVGKLRCGENIFMSSQPFAWSGVVQAWYDEVKKFVYGIGAKPPGSVIGHYTQVVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNIRGSIATPYKSGPTCGDCPSACVNGLCTNPCKYEDDFSNCKALAKNSKCQTEWIKSKCPAACFCHNKII",
+      "length": 238,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Notechis scutatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026549840.1",
+      "description": "cysteine-rich venom protein 2-like [Notechis scutatus]",
+      "sequence": "MTEMIAFIVLLSLAAVLQQSSGTVCFALCLKVDYQKEIVDKHNAFRRSVKPTARNMLQMVS",
+      "length": 61,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Notechis scutatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026549114.1",
+      "description": "cysteine-rich venom protein ophanin-like, partial [Notechis scutatus]",
+      "sequence": "LLLFTSVLIQEWYPEAASSAERWVNNCSLHHSPNSLRVLEGIQCGENLYKSSHPHAWSRAIQSLYDEYKYFTYDIGANPPGSLIGHYTQIVWYNSYRIGCAVNYCPSSAYNYFYVCQYCPSYVSAMISTFVTFIASLIRVILISLEKKKMSLNKILIKCYLQSYTQTKYKAVYHKKNRINANVAVKYGYS",
+      "length": 190,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Notechis scutatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_026546646.1",
+      "description": "LOW QUALITY PROTEIN: cysteine-rich venom protein pseudechetoxin-like [Notechis scutatus]",
+      "sequence": "MIAFILLSLAAVLXQSFGNVDFNSESTRRQEKQKEIVDLHNSLRRSVSPAASNMLKMVNNLLPFGEDFRSQVLPFDGAVCSLKTGDPNQRDQDNANKVNYLLILHEGFGNHKCKSNNTILFIFFHSRGNIIGSIATPYKSGPPCADCPSACDNGLCTNTCKYEDVFSNCKILKNRYGYHIDLVRTYCRATCFCHNEII",
+      "length": 198,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Notechis scutatus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "ATU85541.1",
+      "description": "cysteine-rich Venom Protein Moojin, partial [Bothrops moojeni]",
+      "sequence": "MIAFIVLLILAAVLQQSSGSVDFDSESPRKPEIQNEIVDLHNSLRKSVNPTASNMLKMEWYPEAAANAERWAFRCIERHSLPNSRVIRGIKCGENIYMSPIPLKWTEIIHAWHDEYKNFKYGTGAEPPTAVIGHYTQIVWYKSYLAGCAAAYCPSSSYKYFYVCQYCPAGNMRGKTATPYKSGPPCGDCPSACDDGLCTNPCTKEDKFTNCDSMVQSSGCQDRQMQSECPATCFCQNKII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Bothrops moojeni",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_013911769.1",
+      "description": "PREDICTED: cysteine-rich venom protein kaouthin-2-like, partial [Thamnophis sirtalis]",
+      "sequence": "EWNSNAAQNAKRWADRCTFAHSPGHLRTVGRLGCGENLFMSSHPYSWTRVIQSWYDEYKNFRYGVGANPPGSVIGHFTQIVWYNSYLVGCAAARCSSSRFKYFYVCQYCPAGNIIGSIATPYKSGPPCGDCPSACVNGLCMVDEPMQLNQEM",
+      "length": 152,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Thamnophis sirtalis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "XP_013911763.1",
+      "description": "PREDICTED: cysteine-rich venom protein TEL1-like [Thamnophis sirtalis]",
+      "sequence": "MIVFILLSLAAVLQQSFGDVDFESESPRRREKQDEIVNMHNSLRRSVSPTASNMLRMEWYPEAASNAERWAYQCIYDHSSDDSRILDGIQCGENIFKSSNARTWAEMIQNWYDEYKNFVYGVGANPAGSVVGHYTQIVWYKSYRIGCAAAYCPSYPYSYFYVCQYCPAGNMEGLTATPYKSGPSCADCPSACDNGLCTNPCLRQDKYTNCNSLKEEHTCQHDFVRTNCPATCFCQNEII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Thamnophis sirtalis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "BAP39957.1",
+      "description": "cysteine-rich venom protein, partial [Protobothrops flavoviridis]",
+      "sequence": "DDFLKATKKLSLLLFKTIEMIAFIVLPILAAVLQQSSGNVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSSRDSRVIGGIKCGENIYMATYPAKWTDIIHAWHGEYKDFKYGVGAVPSNAVVGHYTQIVWYKSYRAGCAAAYCPSSKYSYFYVCQYCPAGNIIGKTATPYKSGPPCGDCPSDCDNGLCTNPCTRENEFTNCDSLVQKSSCQDNYMKSKCPASCFCQNKII",
+      "length": 259,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Protobothrops flavoviridis",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "BAP39923.1",
+      "description": "cysteine-rich venom protein [Protobothrops elegans]",
+      "sequence": "MIAFIVLPILAAVLQQSSGNVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYRCIESHSSRDSRVIGGIKCGENIYMSPYPAKWTDIIHAWHGEYKNFKYGVGAVPSNAVTGHYTQIVWYKSYRGGCAAAYCPSSKYRYFYVCQYCPAGNMIGKTATPYTSGPPCGDCPSDCDNGLCTNPCRRENDFTNCDSLVQQSSCQDNYMKTNCFASCFCHNEII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Protobothrops elegans",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAL54918.1",
+      "description": "cysteine-rich venom protein [Hydrophis hardwickii]",
+      "sequence": "MKWNSHAAQNAKRSADRCTFAHSPEHTRTVGKFRCGENIFMSSQPFAWSGVVQAWYDEIKNFVYGIGAKPPGSVIGHYTQIVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNIRSSIATPYKSGPSCGDCPSACVNGLCTNPCEYEDAYTNCNDLVKERKCQTEWIKSQCPATCFCHNKII",
+      "length": 181,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Hydrophis hardwickii",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAL54896.1",
+      "description": "cysteine-rich venom protein precursor [Hydrophis hardwickii]",
+      "sequence": "MIAFIVLLSLAAVLQQSSGTVDFASESSNKKDYRREIVDKHNALRRSVKPTARNMLQMKWNSRAAQNAKRSADRCTFAHSPEHTRTVGKFRCGENIFMSSQPFAWSGVVQDWYDEIKNVVDGIGAKPPGSVIGHYTQIVWYKSHLLGCASAKCSSTKYLYVCQYCPAGNISSSIATPYKSGPSCGDCPSACVNGLCTNP",
+      "length": 199,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Hydrophis hardwickii",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAP20603.1",
+      "description": "cysteine-rich venom protein [Naja atra]",
+      "sequence": "MIAFIVLLSLAAVLQQSSGTVDFASESSNKRENQKQIVDKHNALRRSVRPTARNMLQMEWNSNAAQNAKRWADRCSFAHSPPHLRTVGKIGCGENLFMSSQPYAWSRVIQSWYDENKKFVYGVGANPPGSVIGHYTQIVWYNSHLLGCGAAKCSSSKYLYVCQYCPTGNIIGSIATPYKSGPPCGDCPSACVNGLCTNPCKHHNVFSNCQSLAKQNACQTEWMKSKCAASCFCRTEII",
+      "length": 238,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Naja atra",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "AAP20602.1",
+      "description": "cysteine-rich venom protein [Protobothrops jerdonii]",
+      "sequence": "MIAFIVLPILAAVLQQSSGNVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAYGCIESHSSRDSRVIEGIKCGENIYMSPYPMKWTDIIHAWHGEYKDFKYGVGAVPSDAVVGHYTQIVWYKSYRIGCAAAYCPSAEYSYFYVCQYCPAGNMIGKTATPYTSGPPCGDCPSDCDNGLCTNPCRQENKFTNCDSLVRQSSCQDNYMKTNCPASCFCHNEII",
+      "length": 240,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Protobothrops jerdonii",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "CAP74089.1",
+      "description": "cysteine-rich venom protein precursor [Vipera berus]",
+      "sequence": "MIAFLVLPILAAVLQQSSGNVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAFRCILSHSPRDSRVIGGIKCGENIYMSTSPMKWTAIIHEWHGEEKDFVYGQGASPANAVVGHYTQIVWYKSYRSGCAAAYCPSSEYKYFYVCQYCPAGNMQGKTATPYTSGPPCGDCPSACDNGLCTNPCTHEDKFTNCKDLVKQGCNNNYLKTNCPASCSCHNEII",
+      "length": 239,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Vipera berus",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    },
+    {
+      "id": "CAP74088.1",
+      "description": "cysteine-rich venom protein presursor, partial [Vipera nikolskii]",
+      "sequence": "GNVDFDSESPRKPEIQNEIIDLHNSLRRSVNPTASNMLKMEWYPEAAANAERWAFRCILSHSPRDSRVIGGIKCGENIYMSTSPMKWTAIIHKWHGEEKDFVYGQGASPANAVVGHYTQIVWYKSYRSGCAAAYCPSSEYKYFYVCQYCPAGNMQGKTATPYTSGPPCGDCPSACDNGLCTNPCTHEDKFTNCKDLVKQGCNNNYLKTNCPASCSCHNEII",
+      "length": 221,
+      "toxin_type": "Cysteine-Rich Secretory Protein",
+      "species": "Vipera nikolskii",
+      "effects": [
+        "Ion channel blocker"
+      ],
+      "source": "NCBI"
+    }
+  ],
+  "structures": [
+    {
+      "id": "8IA6",
+      "description": "",
+      "resolution": "2.75",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8IA6.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8DND",
+      "description": "",
+      "resolution": "2.018",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8DND.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7ROX",
+      "description": "",
+      "resolution": "2.1",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7ROX.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7M6C",
+      "description": "",
+      "resolution": "1.95",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7M6C.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7RJZ",
+      "description": "",
+      "resolution": "1.7",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7RJZ.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7RJI",
+      "description": "",
+      "resolution": "1.71",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7RJI.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7LYE",
+      "description": "",
+      "resolution": "1.758",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7LYE.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "6TMY",
+      "description": "",
+      "resolution": "1.8",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6TMY.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "6PWH",
+      "description": "",
+      "resolution": "1.749",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6PWH.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "6MQD",
+      "description": "",
+      "resolution": "1.6",
+      "toxin_type": "Phospholipase A2",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6MQD.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "9E6K",
+      "description": "",
+      "resolution": "3.15",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9E6K.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "9CLP",
+      "description": "",
+      "resolution": "3.43",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9CLP.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8SNO",
+      "description": "",
+      "resolution": "2.78",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNO.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8SNN",
+      "description": "",
+      "resolution": "2.32",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNN.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8SNM",
+      "description": "",
+      "resolution": "3.84",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNM.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8SNL",
+      "description": "",
+      "resolution": "2.78",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SNL.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7QAJ",
+      "description": "",
+      "resolution": "2.1",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7QAJ.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8CQY",
+      "description": "",
+      "resolution": "1.7",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8CQY.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "6X5X",
+      "description": "",
+      "resolution": "1.92",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6X5X.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "4Q1L",
+      "description": "",
+      "resolution": "1.9",
+      "toxin_type": "Metalloproteinase",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/4Q1L.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "9BK7",
+      "description": "",
+      "resolution": "2.58",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9BK7.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "9BK6",
+      "description": "",
+      "resolution": "2",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9BK6.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "9BK5",
+      "description": "",
+      "resolution": "2.68",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/9BK5.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "8SXP",
+      "description": "",
+      "resolution": "2.9",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/8SXP.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "5XWE",
+      "description": "",
+      "resolution": "1.8",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/5XWE.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "7C28",
+      "description": "",
+      "resolution": "2.4",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/7C28.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "6WJC",
+      "description": "",
+      "resolution": "2.55",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6WJC.pdb",
+      "source": "PDB"
+    },
+    {
+      "id": "6RC7",
+      "description": "",
+      "resolution": "",
+      "toxin_type": "Three-finger toxin",
+      "file_path": "/data/chats/u5a95/workspace/data/snake_toxins/pdb_structures/6RC7.pdb",
+      "source": "PDB"
+    }
+  ]
+}

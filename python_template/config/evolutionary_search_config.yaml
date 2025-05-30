@@ -1,0 +1,125 @@
+# Evolutionary Search Configuration
+# This configuration file contains parameters for the evolutionary algorithm
+# used for antibody optimization with RosettaFold integration.
+
+# General parameters
+general:
+  random_seed: 42
+  output_dir: "output/evolutionary_search"
+  log_level: "INFO"
+  log_interval: 1
+  visualize: true
+  save_checkpoints: true
+  checkpoint_interval: 5  # Save checkpoint every 5 generations
+
+# Evolutionary algorithm parameters
+evolution:
+  population_size: 50
+  num_generations: 30
+  crossover_rate: 0.8
+  mutation_rate: 0.2
+  elitism: 0.1  # Percentage of best individuals to preserve without changes
+  tournament_size: 3  # For tournament selection
+  multi_objective: true  # Use NSGA-II for multi-objective optimization
+  early_stopping:
+    enabled: true
+    patience: 5  # Stop if no improvement after 5 generations
+    min_delta: 0.01  # Minimum change to qualify as improvement
+
+# Objectives and weights
+objectives:
+  binding: 1.0
+  stability: 1.0
+  developability: 1.0
+  manufacturability: 1.0
+
+# Mutation parameters
+mutation:
+  cdr_mutation_weights:  # Probability of mutating each CDR
+    H1: 0.5
+    H2: 0.8
+    H3: 1.0  # Highest probability for H3 as it's most important for binding
+    L1: 0.5
+    L2: 0.3
+    L3: 0.7
+  amino_acid_groups:  # Amino acid groupings for intelligent mutations
+    hydrophobic: ["A", "V", "L", "I", "M", "F", "Y", "W"]
+    polar: ["S", "T", "N", "Q"]
+    charged_positive: ["K", "R", "H"]
+    charged_negative: ["D", "E"]
+    special: ["C", "G", "P"]
+  position_specific:
+    exposed: ["D", "E", "H", "K", "N", "Q", "R", "S", "T"]
+    buried: ["A", "C", "F", "G", "I", "L", "M", "P", "V", "W", "Y"]
+    cdr_anchors: ["C", "W", "F", "Y"]  # Conserved residues
+
+# RosettaFold parameters
+rosetta:
+  rosetta_path: ""  # Path to RosettaFold installation
+  scripts_path: ""  # Path to RosettaFold scripts
+  use_gpu: true
+  num_models: 1  # Number of models to generate per sequence
+  num_recycles: 3  # Number of recycling iterations
+  relaxation: true  # Perform relaxation of predicted structures
+  interface_cutoff: 8.0  # Angstroms cutoff for interface residues
+
+# Hybrid Structure Prediction parameters (for integration)
+hybrid_prediction:
+  enabled: true
+  methods: ["igfold", "esmfold"]  # Methods to use in order of preference
+  confidence_threshold: 0.7  # Minimum confidence score to accept prediction
+
+# Optimization profiles (preset configurations for different scenarios)
+optimization_profiles:
+  # Profile optimized for maximum binding affinity
+  binding_affinity:
+    objectives:
+      binding: 2.0
+      stability: 0.8
+      developability: 0.6
+      manufacturability: 0.6
+    evolution:
+      population_size: 60
+      num_generations: 40
+      mutation_rate: 0.3
+
+  # Profile optimized for developability and manufacturability
+  developability:
+    objectives:
+      binding: 0.7
+      stability: 0.8
+      developability: 1.8
+      manufacturability: 1.7
+    evolution:
+      population_size: 40
+      num_generations: 25
+
+  # Profile for fast screening with reduced computational resources
+  fast_screening:
+    evolution:
+      population_size: 20
+      num_generations: 10
+      early_stopping:
+        enabled: true
+        patience: 3
+    rosetta:
+      use_gpu: false
+      num_models: 1
+      num_recycles: 1
+      relaxation: false
+
+  # Profile for broad exploration of the sequence space
+  exploration:
+    evolution:
+      population_size: 100
+      num_generations: 50
+      mutation_rate: 0.4
+      crossover_rate: 0.9
+    mutation:
+      cdr_mutation_weights:
+        H1: 0.7
+        H2: 0.7
+        H3: 1.0
+        L1: 0.7
+        L2: 0.7
+        L3: 0.7

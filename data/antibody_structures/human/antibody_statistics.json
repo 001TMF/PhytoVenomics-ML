@@ -1,0 +1,34 @@
+{
+  "total_chains": 300,
+  "total_antibodies": 150,
+  "chain_types": {
+    "Heavy Chain": 150,
+    "Kappa Chain": 106,
+    "Lambda Chain": 44
+  },
+  "specificity_distribution": {
+    "Specific": 248,
+    "Broad-spectrum": 52
+  },
+  "targeted_toxins": {
+    "Three-Finger Toxin": 48,
+    "Phospholipase A2": 42,
+    "Cysteine-Rich Secretory Protein": 42,
+    "Snake Venom Metalloproteinase": 36,
+    "Disintegrin": 34,
+    "Kunitz-type Serine Protease Inhibitor": 26,
+    "Snake Venom Serine Protease": 20
+  },
+  "sequence_length_stats": {
+    "heavy_chain": {
+      "min": 239,
+      "max": 246,
+      "mean": 242.36666666666667
+    },
+    "light_chain": {
+      "min": 185,
+      "max": 216,
+      "mean": 205.93333333333334
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "original_counts": {
+    "Snake Venom Metalloproteinase": 54,
+    "Snake Venom Serine Protease": 53,
+    "Cysteine-Rich Secretory Protein": 50,
+    "Phospholipase A2": 33,
+    "Disintegrin": 25,
+    "Kunitz-type Serine Protease Inhibitor": 20,
+    "Three-Finger Toxin": 20
+  },
+  "resampled_counts": {
+    "Snake Venom Metalloproteinase": 33,
+    "Snake Venom Serine Protease": 33,
+    "Cysteine-Rich Secretory Protein": 33,
+    "Phospholipase A2": 33,
+    "Disintegrin": 33,
+    "Kunitz-type Serine Protease Inhibitor": 33,
+    "Three-Finger Toxin": 33
+  },
+  "original_size": 255,
+  "resampled_size": 231
+}

@@ -1,0 +1,83 @@
+{
+  "antibodies": [
+    {
+      "antibody_pair_id": "SYN_MAB_117",
+      "heavy_chain_id": "SYN_MAB_117_H",
+      "light_chain_id": "SYN_MAB_117_K",
+      "toxins_neutralized": 13,
+      "toxin_types_covered": [
+        "Three-Finger Toxin",
+        "Phospholipase A2",
+        "Cysteine-Rich Secretory Protein",
+        "Kunitz-type Serine Protease Inhibitor",
+        "Snake Venom Metalloproteinase",
+        "Snake Venom Serine Protease",
+        "Disintegrin"
+      ],
+      "specificity": "Broad-spectrum"
+    },
+    {
+      "antibody_pair_id": "SYN_MAB_18",
+      "heavy_chain_id": "SYN_MAB_18_H",
+      "light_chain_id": "SYN_MAB_18_K",
+      "toxins_neutralized": 12,
+      "toxin_types_covered": [
+        "Three-Finger Toxin",
+        "Phospholipase A2",
+        "Cysteine-Rich Secretory Protein",
+        "Snake Venom Metalloproteinase",
+        "Snake Venom Serine Protease",
+        "Disintegrin"
+      ],
+      "specificity": "Broad-spectrum"
+    },
+    {
+      "antibody_pair_id": "SYN_MAB_98",
+      "heavy_chain_id": "SYN_MAB_98_H",
+      "light_chain_id": "SYN_MAB_98_K",
+      "toxins_neutralized": 10,
+      "toxin_types_covered": [
+        "Three-Finger Toxin",
+        "Phospholipase A2",
+        "Kunitz-type Serine Protease Inhibitor",
+        "Cysteine-Rich Secretory Protein",
+        "Snake Venom Metalloproteinase",
+        "Snake Venom Serine Protease",
+        "Disintegrin"
+      ],
+      "specificity": "Broad-spectrum"
+    },
+    {
+      "antibody_pair_id": "SYN_MAB_12",
+      "heavy_chain_id": "SYN_MAB_12_H",
+      "light_chain_id": "SYN_MAB_12_K",
+      "toxins_neutralized": 9,
+      "toxin_types_covered": [
+        "Three-Finger Toxin",
+        "Cysteine-Rich Secretory Protein",
+        "Kunitz-type Serine Protease Inhibitor",
+        "Snake Venom Metalloproteinase",
+        "Snake Venom Serine Protease"
+      ],
+      "specificity": "Broad-spectrum"
+    },
+    {
+      "antibody_pair_id": "SYN_MAB_28",
+      "heavy_chain_id": "SYN_MAB_28_H",
+      "light_chain_id": "SYN_MAB_28_L",
+      "toxins_neutralized": 11,
+      "toxin_types_covered": [
+        "Three-Finger Toxin",
+        "Phospholipase A2",
+        "Kunitz-type Serine Protease Inhibitor",
+        "Cysteine-Rich Secretory Protein",
+        "Snake Venom Metalloproteinase",
+        "Snake Venom Serine Protease",
+        "Disintegrin"
+      ],
+      "specificity": "Broad-spectrum"
+    }
+  ],
+  "total_toxins_neutralized": 51,
+  "toxin_coverage_percentage": 27.3
+}

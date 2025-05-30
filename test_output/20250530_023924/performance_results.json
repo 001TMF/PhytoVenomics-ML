@@ -1,0 +1,24 @@
+{
+  "confidence": [
+    0.8245409788024911,
+    0.7922095451219203,
+    0.8550687132071468
+  ],
+  "prediction_time": [
+    3.4658135709088036,
+    3.9665788302787632,
+    3.278834303842779
+  ],
+  "sequence_length": [
+    114,
+    113,
+    122
+  ],
+  "model": [
+    "IgFold-mock+ensemble",
+    "IgFold-mock",
+    "IgFold-mock"
+  ],
+  "average_confidence": 0.8239397457105194,
+  "average_prediction_time": 3.5704089016767817
+}

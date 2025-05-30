@@ -1,0 +1,81 @@
+{
+  "antibodies": [
+    {
+      "id": "AB006_BNAB",
+      "target_toxin_id": "PHO002",
+      "target_epitope_id": "PHO002_ep3",
+      "sequence": "YSRGFVLSELLYRKNLHRSMDTGHGIRFGDIDGVFTYAYQGNSHDSYLNIIGEAIHWARKVWPDWANWMTHYCRDNHHRINVADNNFNDELRHGDYWASKWSVKFVTCMQMLACLPLNWERGHCEVMGKDPNWWWRVSGTECIHFNMRPDKFEVNSVVAEPFNPYNMCTEYVEGWHTTQNSPQFLMTPLAEIRPPACHQLNPVCNGIPWPICAKPTQIYLQWKFQKRDEY",
+      "is_broadly_neutralizing": true,
+      "developability_score": 0.7,
+      "breadth_score": 0.78,
+      "cdr_lengths": {
+        "CDR-H1": 10,
+        "CDR-H2": 14,
+        "CDR-H3": 21,
+        "CDR-L1": 12,
+        "CDR-L2": 7,
+        "CDR-L3": 10
+      },
+      "binds_to": [
+        {
+          "toxin_id": "PHO002",
+          "affinity_nm": 76.63,
+          "binding_energy": -8.8
+        },
+        {
+          "toxin_id": "PHO938",
+          "affinity_nm": 177.81,
+          "binding_energy": -9.3
+        },
+        {
+          "toxin_id": "PHO009",
+          "affinity_nm": 246.68,
+          "binding_energy": -10.0
+        },
+        {
+          "toxin_id": "PHO017",
+          "affinity_nm": 285.28,
+          "binding_energy": -8.0
+        }
+      ]
+    },
+    {
+      "id": "AB001_SPEC",
+      "target_toxin_id": "PHO001",
+      "target_epitope_id": "PHO001_ep1",
+      "sequence": "ITLLYSNCCVERYYVEFGMHIWMVTSMWMTNCNIVPMIYIRTLSLYCPVKSSYSFPWDMLMAHEPQAIGGNLNVWTDRQGDMGEEYMPSVQQVWKDPLPHIEVKFRKMWPCFDTRPLKLDDMPMNMSYDMKIYQFTYDNQPRGDGMLCVFERHIECPSFQSKLDATGKHAWRIKFEGPNPEWYGSYCMNCAMLIVVFYKGSPMEDVPHAIDHGKKNMNTA",
+      "is_broadly_neutralizing": false,
+      "developability_score": 0.85,
+      "cdr_lengths": {
+        "CDR-H1": 11,
+        "CDR-H2": 8,
+        "CDR-H3": 14,
+        "CDR-L1": 11,
+        "CDR-L2": 10,
+        "CDR-L3": 8
+      },
+      "binds_to": [
+        {
+          "toxin_id": "PHO001",
+          "affinity_nm": 36.15,
+          "binding_energy": -12.0
+        }
+      ],
+      "targeting_strategy": "specific",
+      "generation_date": "2025-05-29"
+    }
+  ],
+  "antibody_count": 2,
+  "coverage_metrics": {
+    "family_coverage": {
+      "phospholipase_a2": 0.0,
+      "snake_venom_metalloprotease": 0.49207755142210413,
+      "snake_venom_serine_protease": 0.0
+    },
+    "average_family_coverage": 0.1640258504740347,
+    "min_family_coverage": 0.0,
+    "max_family_coverage": 0.49207755142210413
+  },
+  "average_coverage": 0.1640258504740347,
+  "manufacturability_score": 0.2731818181818181
+}

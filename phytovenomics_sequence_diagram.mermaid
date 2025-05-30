@@ -1,0 +1,55 @@
+sequenceDiagram
+    participant User
+    participant CLI as SetupCLI
+    participant SM as SetupManager
+    participant SV as SystemValidator
+    participant EM as EnvironmentManager
+    participant DM as DependencyManager
+    participant MM as ModelManager
+    participant CM as ConfigManager
+    participant Log as Logger
+    
+    User->>CLI: run setup command
+    CLI->>SM: initialize(config_path, environment)
+    SM->>CM: load_config()
+    CM-->>SM: config data
+    SM->>Log: initialize(log_path, log_level)
+    
+    SM->>SV: validate_system()
+    SV-->>SM: validation result
+    alt system requirements not met
+        SM->>Log: log_error("System requirements not met")
+        SM-->>CLI: return error
+        CLI-->>User: show error message
+    end
+    
+    SM->>EM: setup_environment()
+    EM->>EM: create_virtual_env()
+    EM->>EM: activate_environment()
+    EM-->>SM: environment setup result
+    
+    SM->>DM: install_dependencies()
+    DM->>DM: install_core_dependencies()
+    DM->>DM: install_environment_specific_dependencies()
+    DM-->>SM: dependency installation result
+    
+    SM->>MM: initialize(model_config, download_dir)
+    SM->>MM: download_models(models_list)
+    loop for each model
+        MM->>MM: download_model(model_name)
+        MM->>MM: verify_model_checksum(model_name)
+        MM->>MM: extract_model(model_path)
+    end
+    MM-->>SM: model download result
+    
+    SM->>CM: update_config("setup_completed", true)
+    CM->>CM: save_config()
+    
+    opt Run tests
+        SM->>SM: run_tests()
+        SM-->>Log: log test results
+    end
+    
+    SM->>SM: generate_setup_report()
+    SM-->>CLI: return setup report
+    CLI-->>User: show setup summary

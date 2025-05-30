@@ -1,0 +1,6 @@
+{
+  "url": "http://rest.uniprot.org/uniprotkb/stream",
+  "messages": [
+    "'annotation_type' is not a valid search field"
+  ]
+}

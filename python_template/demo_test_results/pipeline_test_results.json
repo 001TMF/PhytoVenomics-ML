@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "structure_prediction": {
+    "success": true,
+    "heavy_chain": {
+      "prediction_time": 3.762159697159203,
+      "confidence": 0.8778568831969726,
+      "model_name": "esmfold",
+      "quality": {
+        "quality": "high",
+        "confidence": 0.8778568831969726,
+        "valid": true,
+        "model": "esmfold"
+      }
+    },
+    "light_chain": {
+      "prediction_time": 4.520113659411914,
+      "confidence": 0.8883948426140647,
+      "model_name": "esmfold",
+      "quality": {
+        "quality": "high",
+        "confidence": 0.8883948426140647,
+        "valid": true,
+        "model": "esmfold"
+      }
+    },
+    "total_time": 0.003656625747680664
+  },
+  "hybrid_evolution": {
+    "success": true,
+    "evolution_time": 2.1137359142303467,
+    "generation_count": 3,
+    "initial_population_size": 6,
+    "final_population_size": 3,
+    "optimized_antibodies": [
+      {
+        "name": "AB_ABxABxAB_1434",
+        "binding_energy": -14.040436181451025,
+        "stability": 0.68,
+        "developability": 0.7176496155062277,
+        "fitness": 0.8244719435246628
+      },
+      {
+        "name": "DEMO_AB_05_c1433",
+        "binding_energy": -10.959873925844327,
+        "stability": 0.9425408570414651,
+        "developability": 0.6025929060589125,
+        "fitness": 0.794247586162066
+      },
+      {
+        "name": "AB_ABxAB_1434",
+        "binding_energy": -6.809647654334023,
+        "stability": 0.68,
+        "developability": 0.7185328059100268,
+        "fitness": 0.48273586289799353
+      }
+    ]
+  },
+  "cocktail_formulation": {
+    "success": true,
+    "optimization_time": 0.000240325927734375,
+    "cocktail": {
+      "antibodies": [],
+      "coverage": {
+        "TOXIN001": 0.0,
+        "TOXIN002": 0.0
+      },
+      "average_coverage": 0.0,
+      "rationale": "Selected 0 antibodies including 0 broadly neutralizing ones.\nAverage toxin coverage: 0.00\nAntibody selection rationale:"
+    }
+  },
+  "total_time": 3.642202854156494
+}

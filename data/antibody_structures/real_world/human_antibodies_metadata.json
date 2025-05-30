@@ -1,0 +1,828 @@
+[
+  {
+    "id": "9MII_L",
+    "description": "Chain L, 253-7A03 lambda chain Fv",
+    "sequence": "QSALTQPASVSGSPGQSITISCIGTSSDNVSWYQHHPGKAPKLMIYEVDNRPSGVSARFSGSKSGNTASLTISGLQAEDEADYYCSSYEVFGTGTKVTVL",
+    "length": 100,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MII_H",
+    "description": "Chain H, 253-7A03 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFDDYYMHWVRQAPGQGLEWMGWMNPKTGGVNYAQRFQGRVTMTRDRSIDTAYMELNSLRSDDTAMYYCARDYGGGYPLDFWGQGTLVTVSS",
+    "length": 119,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIH_L",
+    "description": "Chain L, 273-4D01 kappa chain Fv",
+    "sequence": "DIQVTQSPSSLSASVGDRVTITCRASQGISNYLAWYQQKPGKVPKLLIYGASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQIYETFGQGTKVDIK",
+    "length": 103,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIB_R",
+    "description": "Chain R, 206-9C09 kappa chain Fv",
+    "sequence": "NIQMTQSPSSLSASVGDRVTITCQASQDISNYLNWYQQKPGKAPKLLIYDASNLETGVPSRFSGSGSGTHFTFTISRLQPEDIATYYCQVYETFGQGTKVEIK",
+    "length": 103,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIB_P",
+    "description": "Chain P, 206-9C09 heavy chain Fv",
+    "sequence": "QVQVVQSGAEVKKPGASVKVSCKASGYTFTDHYIHWVRQAPGQGLEWMGWINPYRGGTNYAQKFQGRVTMTRDTSINTAYMELSRLRFDDTAVYYCARPKDCSGGSCYDFDYWGQGTLVTVSS",
+    "length": 123,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIB_N",
+    "description": "Chain N, 206-9C09 kappa chain Fv",
+    "sequence": "NIQMTQSPSSLSASVGDRVTITCQASQDISNYLNWYQQKPGKAPKLLIYDASNLETGVPSRFSGSGSGTHFTFTISRLQPEDIATYYCQVYETFGQGTKVEIK",
+    "length": 103,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIB_K",
+    "description": "Chain K, 206-9C09 heavy chain Fv",
+    "sequence": "QVQVVQSGAEVKKPGASVKVSCKASGYTFTDHYIHWVRQAPGQGLEWMGWINPYRGGTNYAQKFQGRVTMTRDTSINTAYMELSRLRFDDTAVYYCARPKDCSGGSCYDFDYWGQGTLVTVSS",
+    "length": 123,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIB_L",
+    "description": "Chain L, 206-9C09 kappa chain Fv",
+    "sequence": "NIQMTQSPSSLSASVGDRVTITCQASQDISNYLNWYQQKPGKAPKLLIYDASNLETGVPSRFSGSGSGTHFTFTISRLQPEDIATYYCQVYETFGQGTKVEIK",
+    "length": 103,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIB_H",
+    "description": "Chain H, 206-9C09 heavy chain Fv",
+    "sequence": "QVQVVQSGAEVKKPGASVKVSCKASGYTFTDHYIHWVRQAPGQGLEWMGWINPYRGGTNYAQKFQGRVTMTRDTSINTAYMELSRLRFDDTAVYYCARPKDCSGGSCYDFDYWGQGTLVTVSS",
+    "length": 123,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIA_R",
+    "description": "Chain R, 206-3G08 lambda chain Fv",
+    "sequence": "QSALTQPPSASGSPGQSVTISCTGTSSDVGGYNYVSWYQQHPGKAPKVIIYEVSKRPSGVPDRFSGSKSGNTASLTVSGLQADDEADYYCSSYEVFGTGTKVTVL",
+    "length": 105,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIA_P",
+    "description": "Chain P, 206-3G08 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGHYMHWVRQAPGQGLEWMGWINPYSSGTNYAQNFQGRVTMTRDTSITTAYMELSRLRSDDTAVYYCARAPDYGDRWDFDYWGQGTLVTVSS",
+    "length": 121,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIA_N",
+    "description": "Chain N, 206-3G08 lambda chain Fv",
+    "sequence": "QSALTQPPSASGSPGQSVTISCTGTSSDVGGYNYVSWYQQHPGKAPKVIIYEVSKRPSGVPDRFSGSKSGNTASLTVSGLQADDEADYYCSSYEVFGTGTKVTVL",
+    "length": 105,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIA_K",
+    "description": "Chain K, 206-3G08 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGHYMHWVRQAPGQGLEWMGWINPYSSGTNYAQNFQGRVTMTRDTSITTAYMELSRLRSDDTAVYYCARAPDYGDRWDFDYWGQGTLVTVSS",
+    "length": 121,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIA_L",
+    "description": "Chain L, 206-3G08 lambda chain Fv",
+    "sequence": "QSALTQPPSASGSPGQSVTISCTGTSSDVGGYNYVSWYQQHPGKAPKVIIYEVSKRPSGVPDRFSGSKSGNTASLTVSGLQADDEADYYCSSYEVFGTGTKVTVL",
+    "length": 105,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MIA_H",
+    "description": "Chain H, 206-3G08 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGHYMHWVRQAPGQGLEWMGWINPYSSGTNYAQNFQGRVTMTRDTSITTAYMELSRLRSDDTAVYYCARAPDYGDRWDFDYWGQGTLVTVSS",
+    "length": 121,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MI0_R",
+    "description": "Chain R, 61_12A01 kappa chain Fv",
+    "sequence": "VSVLTQSPGTLSLSPGERATLSCRASQTVGSSYLAWYQQKPGQAPRLLIYGASSRATGIPDRFSGSGSGTDFTLTISRLEPEDFAVYYCQQYEAFGQGTKVEIK",
+    "length": 104,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MI0_P",
+    "description": "Chain P, 61_12A01 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKQPGASVKVSCKASGYTFSDHFMHWVRQAPGQGLEWMGWINPKSGGPNYAQKFQGRVTMTRDRSISTAYMELRGLRSDDTAIYYCARPMHDYDDHDWYFDLWGRGTLVTVSS",
+    "length": 123,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MI0_N",
+    "description": "Chain N, 61_12A01 kappa chain Fv",
+    "sequence": "VSVLTQSPGTLSLSPGERATLSCRASQTVGSSYLAWYQQKPGQAPRLLIYGASSRATGIPDRFSGSGSGTDFTLTISRLEPEDFAVYYCQQYEAFGQGTKVEIK",
+    "length": 104,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MI0_K",
+    "description": "Chain K, 61_12A01 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKQPGASVKVSCKASGYTFSDHFMHWVRQAPGQGLEWMGWINPKSGGPNYAQKFQGRVTMTRDRSISTAYMELRGLRSDDTAIYYCARPMHDYDDHDWYFDLWGRGTLVTVSS",
+    "length": 123,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MI0_L",
+    "description": "Chain L, 61_12A01 kappa chain Fv",
+    "sequence": "VSVLTQSPGTLSLSPGERATLSCRASQTVGSSYLAWYQQKPGQAPRLLIYGASSRATGIPDRFSGSGSGTDFTLTISRLEPEDFAVYYCQQYEAFGQGTKVEIK",
+    "length": 104,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9MI0_H",
+    "description": "Chain H, 61_12A01 heavy chain Fv",
+    "sequence": "QVQLVQSGAEVKQPGASVKVSCKASGYTFSDHFMHWVRQAPGQGLEWMGWINPKSGGPNYAQKFQGRVTMTRDRSISTAYMELRGLRSDDTAIYYCARPMHDYDDHDWYFDLWGRGTLVTVSS",
+    "length": 123,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU6_K",
+    "description": "Chain K, 35O22 light chain Fv",
+    "sequence": "QSVLTQSASVSGSLGQSVTISCTGPNSVCCSHKSISWYQWPPGRAPTLIIYEDNERAPGISPRFSGYKSYWSAYLTISDLRPEDETTYYCCSYTHNSGCVFGTGTKVSVLGQSK",
+    "length": 114,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU6_J",
+    "description": "Chain J, 35O22 heavy chain Fv",
+    "sequence": "QGQLVQSGAELKKPGASVKISCKTSGYRFNFYHINWIRQTAGRGPEWMGWISPYSGDKNLAPAFQDRVIMTTDTEVPVTSFTSTGAAYMEIRNLKFDDTGTYFCAKGLLRDGSSTWLPYLWGQGTLLTVSS",
+    "length": 131,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU6_G",
+    "description": "Chain G, 35O22 light chain Fv",
+    "sequence": "QSVLTQSASVSGSLGQSVTISCTGPNSVCCSHKSISWYQWPPGRAPTLIIYEDNERAPGISPRFSGYKSYWSAYLTISDLRPEDETTYYCCSYTHNSGCVFGTGTKVSVLGQSK",
+    "length": 114,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU6_F",
+    "description": "Chain F, 35O22 heavy chain Fv",
+    "sequence": "QGQLVQSGAELKKPGASVKISCKTSGYRFNFYHINWIRQTAGRGPEWMGWISPYSGDKNLAPAFQDRVIMTTDTEVPVTSFTSTGAAYMEIRNLKFDDTGTYFCAKGLLRDGSSTWLPYLWGQGTLLTVSS",
+    "length": 131,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU6_E",
+    "description": "Chain E, 35O22 light chain Fv",
+    "sequence": "QSVLTQSASVSGSLGQSVTISCTGPNSVCCSHKSISWYQWPPGRAPTLIIYEDNERAPGISPRFSGYKSYWSAYLTISDLRPEDETTYYCCSYTHNSGCVFGTGTKVSVLGQSK",
+    "length": 114,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU6_D",
+    "description": "Chain D, 35O22 heavy chain Fv",
+    "sequence": "QGQLVQSGAELKKPGASVKISCKTSGYRFNFYHINWIRQTAGRGPEWMGWISPYSGDKNLAPAFQDRVIMTTDTEVPVTSFTSTGAAYMEIRNLKFDDTGTYFCAKGLLRDGSSTWLPYLWGQGTLLTVSS",
+    "length": 131,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU5_K",
+    "description": "Chain K, 35O22 light chain Fv",
+    "sequence": "QSVLTQSASVSGSLGQSVTISCTGPNSVCCSHKSISWYQWPPGRAPTLIIYEDNERAPGISPRFSGYKSYWSAYLTISDLRPEDETTYYCCSYTHNSGCVFGTGTKVSVLGQSK",
+    "length": 114,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU5_J",
+    "description": "Chain J, 35O22 heavy chain Fv",
+    "sequence": "QGQLVQSGAELKKPGASVKISCKTSGYRFNFYHINWIRQTAGRGPEWMGWISPYSGDKNLAPAFQDRVIMTTDTEVPVTSFTSTGAAYMEIRNLKFDDTGTYFCAKGLLRDGSSTWLPYLWGQGTLLTVSS",
+    "length": 131,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU5_G",
+    "description": "Chain G, 35O22 light chain Fv",
+    "sequence": "QSVLTQSASVSGSLGQSVTISCTGPNSVCCSHKSISWYQWPPGRAPTLIIYEDNERAPGISPRFSGYKSYWSAYLTISDLRPEDETTYYCCSYTHNSGCVFGTGTKVSVLGQSK",
+    "length": 114,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU5_F",
+    "description": "Chain F, 35O22 heavy chain Fv",
+    "sequence": "QGQLVQSGAELKKPGASVKISCKTSGYRFNFYHINWIRQTAGRGPEWMGWISPYSGDKNLAPAFQDRVIMTTDTEVPVTSFTSTGAAYMEIRNLKFDDTGTYFCAKGLLRDGSSTWLPYLWGQGTLLTVSS",
+    "length": 131,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU5_E",
+    "description": "Chain E, 35O22 light chain Fv",
+    "sequence": "QSVLTQSASVSGSLGQSVTISCTGPNSVCCSHKSISWYQWPPGRAPTLIIYEDNERAPGISPRFSGYKSYWSAYLTISDLRPEDETTYYCCSYTHNSGCVFGTGTKVSVLGQSK",
+    "length": 114,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CU5_D",
+    "description": "Chain D, 35O22 heavy chain Fv",
+    "sequence": "QGQLVQSGAELKKPGASVKISCKTSGYRFNFYHINWIRQTAGRGPEWMGWISPYSGDKNLAPAFQDRVIMTTDTEVPVTSFTSTGAAYMEIRNLKFDDTGTYFCAKGLLRDGSSTWLPYLWGQGTLLTVSS",
+    "length": 131,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9B7V_L",
+    "description": "Chain L, Fab3-5 light chain",
+    "sequence": "DIQMTQSPSSLSASVGDRVTITCRTSQSISRYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFTGSGSGTDFTLTISSLQPEDFATYYCQQSYSIPPVTFGQGTRVD",
+    "length": 106,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9B7V_H",
+    "description": "Chain H, Fab3-5 heavy chain",
+    "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYGMNWVRQAPGKGLEWVSYISSGGTIYYADSVKGRFTISRDNAKNSVYLQMNSLRAEDTAVYYCARDPAYCGDDCYTIPAHYFDYWGQGTPVTVS",
+    "length": 126,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9B7R_L",
+    "description": "Chain L, Fab3-1 light chain",
+    "sequence": "EIVMTQSPATLSVSPGDRATLSCRASQSVSSKLAWYQQKPGQAPRLLIYAASTRATGIPARFSGSGSGTEFTLTISSLQSEDFAVYYCQQYNYWPPITFGQGTRL",
+    "length": 105,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9B7R_H",
+    "description": "Chain H, Fab3-1 heavy chain",
+    "sequence": "EVQLLESGGGLVQPGGSLRLSCEASGFTFSRYPMNWVRQAPGKGLEWVSHISASGGTTYYADTVKGRFSISRDNSKNTLYLEMNSLRAEDTAIYFCAKDYPPDEVTMIVVGMPYFDSWGLGTLVSVSS",
+    "length": 128,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8U9Y_N",
+    "description": "Chain N, HC84.26 heavy chain",
+    "sequence": "METDTLLLWVLLLWVPGSTGDQVQPVQSGAEVKKPGSSVKVSCEASGGTHSNYVITWVRQAPGQGLEWMGGFIPDFRTAMYAQGFQGRVTITADESTSLAYMELTNLRSEDTAVYYCARGPLSRGYYDYWGPGTLVTVSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTAGWSHPQFEK",
+    "length": 255,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8U9Y_M",
+    "description": "Chain M, HC84.26 light chain",
+    "sequence": "METDTLLLWVLLLWVPGSTGDSYVLTQPPSVSVAPGQTASITCSGDKLGDKYVSWYQQRPGQSPVLVLYQDSKRPSGIPERFSGSNSGNTATLTISGTQAMDEADYYCQAWDSSALVFGGGTKLTVLRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+    "length": 234,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8U9Y_F",
+    "description": "Chain F, HC84.26 light chain",
+    "sequence": "METDTLLLWVLLLWVPGSTGDSYVLTQPPSVSVAPGQTASITCSGDKLGDKYVSWYQQRPGQSPVLVLYQDSKRPSGIPERFSGSNSGNTATLTISGTQAMDEADYYCQAWDSSALVFGGGTKLTVLRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+    "length": 234,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8U9Y_E",
+    "description": "Chain E, HC84.26 heavy chain",
+    "sequence": "METDTLLLWVLLLWVPGSTGDQVQPVQSGAEVKKPGSSVKVSCEASGGTHSNYVITWVRQAPGQGLEWMGGFIPDFRTAMYAQGFQGRVTITADESTSLAYMELTNLRSEDTAVYYCARGPLSRGYYDYWGPGTLVTVSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTAGWSHPQFEK",
+    "length": 255,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CLP_L",
+    "description": "Chain L, H11 Fab light chain",
+    "sequence": "QSALTQPASVSGSPGQSITISCTGTSSDVGGYNYVSWYQQHPGKAPKLMIYEVSNRPSGVSNRFSGSKSGNTASLTISGLQAEDEADYYCSSYTSSSTLVVFGGGTKLTVLGQPKAAPSVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHKSYSCQVTHEGSTVEKTVAPTECS",
+    "length": 217,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CLP_H",
+    "description": "Chain H, H11 Fab heavy chain",
+    "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGYYMHWVRQAPGQGLEWMGWINPNSGGTNYAQKFQGRVTMTRDTSISTAYMELSRLRSDDTAVYYCAREWDDDDFSFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKK",
+    "length": 217,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CLP_C",
+    "description": "Chain C, Endogenous peptide",
+    "sequence": "XXXXXXX",
+    "length": 7,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8TO9_Z",
+    "description": "Chain Z, Envelope glycoprotein gp41",
+    "sequence": "AVGLGAVFLGFLGAAGSTMGAASNTLTVQARQLLSGIVQQQSNLLRAPEAQQHMLQLGVWGFKQLQARVLAIERYLEVQQLLGIWGCSGKLICCTAVPWNSSWSNKSQEDIWDNMTWMQWDREIGNYTDTIYRLLEESQFQQEINEKDLLALD",
+    "length": 153,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8TO9_J",
+    "description": "Chain J, Envelope glycoprotein gp41",
+    "sequence": "AVGLGAVFLGFLGAAGSTMGAASNTLTVQARQLLSGIVQQQSNLLRAPEAQQHMLQLGVWGFKQLQARVLAIERYLEVQQLLGIWGCSGKLICCTAVPWNSSWSNKSQEDIWDNMTWMQWDREIGNYTDTIYRLLEESQFQQEINEKDLLALD",
+    "length": 153,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8TO9_I",
+    "description": "Chain I, Envelope glycoprotein gp41",
+    "sequence": "AVGLGAVFLGFLGAAGSTMGAASNTLTVQARQLLSGIVQQQSNLLRAPEAQQHMLQLGVWGFKQLQARVLAIERYLEVQQLLGIWGCSGKLICCTAVPWNSSWSNKSQEDIWDNMTWMQWDREIGNYTDTIYRLLEESQFQQEINEKDLLALD",
+    "length": 153,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8TO9_C",
+    "description": "Chain C, Envelope glycoprotein gp120",
+    "sequence": "NLWVTVYYGVPVWKEAKTTLFCASDAKAYEKEVHNVWATHACVPTDPNPQEMVLENVTENFNMWKNDMVDQMHEDIISLWDQSLKPCVKLTPLCVTLNCTNVNVTNTNNNNMKEEMKNCSFNTTTEIRDKKQKEYALFYRLDIVPLNENSSEYRLINCNTSTITQICPKVSFDPIPIHYCAPAGYAILKCNNKTFNGTGPCNNVSTVQCTHGIKPVVSTQLLLNGSLAEEEIIIRSENLTDNAKTIIVHLNESVEINCTRPNNMTRKSIRIGPGQTFYALGDIIGDIRQPHCNISEAKWNKTLQRVKKKLKEHFPNKTIKFAPSSGGDLEITTHSFNCRGEFFYCNTSKLFNSTYNNTTSNSTITLPCRIKQIINMWQEVGRAMYAPPIAGNITCKSNITGLLLTRDGGNNNNNTETFRPGGGDMRDNWRSELYKYKVVEIKPLGIAPTKCKRRVVERRRRRR",
+    "length": 463,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8TO9_B",
+    "description": "Chain B, Envelope glycoprotein gp120",
+    "sequence": "NLWVTVYYGVPVWKEAKTTLFCASDAKAYEKEVHNVWATHACVPTDPNPQEMVLENVTENFNMWKNDMVDQMHEDIISLWDQSLKPCVKLTPLCVTLNCTNVNVTNTNNNNMKEEMKNCSFNTTTEIRDKKQKEYALFYRLDIVPLNENSSEYRLINCNTSTITQICPKVSFDPIPIHYCAPAGYAILKCNNKTFNGTGPCNNVSTVQCTHGIKPVVSTQLLLNGSLAEEEIIIRSENLTDNAKTIIVHLNESVEINCTRPNNMTRKSIRIGPGQTFYALGDIIGDIRQPHCNISEAKWNKTLQRVKKKLKEHFPNKTIKFAPSSGGDLEITTHSFNCRGEFFYCNTSKLFNSTYNNTTSNSTITLPCRIKQIINMWQEVGRAMYAPPIAGNITCKSNITGLLLTRDGGNNNNNTETFRPGGGDMRDNWRSELYKYKVVEIKPLGIAPTKCKRRVVERRRRRR",
+    "length": 463,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8TO9_A",
+    "description": "Chain A, Envelope glycoprotein gp120",
+    "sequence": "NLWVTVYYGVPVWKEAKTTLFCASDAKAYEKEVHNVWATHACVPTDPNPQEMVLENVTENFNMWKNDMVDQMHEDIISLWDQSLKPCVKLTPLCVTLNCTNVNVTNTNNNNMKEEMKNCSFNTTTEIRDKKQKEYALFYRLDIVPLNENSSEYRLINCNTSTITQICPKVSFDPIPIHYCAPAGYAILKCNNKTFNGTGPCNNVSTVQCTHGIKPVVSTQLLLNGSLAEEEIIIRSENLTDNAKTIIVHLNESVEINCTRPNNMTRKSIRIGPGQTFYALGDIIGDIRQPHCNISEAKWNKTLQRVKKKLKEHFPNKTIKFAPSSGGDLEITTHSFNCRGEFFYCNTSKLFNSTYNNTTSNSTITLPCRIKQIINMWQEVGRAMYAPPIAGNITCKSNITGLLLTRDGGNNNNNTETFRPGGGDMRDNWRSELYKYKVVEIKPLGIAPTKCKRRVVERRRRRR",
+    "length": 463,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CLP_L",
+    "description": "Chain L, H11 Fab light chain",
+    "sequence": "QSALTQPASVSGSPGQSITISCTGTSSDVGGYNYVSWYQQHPGKAPKLMIYEVSNRPSGVSNRFSGSKSGNTASLTISGLQAEDEADYYCSSYTSSSTLVVFGGGTKLTVLGQPKAAPSVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHKSYSCQVTHEGSTVEKTVAPTECS",
+    "length": 217,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CLP_H",
+    "description": "Chain H, H11 Fab heavy chain",
+    "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTGYYMHWVRQAPGQGLEWMGWINPNSGGTNYAQKFQGRVTMTRDTSISTAYMELSRLRSDDTAVYYCAREWDDDDFSFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKK",
+    "length": 217,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "9CLP_C",
+    "description": "Chain C, Endogenous peptide",
+    "sequence": "XXXXXXX",
+    "length": 7,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "NP_000602.1",
+    "description": "CD59 glycoprotein preproprotein [Homo sapiens]",
+    "sequence": "MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQVYNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFLAAAWSLHP",
+    "length": 128,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "NP_001265042.1",
+    "description": "disintegrin and metalloproteinase domain-containing protein 2 isoform 2 precursor [Homo sapiens]",
+    "sequence": "MWRVLFLLSGLGGLRMDSNFDSLPVQITVPEKIRSIIKEGIESQASYKIVIEGKPYTVNLMQKNFLPHNFRVYSYSGTGIMKPLDQDFQNFCHYQGYIEGYPKSVVMVSTCTGLRGVLQFENVSYGIEPLESSVGFEHVIYQVKHKKADVSLYNEKDIESRDLSFKLQSVEYNHMGSDTTVVAQKVFQLIGLTNAIFVSFNITIILSSLELWIDENKIATTGEANELLHTFLRWKTSYLVLRPHDVAFLLVYREKSNYVGATFQGKMCDANYAGGVVLHPRTISLESLAVILAQLLSLSMGITYDDINKCQCSGAVCIMNPEAIHFSGVKIFSNCSFEDFAHFISKQKSQCLHNQPRLDPFFKQQAVCGNAKLEAGEECDCGTEQDCALIGETCCDIATCRFKAGSNCAEGPCCENCLFMSKERMCRPSFEECDLPEYCNGSSASCPENHYVQTGHPCGLNQWICIDGVCMSGDKQCTDTFGKEVEFGPSECYSHLNSKTDVSGNCGISDSGYTQCEADNLQCGKLICKYVGKFLLQIPRATIIYANISGHLCIAVEFASDHADSQKMWIKDGTSCGSNKVCRNQRCVSSSYLGYDCTTDKCNDRGVCNNKKHCHCSASYLPPDCSVQSDLWPGGSIDSGNFPPVAIPARLPERRYIENIYHSKPMRWPFFLFIPFFIIFCVLIAIMVKVNFQRKKWRTEDYSSDEQPESESEPKG",
+    "length": 716,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "Snake Venom Metalloproteinase",
+      "Disintegrin"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "P13987.1",
+    "description": "RecName: Full=CD59 glycoprotein; AltName: Full=1F5 antigen; AltName: Full=20 kDa homologous restriction factor; Short=HRF-20; Short=HRF20; AltName: Full=MAC-inhibitory protein; Short=MAC-IP; AltName: Full=MEM43 antigen; AltName: Full=Membrane attack complex inhibition factor; Short=MACIF; AltName: Full=Membrane inhibitor of reactive lysis; Short=MIRL; AltName: Full=Protectin; AltName: CD_antigen=CD59; Flags: Precursor",
+    "sequence": "MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQVYNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFLAAAWSLHP",
+    "length": 128,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "NP_001424713.1",
+    "description": "disintegrin and metalloproteinase domain-containing protein 2 isoform 4 precursor [Homo sapiens]",
+    "sequence": "MWRVLFLLSGLGGLRMDSNFDSLPVQITVPEKIRSIIKEGIESQASYKIVIEGKPYTVNLMQKNFLPHNFRVYSYSGTGIMKPLDQDFQNFCHYQGYIEGYPKSVVMVSTCTGLRGVLQFENVSYGIEPLESSVGFEHVIYQVKHKKADVSLYNEKDIESRDLSFKLQSVEHPRTISLESLAVILAQLLSLSMGITYDDINKCQCSGAVCIMNPEAIHFSGVKIFSNCSFEDFAHFISKQKSQCLHNQPRLDPFFKQQAVCGNAKLEAGEECDCGTEQDCALIGETCCDIATCRFKAGSNCAEGPCCENCLFMSKERMCRPSFEECDLPEYCNGSSASCPENHYVQTGHPCGLNQWICIDGVCMSGDKQCTDTFGKEVEFGPSECYSHLNSKTDVSGNCGISDSGYTQCEADGHLCIAVEFASDHADSQKMWIKDGTSCGSNKVCRNQRCVSSSYLGYDCTTDKCNDRGVCNNKKHCHCSASYLPPDCSVQSDLWPGGSIDSGNFPPVAIPARLPERRYIENIYHSKPMRWPFFLFIPFFIIFCVLIAIMVKVNFQRKKWRTEDYSSDEQPESESEPKG",
+    "length": 579,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "Snake Venom Metalloproteinase",
+      "Disintegrin"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "Q9HCN6.4",
+    "description": "RecName: Full=Platelet glycoprotein VI; Short=GPVI; AltName: Full=Glycoprotein 6; Flags: Precursor",
+    "sequence": "MSPSPTALFCLGLCLGRVPAQSGPLPKPSLQALPSSLVPLEKPVTLRCQGPPGVDLYRLEKLSSSRYQDQAVLFIPAMKRSLAGRYRCSYQNGSLWSLPSDQLELVATGVFAKPSLSAQPGPAVSSGGDVTLQCQTRYGFDQFALYKEGDPAPYKNPERWYRASFPIITVTAAHSGTYRCYSFSSRDPYLWSAPSDPLELVVTGTSVTPSRLPTEPPSPVAEFSEATAELTVSFTNEVFTTETSRSITASPKESDSPAGPARQYYTKGNLVRICLGAVILIILAGFLAEDWHSRRKRLRHRGRAVQRPLPPLPPLPLTRKSNGGQDGGRQDVHSRGLCS",
+    "length": 339,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "P00740.2",
+    "description": "RecName: Full=Coagulation factor IX; AltName: Full=Christmas factor; AltName: Full=Plasma thromboplastin component; Short=PTC; Contains: RecName: Full=Coagulation factor IXa light chain; Contains: RecName: Full=Coagulation factor IXa heavy chain; Flags: Precursor",
+    "sequence": "MQRVNMIMAESPGLITICLLGYLLSAECTVFLDHENANKILNRPKRYNSGKLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESNPCLNGGSCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSADNKVVCSCTEGYRLAENQKSCEPAVPFPCGRVSVSQTSKLTRAETVFPDVDYVNSTEAETILDNITQSTQSFNDFTRVVGGEDAKPGQFPWQVVLNGKVDAFCGGSIVNEKWIVTAAHCVETGVKITVVAGEHNIEETEHTEQKRNVIRIIPHHNYNAAINKYNHDIALLELDEPLVLNSYVTPICIADKEYTNIFLKFGSGYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYNNMFCAGFHEGGRDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRYVNWIKEKTKLT",
+    "length": 461,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "1CDQ_A",
+    "description": "Chain A, CD59",
+    "sequence": "LQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQVYNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLEN",
+    "length": 77,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "6ION_A",
+    "description": "Chain A, Ly6/PLAUR domain-containing protein 3",
+    "sequence": "LECYSCVQKADDGCSPNKMKTVKCAPGVDVCTEAVGAVETIHGQFSLAVRGCGSGLPGKNDRGLDLHGLLAFIQLQQCAQDRCNAKLNLTSRALDPAGNESAYPPNGVECYSCVGLSREACQGTSPPVVSCYNASDHVYKGCFDGNVTLTAANVTVSLPVRGCVQDEFCTRDGVTGPGFTLSGSCCQGSRCNSDLRNKTYF",
+    "length": 201,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "6IOM_B",
+    "description": "Chain B, Ly6/PLAUR domain-containing protein 3",
+    "sequence": "LECYSCVQKADDGCSPNKMKTVKCAPGVDVCTEAVGAVETIHGQFSLAVRGCGSGLPGKNDRGLDLHGLLAFIQLQQCAQDRCNAKLNLTSRALDPAGNESAYPPNGVECYSCVGLSREACQGTSPPVVSCYNASDHVYKGCFDGNVTLTAANVTVSLPVRGCVQDEFCTRDGVTGPGFTLSGSCCQGSRCNSDLRNKTYF",
+    "length": 201,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "6IOM_A",
+    "description": "Chain A, Ly6/PLAUR domain-containing protein 3",
+    "sequence": "LECYSCVQKADDGCSPNKMKTVKCAPGVDVCTEAVGAVETIHGQFSLAVRGCGSGLPGKNDRGLDLHGLLAFIQLQQCAQDRCNAKLNLTSRALDPAGNESAYPPNGVECYSCVGLSREACQGTSPPVVSCYNASDHVYKGCFDGNVTLTAANVTVSLPVRGCVQDEFCTRDGVTGPGFTLSGSCCQGSRCNSDLRNKTYF",
+    "length": 201,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "1CDS_A",
+    "description": "Chain A, CD59",
+    "sequence": "LQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQVYNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLEN",
+    "length": 77,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "NP_001265043.1",
+    "description": "disintegrin and metalloproteinase domain-containing protein 2 isoform 3 precursor [Homo sapiens]",
+    "sequence": "MWRVLFLLSGLGGLRMDSNFDSLPVQITVPEKIRSIIKEGIESQASYKIVIEGKPYTVNLMQKNFLPHNFRVYSYSGTGIMKPLDQDFQNFCHYQGYIEGYPKSVVMVSTCTGLRGVLQFENVSYGIEPLESSVGFEHVIYQVKHKKADVSLYNEKDIESRDLSFKLQSVEPQQDFAKYIEMHVIVEKQLYNHMGSDTTVVAQKVFQLIGLTNAIFVSFNITIILSSLELWIDENKIATTGEANELLHTFLRWKTSYLVLRPHDVAFLLVYREKSNYVGATFQGKMCDANYAGGVVLHPRTISLESLAVILAQLLSLSMGITYDDINKCQCSGAVCIMNPEAIHFSGVKIFSNCSFEDFAHFISKQKSQCLHNQPRLDPFFKQQAVCGNAKLEAGEECDCGTEQDCALIGETCCDIATCRFKAGSNCAEGPCCENCLFMSKERMCRPSFEECDLPEYCNGSSASCPENHYVQTGHPCGLNQWICIDGVCMSGDKQCTDTFGKEVEFGPSECYSHLNSKTDVSGNCGISDSGYTQCEVCRNQRCVSSSYLGYDCTTDKCNDRGVCNNKKHCHCSASYLPPDCSVQSDLWPGGSIDSGNFPPVAIPARLPERRYIENIYHSKPMRWPFFLFIPFFIIFCVLIAIMVKVNFQRKKWRTEDYSSDEQPESESEPKG",
+    "length": 672,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "Snake Venom Metalloproteinase",
+      "Disintegrin"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "NP_001455.3",
+    "description": "disintegrin and metalloproteinase domain-containing protein 2 isoform 1 preproprotein [Homo sapiens]",
+    "sequence": "MWRVLFLLSGLGGLRMDSNFDSLPVQITVPEKIRSIIKEGIESQASYKIVIEGKPYTVNLMQKNFLPHNFRVYSYSGTGIMKPLDQDFQNFCHYQGYIEGYPKSVVMVSTCTGLRGVLQFENVSYGIEPLESSVGFEHVIYQVKHKKADVSLYNEKDIESRDLSFKLQSVEPQQDFAKYIEMHVIVEKQLYNHMGSDTTVVAQKVFQLIGLTNAIFVSFNITIILSSLELWIDENKIATTGEANELLHTFLRWKTSYLVLRPHDVAFLLVYREKSNYVGATFQGKMCDANYAGGVVLHPRTISLESLAVILAQLLSLSMGITYDDINKCQCSGAVCIMNPEAIHFSGVKIFSNCSFEDFAHFISKQKSQCLHNQPRLDPFFKQQAVCGNAKLEAGEECDCGTEQDCALIGETCCDIATCRFKAGSNCAEGPCCENCLFMSKERMCRPSFEECDLPEYCNGSSASCPENHYVQTGHPCGLNQWICIDGVCMSGDKQCTDTFGKEVEFGPSECYSHLNSKTDVSGNCGISDSGYTQCEADNLQCGKLICKYVGKFLLQIPRATIIYANISGHLCIAVEFASDHADSQKMWIKDGTSCGSNKVCRNQRCVSSSYLGYDCTTDKCNDRGVCNNKKHCHCSASYLPPDCSVQSDLWPGGSIDSGNFPPVAIPARLPERRYIENIYHSKPMRWPFFLFIPFFIIFCVLIAIMVKVNFQRKKWRTEDYSSDEQPESESEPKG",
+    "length": 735,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "Snake Venom Metalloproteinase",
+      "Disintegrin"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8SXP_H",
+    "description": "Chain H, 95Mat5 Fab heavy chain",
+    "sequence": "EVQLVQSGAEVKKPGSSVKVSCKASGGTFSSYAISWVRQAPGQGLEWMGGYIPIFGTANYAQKFQGRVTITADESTSTAYMELSSLRSEDTAVYYCARIPLRWYESGPYESGVFDYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPK",
+    "length": 228,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "8SXP_L",
+    "description": "Chain L, 95Mat5 Fab light chain",
+    "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYDASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSTPYTFGQGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRG",
+    "length": 212,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "4V1D_E",
+    "description": "Chain E, SINGLE CHAIN ANTIBODY FRAGMENT RU1, LIGHT CHAIN",
+    "sequence": "GGGGSGGGGSGGGGSNFMLTQPHSASGTPGQRVTISCSGSSSNIGSNTVNWYRHLPGSAPELLIGSHNQRPSGVPDRFSASKSDTSASLAISGLQSEDEADYYCAAWDDSLIGYVFGTGTKLTVLGAAAEQKLISEEDLNGAAHHHHHH",
+    "length": 149,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "4V1D_D",
+    "description": "Chain D, SINGLE CHAIN ANTIBODY FRAGMENT RU1, HEAVY CHAIN",
+    "sequence": "QVNLRESGGGLVQPGGSLRLSCAASGFSFGSYGMHWVRQAPGKGLEWVAVISYGGGNKYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDARDCLLCADWHFDLWGRGTLVTVSS",
+    "length": 124,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "4V1D_B",
+    "description": "Chain B, SINGLE CHAIN ANTIBODY FRAGMENT LR, LIGHT CHAIN",
+    "sequence": "GGGGSGGGGSGGGGSEIVLTQSPATLSVSPGERATLSCRASQSVRSYLAWYQQKPGQAPRLLFSDASNRATGIPARFTGSGSGTDFTLTISSLEPEDFAIYYCQQYRYSPRTFGQGTKVEIKRAAAEQKLISEEDLNGAAHHHHHH",
+    "length": 146,
+    "chain_type": "Light",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "4V1D_A",
+    "description": "Chain A, SINGLE CHAIN ANTIBODY FRAGMENT LR, HEAVY CHAIN",
+    "sequence": "EVQLVESGGGLVQPGGSLRLSCTGSGFTFDNYAMHWLRQVPGEGLEWVSGISRSSGDIDYADSVKGRFTISRDDAKKTLSLQMNSLRAEDTAVYYCARGGFGSFDTWGQGTMVTVSS",
+    "length": 117,
+    "chain_type": "Heavy",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  },
+  {
+    "id": "1CDR_A",
+    "description": "Chain A, CD59",
+    "sequence": "LQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQVYNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLEN",
+    "length": 77,
+    "chain_type": "Unknown",
+    "species": "Homo sapiens",
+    "specificity": "Snake venom",
+    "targeted_toxins": [
+      "General antivenom"
+    ],
+    "neutralization_effectiveness": "Unknown",
+    "source": "NCBI"
+  }
+]

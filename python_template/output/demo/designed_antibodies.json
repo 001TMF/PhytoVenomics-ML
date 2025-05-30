@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "AB001_SPEC",
+    "target_toxin_id": "PHO001",
+    "target_epitope_id": "PHO001_ep1",
+    "sequence": "ITLLYSNCCVERYYVEFGMHIWMVTSMWMTNCNIVPMIYIRTLSLYCPVKSSYSFPWDMLMAHEPQAIGGNLNVWTDRQGDMGEEYMPSVQQVWKDPLPHIEVKFRKMWPCFDTRPLKLDDMPMNMSYDMKIYQFTYDNQPRGDGMLCVFERHIECPSFQSKLDATGKHAWRIKFEGPNPEWYGSYCMNCAMLIVVFYKGSPMEDVPHAIDHGKKNMNTA",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.85,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 8,
+      "CDR-H3": 14,
+      "CDR-L1": 11,
+      "CDR-L2": 10,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO001",
+        "affinity_nm": 36.15,
+        "binding_energy": -12.0
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB002_BNAB",
+    "target_toxin_id": "PHO001",
+    "target_epitope_id": "PHO001_ep1",
+    "sequence": "TAQVDIFPLNKDQLEEFQCASQKQYGYTECIIINDADIAGSPPISAASWHMRFRKGIIAHWFWHASNTMRKAHKPVKDEEWVEAHHGGFSVPFLHDAHLERMCAWWFLFDAWLMRTSDVQDGLCEWWLPMPHTWIDSGMDRDLIIDPHWIIIGGSGCFFCEMEVMHCVWQRGGGTCSVKNATNNFCRMVISERIQRCCNVCIYIMQVRNMMPQSPNRSPKRPNVWLFNPI",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.6,
+    "breadth_score": 0.78,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 17,
+      "CDR-H3": 19,
+      "CDR-L1": 11,
+      "CDR-L2": 10,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO001",
+        "affinity_nm": 30.07,
+        "binding_energy": -8.0
+      },
+      {
+        "toxin_id": "PHO558",
+        "affinity_nm": 48.69,
+        "binding_energy": -9.6
+      },
+      {
+        "toxin_id": "PHO394",
+        "affinity_nm": 58.88,
+        "binding_energy": -6.6
+      },
+      {
+        "toxin_id": "PHO581",
+        "affinity_nm": 62.53,
+        "binding_energy": -8.1
+      }
+    ]
+  },
+  {
+    "id": "AB003_SPEC",
+    "target_toxin_id": "PHO001",
+    "target_epitope_id": "PHO001_ep2",
+    "sequence": "TCTFVYWPAKVMDNWVMDSNMKTTCCCYHQMIFVQGAMEPWTSEMYGKVSVCNNKHDNTFFNNWYAWKMGYFVSHYNFVEWWWVTGFTSQQQWITVQWCCINAEAVGWCGSTVYRQHKPCNGFDKADRTWSSCKVQAKQDAIWPPSILDVTHQTPWHAILKMICDGSAQHFDIQWIMICCMVFRWEILPMPQVDGRELTWVIPMFYILNFSNKRSAINFV",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.63,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 9,
+      "CDR-H3": 15,
+      "CDR-L1": 8,
+      "CDR-L2": 11,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO001",
+        "affinity_nm": 19.73,
+        "binding_energy": -12.6
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB004_BNAB",
+    "target_toxin_id": "PHO001",
+    "target_epitope_id": "PHO001_ep2",
+    "sequence": "SDDDGMEDMCMANRSDFALMTYNEVIHPSPEGLYNAKHLCHADHFVGYMHAIFSSLSGWWRRHGGGFMGGQWLHYYFSFTVKFMTKYTVQNAHLHKIWSQNLAFELCCWDHHVKQMEGYSACSYGGDDSSDQAYIDERLCLKNCLDWSRHSCAPMQKIKTSYKLITCGASCDMVCHIDSWQSFYEDIHEHQRRIGVLFTEMSLTSNKQFAVIWHSWEATYPHDWFTTENL",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.72,
+    "breadth_score": 0.63,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 12,
+      "CDR-H3": 10,
+      "CDR-L1": 14,
+      "CDR-L2": 8,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO001",
+        "affinity_nm": 71.88,
+        "binding_energy": -10.4
+      },
+      {
+        "toxin_id": "PHO103",
+        "affinity_nm": 241.25,
+        "binding_energy": -9.8
+      },
+      {
+        "toxin_id": "PHO866",
+        "affinity_nm": 274.95,
+        "binding_energy": -9.4
+      },
+      {
+        "toxin_id": "PHO968",
+        "affinity_nm": 207.96,
+        "binding_energy": -9.5
+      }
+    ]
+  },
+  {
+    "id": "AB001_SPEC",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep1",
+    "sequence": "AEWTMLSMMWMQMCMRLTMRVCNQMVYEEHTSQEVHCNHMLWIMHLKCNGRMYAAVSHMKCCPDWDSENCACGIMIEEPQCDMCNDWTFYHCHKIICLDIDDQDWNLAPKVWYQYNTLDYWLAATVTIAQERLEWNNLSMDPWMAVARPLRSVWYTWVREWMEFDCDLIRHMHLWAMQMNMGWFCWEPNIAYRCSNCIGRKIEWPWMHVYIGDLRRLGDY",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.66,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 13,
+      "CDR-H3": 14,
+      "CDR-L1": 13,
+      "CDR-L2": 10,
+      "CDR-L3": 11
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 47.03,
+        "binding_energy": -12.6
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB002_BNAB",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep1",
+    "sequence": "RLYNIPFKDYKYKCECSSLWMFKNGILENCESRMNNPCTIQLINYFWRNLVWENKNSACTQMVCRMDEWLIYALSHAFNLFKSFSSCCFQVHCSHGEEEFNLCCEMPNTGWMSAVMRRQMIHHSVVRGSGPWSPHMDFKMMTQKHTIVFQHDGTYWWHHHAKVMSEPFVNGRRHWNLHNGRLYVNMFVPFPEMDACIGCNAWCSQCISKITSMEQDWCGAQNSWMNIQRW",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.67,
+    "breadth_score": 0.9,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 8,
+      "CDR-H3": 22,
+      "CDR-L1": 15,
+      "CDR-L2": 11,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 84.06,
+        "binding_energy": -11.5
+      },
+      {
+        "toxin_id": "PHO519",
+        "affinity_nm": 190.87,
+        "binding_energy": -6.7
+      },
+      {
+        "toxin_id": "PHO651",
+        "affinity_nm": 147.86,
+        "binding_energy": -7.7
+      },
+      {
+        "toxin_id": "PHO099",
+        "affinity_nm": 182.1,
+        "binding_energy": -9.5
+      }
+    ]
+  },
+  {
+    "id": "AB003_SPEC",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep2",
+    "sequence": "GWKNADLMIWQYWQQRDPRYLEHYRAKERAKQLKVDCNQQRYPCQHDSGNLECPWQACQHWCPNYTCDISKAQHKKWKNKLGKRSPKSPNNSNDCPAPCIDLGVDAYATKRWMDLWQKVSEANHKMCAHAFIPYIADETQPFENFKYFKMAMIGCSDMGSWNNFVHCHYNIGVAMNKCKHKELNQWQWYTAPGNTTDGGNDVLCYSMIQMITYKYLYKYE",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.7,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 18,
+      "CDR-H3": 14,
+      "CDR-L1": 13,
+      "CDR-L2": 10,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 12.88,
+        "binding_energy": -10.3
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB004_BNAB",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep2",
+    "sequence": "NTGQSLAQWWAARMIQMTQAKYEEPSTWCWFHRGCSCHPPWPGMNPDDGGETNCMIWDMFEDPSAAYVKSEYLLAWWKPMDRCDCPCWICWNMICNSAFAYYTDYHIYAYVCYPEYLGTWQYDGQMYTRDGYMCPTVPQYYWNWNKQYGTLSKMHDYFRVITTLRQYAETETSCQCNNTMGRPVVFNIWRWRHKLPTMISHQSCDIRQWNIWQEVHIDNFKLEGHYDFRI",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.7,
+    "breadth_score": 0.63,
+    "cdr_lengths": {
+      "CDR-H1": 9,
+      "CDR-H2": 14,
+      "CDR-H3": 21,
+      "CDR-L1": 10,
+      "CDR-L2": 8,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 15.64,
+        "binding_energy": -11.4
+      },
+      {
+        "toxin_id": "PHO657",
+        "affinity_nm": 62.19,
+        "binding_energy": -9.9
+      },
+      {
+        "toxin_id": "PHO886",
+        "affinity_nm": 40.78,
+        "binding_energy": -8.5
+      },
+      {
+        "toxin_id": "PHO953",
+        "affinity_nm": 61.48,
+        "binding_energy": -8.6
+      }
+    ]
+  },
+  {
+    "id": "AB005_SPEC",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep3",
+    "sequence": "LEDVQQYHEQWQKEFAENYFTMYSNYNPTIMDWEAFLWRSTVDTEFYIHTWHYFPATKFFEMDEQDQQEEMPKIHMKCCIFANLHPENHELETHLQGDPEVLFIWMLIKGDRPFRMAESLCFWLYAPCVNNEHKKIYPHHSCQAIAYTIVPPRIYKCIASFDKIWLIKRCRHWNNDLAPAQTYIEGGDMSSPCMTQEGIQFAPLGRCGCYIRRFDKRYKS",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.65,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 14,
+      "CDR-H3": 13,
+      "CDR-L1": 11,
+      "CDR-L2": 9,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 6.12,
+        "binding_energy": -9.6
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB006_BNAB",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep3",
+    "sequence": "YSRGFVLSELLYRKNLHRSMDTGHGIRFGDIDGVFTYAYQGNSHDSYLNIIGEAIHWARKVWPDWANWMTHYCRDNHHRINVADNNFNDELRHGDYWASKWSVKFVTCMQMLACLPLNWERGHCEVMGKDPNWWWRVSGTECIHFNMRPDKFEVNSVVAEPFNPYNMCTEYVEGWHTTQNSPQFLMTPLAEIRPPACHQLNPVCNGIPWPICAKPTQIYLQWKFQKRDEY",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.7,
+    "breadth_score": 0.78,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 14,
+      "CDR-H3": 21,
+      "CDR-L1": 12,
+      "CDR-L2": 7,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 76.63,
+        "binding_energy": -8.8
+      },
+      {
+        "toxin_id": "PHO938",
+        "affinity_nm": 177.81,
+        "binding_energy": -9.3
+      },
+      {
+        "toxin_id": "PHO009",
+        "affinity_nm": 246.68,
+        "binding_energy": -10.0
+      },
+      {
+        "toxin_id": "PHO017",
+        "affinity_nm": 285.28,
+        "binding_energy": -8.0
+      }
+    ]
+  },
+  {
+    "id": "AB007_SPEC",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep4",
+    "sequence": "CKSKNNLLFMHEMVDRYISRMSHEFFYYLDWILDENDYNPQHISKTNMTFTYTWYMCYVYPEGMNGTIHQDYWASHGHMDSCKMNSKREYNICYSCWCVYYHIGHWKMVSLTPFANSSQFYHGEWWHYMFRKVGYCLHRVGRYIGTKHAMHYGNAERRRRDNPQYASTMYCNAHDWRDQRCRVWQVSRHFMIGIVSCIDTKCRVGVNPDFWYNYLALRCE",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.58,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 17,
+      "CDR-H3": 17,
+      "CDR-L1": 15,
+      "CDR-L2": 11,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 29.89,
+        "binding_energy": -10.5
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB008_BNAB",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep4",
+    "sequence": "TWECNCQQQYCYRVVACVTSICCEEMDIQDIHMTKYYKHIPQCVSNFTDSRNQVLGYTGSMQFYSHCFGGKCLGVTQFYDLPTHGWDTMSDPYLFSLNCFVISFWFFNHFCSAHTMSFRWSIQMRWTCGIACQAWGVQTVCMMIYKMTVNWCQQVGCKRRSWWTRTFFKSVIKTPAPMLIQEMFHHFGSAFLNCPFGLKSNWNMRHMVQSLNHYFAKFPLEKDCHVPSVG",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.89,
+    "breadth_score": 0.7,
+    "cdr_lengths": {
+      "CDR-H1": 12,
+      "CDR-H2": 16,
+      "CDR-H3": 19,
+      "CDR-L1": 15,
+      "CDR-L2": 10,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 71.76,
+        "binding_energy": -11.2
+      },
+      {
+        "toxin_id": "PHO691",
+        "affinity_nm": 284.18,
+        "binding_energy": -9.0
+      },
+      {
+        "toxin_id": "PHO108",
+        "affinity_nm": 213.6,
+        "binding_energy": -8.1
+      },
+      {
+        "toxin_id": "PHO061",
+        "affinity_nm": 144.33,
+        "binding_energy": -6.7
+      }
+    ]
+  },
+  {
+    "id": "AB009_SPEC",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep5",
+    "sequence": "WFTNFFARPYGMCRIFPHDTQGNIHPFLRTSFEVFAFWLGCTTGTDIFQYQKWGDRMTQDQFRMMKTQKWKFYWMDSASHNTVGFRKSMTNQYPITMGPLKEMKGHPRTCDAEDWILWYVHRYTPMHEITGQKIHTAREHQPHLRIKFLVICMDPVWPGLRALPQYPHLQWWFNECHWLVYFNANHHRSKPACTCLRNQPYSVLFAQTRKACEMVPSGPW",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.58,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 14,
+      "CDR-H3": 20,
+      "CDR-L1": 8,
+      "CDR-L2": 10,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 36.24,
+        "binding_energy": -10.6
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB010_BNAB",
+    "target_toxin_id": "PHO002",
+    "target_epitope_id": "PHO002_ep5",
+    "sequence": "LGFCLCHNEDVPFSCDMWNCKMKLGTPHKQNLDARYEWQPSKTMWMSHFRMHRTKPFMKHYGDACMKGRTKFHTQYDYGVFQYHDGHEDMLYTWVCWDDLTMDKFYNGWRNLLDMTLYLLWLPAAYPDNLPTHLQRAWHITNAPWMAKWINDTAFHSNKHELDNFHVDSSNQPNIQPAGFNCLQHEQWAASLRDKFPPVSGHWRDHVSTYYTFCFIGVTWSGIVRRKHSE",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.77,
+    "breadth_score": 0.74,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 19,
+      "CDR-H3": 18,
+      "CDR-L1": 13,
+      "CDR-L2": 9,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "PHO002",
+        "affinity_nm": 92.81,
+        "binding_energy": -9.6
+      },
+      {
+        "toxin_id": "PHO401",
+        "affinity_nm": 152.05,
+        "binding_energy": -9.1
+      },
+      {
+        "toxin_id": "PHO937",
+        "affinity_nm": 306.15,
+        "binding_energy": -6.6
+      },
+      {
+        "toxin_id": "PHO808",
+        "affinity_nm": 261.03,
+        "binding_energy": -7.5
+      }
+    ]
+  },
+  {
+    "id": "AB001_SPEC",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep1",
+    "sequence": "MCLCFTYMMVQKMRNAETKMNRKCGAMVAHDGYLQNNHTSDEDHCPFGTAVWRNSGAHAGHCIIGAPWGSDDALKQGPQRYTNSQDVSVHDAYCWEINAHANTLEDQSNISEWPGTKCGTNKYKNKMKWYCDADPMLWVLEAACFECVGLVFYEMWFRGECAIEQERFNMECPMYGTKDATMTRTRPWGFSWFWKQHCCYRLAICQVYGWFDYLNFIDKE",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.76,
+    "cdr_lengths": {
+      "CDR-H1": 9,
+      "CDR-H2": 18,
+      "CDR-H3": 22,
+      "CDR-L1": 15,
+      "CDR-L2": 8,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 11.54,
+        "binding_energy": -10.8
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB002_BNAB",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep1",
+    "sequence": "PCAPPWIRGMRWCWGHQTQCKWDSEWATYMKVNQKHNLKRTEAHVYKIAAIYVGGQCILCYARDYQDELTDDTSWLLDYALHVYYNIKFGFTRVNYAMEVTLMCQTPYGPADKDLNLLCTKWSMQGNRPIPKRAIHTWAAPIMQLLQMVGFRYRDMYNWFHLMLYQIVCDYIVCCGAMFSLMNQSHQQWRNKLMIYKSFNECRMWGNRFIKHPRICTRILYQRQICSHNS",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.59,
+    "breadth_score": 0.64,
+    "cdr_lengths": {
+      "CDR-H1": 12,
+      "CDR-H2": 19,
+      "CDR-H3": 19,
+      "CDR-L1": 11,
+      "CDR-L2": 7,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 81.39,
+        "binding_energy": -11.9
+      },
+      {
+        "toxin_id": "SNA300",
+        "affinity_nm": 204.35,
+        "binding_energy": -7.6
+      },
+      {
+        "toxin_id": "SNA954",
+        "affinity_nm": 320.39,
+        "binding_energy": -7.6
+      },
+      {
+        "toxin_id": "SNA512",
+        "affinity_nm": 122.8,
+        "binding_energy": -7.2
+      }
+    ]
+  },
+  {
+    "id": "AB003_SPEC",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep2",
+    "sequence": "KKIKCPTKQGTFWYKYQYTDCETPKAIGLTREFTQFPVGYWGSKTDTTYCQLDHQWVKCFCMEMMHQEKCQADLKFPVAYHERCIRKSSPAIRPWLLTVFGMERYIEFCIKYMKMFVLLVYSWNRWPVIPYLLPFYNAEVSNTKAYPVPGKADMDFRMFQKDPMSMLDADPMKSRAYYGQLGWGQVTYRTCEIHYHPGYLWKLWSWWETHKSWIMCIWCN",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.84,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 18,
+      "CDR-H3": 16,
+      "CDR-L1": 10,
+      "CDR-L2": 7,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 18.68,
+        "binding_energy": -12.0
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB004_BNAB",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep2",
+    "sequence": "FQTRMYYVPYTYYTCFNAKSIDWTYHLSKCFHWAEPEYMVWKDPGYFYLKYLVMRNNQHYEDIKCIYCHKLSICSQGRGQWWFKIAWAIQDNRCHEHIEPASVKGPLTYCCKNACHNIENVDNPMPNCQIAISGEAKRVSYKSIWLEDPVQDDPGYKARDKWMGFHEWVKVCINWVACASQCLNNSILEKMNYPIGGPTNVQRNDGADFYHVFSLDVAKVMVTYTLVLGG",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.68,
+    "breadth_score": 0.79,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 10,
+      "CDR-H3": 11,
+      "CDR-L1": 12,
+      "CDR-L2": 7,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 32.31,
+        "binding_energy": -11.5
+      },
+      {
+        "toxin_id": "SNA682",
+        "affinity_nm": 86.31,
+        "binding_energy": -8.7
+      },
+      {
+        "toxin_id": "SNA543",
+        "affinity_nm": 109.74,
+        "binding_energy": -7.8
+      },
+      {
+        "toxin_id": "SNA177",
+        "affinity_nm": 99.41,
+        "binding_energy": -9.7
+      }
+    ]
+  },
+  {
+    "id": "AB005_SPEC",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep3",
+    "sequence": "HESELRKFIQQDGYFIKDWKDWYLAVSAFAIAKYWCMRPKIYGAIRVVVQDLVDLELVYYMSTEAHQAENRSYWIFRYVISPGKNPYMQIHKGMSDWHVHVTETKRDSSHKLYLFDIRYKVSNIREIQAKNQHQCQAASAGDEEGCHHNAVIVPHVDRFRKFVTGGFVFQGLIGKKCYCFHIKAHTTCNMFVFIFAALLMYCDHQWDCWKIAYSEWSMVD",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.7,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 18,
+      "CDR-H3": 21,
+      "CDR-L1": 12,
+      "CDR-L2": 8,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 26.21,
+        "binding_energy": -13.3
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB006_BNAB",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep3",
+    "sequence": "VIWDNYYTGFHQEHLTQWTALRKLCWHPNQWESKECACFRSMFRSGRRTLSHHQETWEVCCTDWCGKCNEQYLETISIGGYRPLMERWFAFCGWSEFNCPDYMLNWTWACIVMGWQELCWWYWNSNFDMMYIYYYASCRLNQKHVTRFADLDYDFILTCANWRVLIWPMREDGELHYMKKTPNLVEMLQTITYCYHLYHQDQNKLLGSQTSCNMSWQLCTIWAHNGNYKW",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.89,
+    "breadth_score": 0.77,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 19,
+      "CDR-H3": 22,
+      "CDR-L1": 15,
+      "CDR-L2": 7,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 42.99,
+        "binding_energy": -10.3
+      },
+      {
+        "toxin_id": "SNA828",
+        "affinity_nm": 76.38,
+        "binding_energy": -8.5
+      },
+      {
+        "toxin_id": "SNA559",
+        "affinity_nm": 108.38,
+        "binding_energy": -6.3
+      },
+      {
+        "toxin_id": "SNA858",
+        "affinity_nm": 79.21,
+        "binding_energy": -9.0
+      }
+    ]
+  },
+  {
+    "id": "AB007_SPEC",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep4",
+    "sequence": "CDHHDYIDGWPDAPRTCCILYWVTVLFGGVIRFFHDWGQMQWALRNKWGKFMTCMKAGGCGHRLHQCHHTAGGIWTVKSCNWKGFGTPDDINRYWRQKYDMFNNIPPQFSMRIQWCMKRMVFNTFTGGGGHTSVNYGQHDNIIPCEEDPFLKINAICKWCWYWTRPTTDGMWAAAEDWMMPGLIFDITWMSLRVGSACNWNGYGQGAICHILDFCTCYDN",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.63,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 13,
+      "CDR-H3": 12,
+      "CDR-L1": 16,
+      "CDR-L2": 11,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 27.76,
+        "binding_energy": -11.7
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB008_BNAB",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep4",
+    "sequence": "RGWERHEWLSTKDIHWFACSNVRLLVCGWEDHWGKQYNPVMKNSLIEKSMCPFMIGWQHFVMYWEDVGDVHLEMYDRCPLYANHGWFQSKKDESMVGQTLIYHTEYRKPKEVVWHEQPQEDWENSYLNAYADNMIAKSEKYLKVDPEESLPWGVPCWWQCNGEPGVAYDTSAGYVMTKWIRAPRAEIARNCFGGPINGSAPSADWYRWESIILFDPETSDCYTAVKFKQK",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.91,
+    "breadth_score": 0.8,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 19,
+      "CDR-H3": 12,
+      "CDR-L1": 16,
+      "CDR-L2": 8,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 20.3,
+        "binding_energy": -10.2
+      },
+      {
+        "toxin_id": "SNA403",
+        "affinity_nm": 52.32,
+        "binding_energy": -9.4
+      },
+      {
+        "toxin_id": "SNA361",
+        "affinity_nm": 69.97,
+        "binding_energy": -8.4
+      },
+      {
+        "toxin_id": "SNA586",
+        "affinity_nm": 72.23,
+        "binding_energy": -7.4
+      }
+    ]
+  },
+  {
+    "id": "AB009_SPEC",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep5",
+    "sequence": "DWRVTFPTHQATWPKVPFDYCYPSDFRRMRDYVMGFMPITSQRQNMQVFDHLCLNNQWMSFSSQVIAPDDNIYYQYRITRYDTYSRLNVPGVHDDRQHFDWIDPCRESLQSQECIDVSAIQIYSRACREQKLCFNPWEWICKGPKFEYMSPPVTSYQCDKWGDKRIYVSLGLHVARVLFWTGFMGTCMLYAWEHNFCNEQFYMSQHRFNTLEKKWERYLA",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.8,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 12,
+      "CDR-H3": 20,
+      "CDR-L1": 10,
+      "CDR-L2": 9,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 24.44,
+        "binding_energy": -13.4
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB010_BNAB",
+    "target_toxin_id": "SNA003",
+    "target_epitope_id": "SNA003_ep5",
+    "sequence": "THKQEMWVRFVVQHFPEEHFMLDRWGAQCHVTPYGDHTNAASDEWTNKTSIDYLYWTHICKDNKPNPVLDMGEWLQCTKHQHQFMACNLCPTIINHAGPWAESFVFLLAYEYVSPPPDIWSPVHLEKIQFNSHGPETKGDMMYPDHGCECYNLTRGEFVSSGGQWGIPASVNMKCEEHKHRTNGAVEDTLYDPGDGMGLKWACYIPVCWMWWIGQKRTLGLEGDAATMLP",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.67,
+    "breadth_score": 0.63,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 11,
+      "CDR-H3": 17,
+      "CDR-L1": 10,
+      "CDR-L2": 9,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA003",
+        "affinity_nm": 35.85,
+        "binding_energy": -11.3
+      },
+      {
+        "toxin_id": "SNA509",
+        "affinity_nm": 84.36,
+        "binding_energy": -8.0
+      },
+      {
+        "toxin_id": "SNA732",
+        "affinity_nm": 82.09,
+        "binding_energy": -8.6
+      },
+      {
+        "toxin_id": "SNA046",
+        "affinity_nm": 118.82,
+        "binding_energy": -7.4
+      }
+    ]
+  },
+  {
+    "id": "AB001_SPEC",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep1",
+    "sequence": "GWAVMERGILQHDREWRMAGYIIVPFSPWSIQSSADRTYLCGSCCYDSLMANKPYDDTTCETAYFINNWCDNTWKNKNPWITEGVPHNEWSWIFTGIRQMLVIETKCQGWIHQQDDHLKSDHFANLQIEHPNVHLGFHQITIVTYCLNRMPNDMLMIEFAWSVINTHPRHDGFFGTWLVDAGPTLICSQSDINCIPTGGMIELHQRLLAPRNWNDQLLLD",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.7,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 12,
+      "CDR-H3": 14,
+      "CDR-L1": 11,
+      "CDR-L2": 8,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 35.66,
+        "binding_energy": -10.7
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB002_BNAB",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep1",
+    "sequence": "EHCQAMITEHTLLTCCGLQQSQGTTHIVATHYFKASCVAPNGWEPYDEQMSHVTMIVSVIQFFTNWWIESACVLAVVLKWMIDGSLNVQILRAKTQGYVEQNTTYLWVWFNPFDFKPYPWLLPTMLWCDCMKLSIHAFECFWRMCNCITQRSFNCYNGTRRTLWRYCIEQPGEPNWACEWWPDCDKIVKMMHWSRLRMCRERINHHFGGQCSATWREYQVCCVFLAEWYP",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.84,
+    "breadth_score": 0.61,
+    "cdr_lengths": {
+      "CDR-H1": 12,
+      "CDR-H2": 18,
+      "CDR-H3": 17,
+      "CDR-L1": 9,
+      "CDR-L2": 9,
+      "CDR-L3": 11
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 5.8,
+        "binding_energy": -11.3
+      },
+      {
+        "toxin_id": "SNA304",
+        "affinity_nm": 15.28,
+        "binding_energy": -9.5
+      },
+      {
+        "toxin_id": "SNA131",
+        "affinity_nm": 16.45,
+        "binding_energy": -9.6
+      },
+      {
+        "toxin_id": "SNA473",
+        "affinity_nm": 13.92,
+        "binding_energy": -6.9
+      }
+    ]
+  },
+  {
+    "id": "AB003_SPEC",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep2",
+    "sequence": "RYWYAWMSRPQKWFFIWHGVKNHPVTHHKHPLTCHFTTALRCRKYDWLFKDFFECMLPYNHSKQMHVCEWVQANIPLHLKFIWTNEVRDSSFTMDEWCKKWGIQLCWGFAPHVFAMIHTSFQDKKLKGIQVSPNMDQHDYALLSGWNREQYNERKFTEWQNPPGDWTKWEVGQVILMCAKMMMECESYHAWYGMETTVEEESTEGLNDVDRLDFHFFAEW",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.64,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 12,
+      "CDR-H3": 11,
+      "CDR-L1": 10,
+      "CDR-L2": 10,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 4.31,
+        "binding_energy": -10.0
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB004_BNAB",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep2",
+    "sequence": "HVPWESRPVDFPYMLATWAYPQAKINWKKKAYWIQDRITICLVFAVMFYVRCDWMMAFYNWWAPKYFMAKLWVNQISVGMCLWDCKDHHAEMCEVTGERWPKKRVMRVPGACPMRARRLENKPALYQYCIQHVNSCWRKDKWNMSGNYEEELMRNWEFCEFMPLFNYVYYCDVMFHNNHMYMCFIKRWCVYHCNEMAYVYPYQHLWSVMRKINHLTVMYHHYFNTDPFAS",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.59,
+    "breadth_score": 0.89,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 8,
+      "CDR-H3": 20,
+      "CDR-L1": 15,
+      "CDR-L2": 7,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 98.03,
+        "binding_energy": -10.3
+      },
+      {
+        "toxin_id": "SNA097",
+        "affinity_nm": 300.16,
+        "binding_energy": -7.0
+      },
+      {
+        "toxin_id": "SNA252",
+        "affinity_nm": 287.17,
+        "binding_energy": -7.0
+      },
+      {
+        "toxin_id": "SNA933",
+        "affinity_nm": 152.2,
+        "binding_energy": -8.4
+      }
+    ]
+  },
+  {
+    "id": "AB005_SPEC",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep3",
+    "sequence": "DCESRPYMFTGWKQARNELYPRLGALDGKAMHPDHYVWVAYNIAKLRSPFRCLFFWQCTELFDSSKPVNMSHCNQYDKTMNWFPHTCWEGSLYAPICLTRQSVIAEPVWAHKRRHFLKKMGMEIVWETFPSGHFISMSKECNQRFQAHKGEPEQGGPKRVLKEKLQCHWEPVGHYYPMGPMLGFHSAAFWSIGVISMVHNATKELSSPDYMLIAQHVLPY",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.52,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 15,
+      "CDR-H3": 21,
+      "CDR-L1": 13,
+      "CDR-L2": 11,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 42.81,
+        "binding_energy": -13.6
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB006_BNAB",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep3",
+    "sequence": "QGWAHYWQDMITYKSCGKCARPLLVGIKDVENCVDNTWEVMYMMWRPPIINMDLVDFCYHICPMQGFNLTVEWMYDTQVCVNKMTKGSFCKHYTWAHMTCGTFYVYPPAKGYSYQEPIMTTKKNQYSSTEAPPSGEEVRYHRDISDETRRFMWVCMWFYCGLNHWFQTCATTSVPTHFPNCYWAGKPEQEARAQAWRYAMRVNHAAQSHPYQKRYMLLHLCFYDFSNNFH",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.78,
+    "breadth_score": 0.86,
+    "cdr_lengths": {
+      "CDR-H1": 12,
+      "CDR-H2": 12,
+      "CDR-H3": 16,
+      "CDR-L1": 13,
+      "CDR-L2": 9,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 61.95,
+        "binding_energy": -9.4
+      },
+      {
+        "toxin_id": "SNA321",
+        "affinity_nm": 121.2,
+        "binding_energy": -7.9
+      },
+      {
+        "toxin_id": "SNA504",
+        "affinity_nm": 182.36,
+        "binding_energy": -8.6
+      },
+      {
+        "toxin_id": "SNA290",
+        "affinity_nm": 174.38,
+        "binding_energy": -6.1
+      }
+    ]
+  },
+  {
+    "id": "AB007_SPEC",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep4",
+    "sequence": "SIYHKVFLQYDCVCWWGFPHKNTYNKDNFRCSWGCIVAEFTSQMAKKIYCLYISALKILNHSKSYSTSQPYASAWFYQGTLMSWCLDVLHRYFCECVFECMYRCNCRIVQDSYAKFKNAKRADCCDQNALCIIHPIETKNWMEWTYEWCQGEAETMWMINEQQNCFLCNINVCEERHTKYSQNISAWEKRMYKEWKKSWFSRTLRMWTDSHNHLKQKGED",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.94,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 8,
+      "CDR-H3": 22,
+      "CDR-L1": 16,
+      "CDR-L2": 10,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 47.9,
+        "binding_energy": -11.9
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB008_BNAB",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep4",
+    "sequence": "CQLQEKVFKKAAFCWVEKNLDESNSGCSPRNTNNRAEPYAFWSHMAGSLEHMHVHGNVKGHWNFRTWDAKCRRRATLVMLGRFAVRANQYDAVVSQTQQTLVPWTLVNNNKTGRSRKMAIGILRKYRRDEQHTFNVNAQGMHRREDENHGKQVITQGYREARNYAEAQIETGYRKNPKQQDSIMAWWCMFQFMCEPYTKKHRWSSTNDAVYHVLQAKPRGDFFEALHCLY",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.59,
+    "breadth_score": 0.87,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 14,
+      "CDR-H3": 16,
+      "CDR-L1": 10,
+      "CDR-L2": 8,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 21.92,
+        "binding_energy": -10.2
+      },
+      {
+        "toxin_id": "SNA774",
+        "affinity_nm": 47.86,
+        "binding_energy": -7.4
+      },
+      {
+        "toxin_id": "SNA730",
+        "affinity_nm": 68.69,
+        "binding_energy": -7.4
+      },
+      {
+        "toxin_id": "SNA219",
+        "affinity_nm": 66.05,
+        "binding_energy": -9.1
+      }
+    ]
+  },
+  {
+    "id": "AB009_SPEC",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep5",
+    "sequence": "CMNGADERCMSDQNGKAIQPKQNSCCFWAKWQTLRYQDAFHMYKQFIKQDRQKPAINQMALPEKGRQVSWDQVPDWGRHPIENALVNPVQIYSVLMEEENLKIRVYCDPFEVLMVEMFPYDMRRRCKFEIKNELWGVCVVKWQFPCYNKITHGFQWNGLLDRYLRWWQLNDSYQFMKLKASPPMLAHCQMCWICNHYCVWRDVCDPWGGTSMPMWRRAPM",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.73,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 9,
+      "CDR-H3": 9,
+      "CDR-L1": 13,
+      "CDR-L2": 7,
+      "CDR-L3": 8
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 29.29,
+        "binding_energy": -13.4
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB010_BNAB",
+    "target_toxin_id": "SNA004",
+    "target_epitope_id": "SNA004_ep5",
+    "sequence": "WSAEQAMFQLKDRPDTGNFAKMFLRVMLSPSIDYPPLEEYDQVDSRGHLHLHHGYTKWISEKYHTGNGPPNYNWGMNCRPFIVAQLFTGTLVPLTVIMFPKMYEEDAIRGPFHHFGSNDARSYITWHDADMGCCDKFGMCEMSVMGRYRKTCESAHHKAGPRLSEPSLTNPAEVIWHIRELQQDWSFGYNFALIHNEGEGEMNEDNIGYIAHRYKWRRTSQWVYYPLSHT",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.53,
+    "breadth_score": 0.88,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 9,
+      "CDR-H3": 15,
+      "CDR-L1": 15,
+      "CDR-L2": 9,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA004",
+        "affinity_nm": 64.98,
+        "binding_energy": -9.7
+      },
+      {
+        "toxin_id": "SNA506",
+        "affinity_nm": 250.07,
+        "binding_energy": -6.2
+      },
+      {
+        "toxin_id": "SNA236",
+        "affinity_nm": 201.06,
+        "binding_energy": -9.1
+      },
+      {
+        "toxin_id": "SNA342",
+        "affinity_nm": 172.83,
+        "binding_energy": -6.5
+      }
+    ]
+  },
+  {
+    "id": "AB001_SPEC",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep1",
+    "sequence": "KDKTFHLQCKLTHRGLPYCAMRDVKESDYDAFEIQGNNFQRTFATIEGLLKNKKPQPNTPKLRWPLVGYPQVEFMQWYQRKSTSAYVEWYMRPIWNSESWHRGRDKWWQAENISRAYRIHGEFTFSVFFWVIMSKEIQLFSTNKFCLWWMWMKCVNKEKAKHPGCGRFSIMTPHYMRDYLCSIIEWYLFCAHMEHRWDKDTQNPWGPFAYINDSTVQIER",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.77,
+    "cdr_lengths": {
+      "CDR-H1": 11,
+      "CDR-H2": 15,
+      "CDR-H3": 14,
+      "CDR-L1": 12,
+      "CDR-L2": 11,
+      "CDR-L3": 11
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 8.35,
+        "binding_energy": -11.6
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB002_BNAB",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep1",
+    "sequence": "IFMDGACFMTIWHGPHVFSKHANEYDTYETTKHCPDYCWQFLELIGNCYQDMVNQDFGKYNAQPCFQYCKLWTKIVFIKGSWCRMQFFLQLQNYDPTYRDMQIFYIWTNMCYMSQMFEINWEGMHRYEQWKTVPRQMFSGAFIREYFNTHQRGRQFARKCFRRNDCVFCHAANPMVWNTYPVYEGQTMYCCGPQGFSNQYLPSHCNYQLQYEMFFKHNMVKKQKNWTQDY",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.58,
+    "breadth_score": 0.83,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 18,
+      "CDR-H3": 17,
+      "CDR-L1": 13,
+      "CDR-L2": 9,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 32.01,
+        "binding_energy": -8.0
+      },
+      {
+        "toxin_id": "SNA522",
+        "affinity_nm": 103.06,
+        "binding_energy": -7.2
+      },
+      {
+        "toxin_id": "SNA971",
+        "affinity_nm": 82.13,
+        "binding_energy": -7.4
+      },
+      {
+        "toxin_id": "SNA319",
+        "affinity_nm": 73.28,
+        "binding_energy": -6.1
+      }
+    ]
+  },
+  {
+    "id": "AB003_SPEC",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep2",
+    "sequence": "TILLFWDADATLKNHHMQWSHYCWYDCSCQNSLCHQYYLSFACLHQRTLILYETDTMARLAVYHGAKFNWTDIKHKLQHRQKHGKPAMFYRRNCHAWHHACQVQPYYQVNVREVTGQHIRKCPTYWCHLHAPWRKLMVQMHVAIDALTIIIDRPKWPPKMTLGLSSQISGYTGNHSLFKKHNFRFATMWVKCSCWGAEGLMEFPFRAFHVCMRHWHAKIW",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.64,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 15,
+      "CDR-H3": 12,
+      "CDR-L1": 12,
+      "CDR-L2": 7,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 10.2,
+        "binding_energy": -13.3
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB004_BNAB",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep2",
+    "sequence": "PKVFQMQHLRHHYKNDKKRVQPPPIGFHTFNPKRCPAGINLGCDQENNTLAWTTWCLETFQLTMLEIGDCRMGLTIAEQALKHGSYAFIHPVHIAFVDWYPVWLEIEMDYAYMYDMDWVKATFNIEIGHNGCVDWVGAMFSPKSSVGPEKEKLRDTQWGGAADSFTDADDMSLWLHEEFYIPVAFGEYRIDQWMDTKRARLTCRSYDLICGSLPLTPCREYKQKVIRWCA",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.82,
+    "breadth_score": 0.74,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 10,
+      "CDR-H3": 15,
+      "CDR-L1": 10,
+      "CDR-L2": 11,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 67.46,
+        "binding_energy": -9.3
+      },
+      {
+        "toxin_id": "SNA991",
+        "affinity_nm": 155.61,
+        "binding_energy": -9.7
+      },
+      {
+        "toxin_id": "SNA453",
+        "affinity_nm": 105.67,
+        "binding_energy": -6.9
+      },
+      {
+        "toxin_id": "SNA309",
+        "affinity_nm": 146.88,
+        "binding_energy": -8.1
+      }
+    ]
+  },
+  {
+    "id": "AB005_SPEC",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep3",
+    "sequence": "ADGNPWELEMELYWAHTTQNPVFFSNLNCSKPSKTLLNVFVMSECDTYQICNKRNWRMIVLVQPQHYMKWIWDDWFRAKYLVYGVGFTCWEQHLMKIVSHLIMYHRKRMEGPVVYTQFRHRHDFNPVKLPSRGIYWKAWVPFVNETGVPFCGEYMSKNAWALSNVYIIVENMWHNCWNRDVDTASIYSYWEPLVFYLTGYRCVACIKMISYVRLALNPVY",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.62,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 10,
+      "CDR-H3": 13,
+      "CDR-L1": 16,
+      "CDR-L2": 8,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 10.62,
+        "binding_energy": -11.8
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB006_BNAB",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep3",
+    "sequence": "VHNLWMMMCMTDKHHKMEWAQFIHHRWDRWKVTESPYLVYPDYSTAPDKAVADENQKAKYQYCNWFRGMIMLRKDETVCQWCMIWWLYYDKKKFLAFKSTYTTKVCHLCPWMSHYGNWNNPLNSLPDYVQFCHHGAHRPNTMATQSAINGKRAALMYADAFQCVPNQIPGEHLYAVMTIHEMFPPFHVLKPFLGYAFMGDRKRLMWPGAETDGAWEPAEYECYVLPLSDS",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.91,
+    "breadth_score": 0.8,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 16,
+      "CDR-H3": 16,
+      "CDR-L1": 11,
+      "CDR-L2": 9,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 1.61,
+        "binding_energy": -11.4
+      },
+      {
+        "toxin_id": "SNA013",
+        "affinity_nm": 2.72,
+        "binding_energy": -6.1
+      },
+      {
+        "toxin_id": "SNA676",
+        "affinity_nm": 2.56,
+        "binding_energy": -9.0
+      },
+      {
+        "toxin_id": "SNA990",
+        "affinity_nm": 5.69,
+        "binding_energy": -8.4
+      }
+    ]
+  },
+  {
+    "id": "AB007_SPEC",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep4",
+    "sequence": "AFQQDCEPDAMLMYRAFQLAWQRPHTGTQPVTPEHYGGWWMTRMPVCCGIFGLLAECYQMQNPERPARPYNWTTQGGMDLGLQSMYGQVQSMLYTGNVFSMDTGVTRYWEQDGWCIYRFLDMFAHPQRWGTVSRIRNKSEEDPIGHSQPWMRNRINIMGFAGMCMYWTKWIWEPDKRVGTAEPNYQGTECRLVNQDHNPCWHMHIKDLVASPLRYIKMMD",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.67,
+    "cdr_lengths": {
+      "CDR-H1": 9,
+      "CDR-H2": 10,
+      "CDR-H3": 20,
+      "CDR-L1": 8,
+      "CDR-L2": 10,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 34.6,
+        "binding_energy": -13.4
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB008_BNAB",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep4",
+    "sequence": "EYGDDYNSLEEHGCIHATNLCKTTAMMMKMHMWQMYWWRLMDLPFDLRAFYQMHSPKPFAYQTGMVRGHYKYCYYHLFRNCPTRGPESSYCSSVVPMLEYDHSGVDALYKPYRMGLWVYNIKKISHNEKRQMECVEMCWVIILWKQGPALPDPNAPKYACMIGCECMADNHPIGISYDCYMGLCHKAGKSVAINTWNILIPTNHSNTNNPHMLKWFEHRMFRCNCPEYYA",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.87,
+    "breadth_score": 0.68,
+    "cdr_lengths": {
+      "CDR-H1": 10,
+      "CDR-H2": 19,
+      "CDR-H3": 16,
+      "CDR-L1": 12,
+      "CDR-L2": 9,
+      "CDR-L3": 10
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 19.64,
+        "binding_energy": -10.9
+      },
+      {
+        "toxin_id": "SNA643",
+        "affinity_nm": 42.29,
+        "binding_energy": -8.0
+      },
+      {
+        "toxin_id": "SNA802",
+        "affinity_nm": 57.27,
+        "binding_energy": -6.2
+      },
+      {
+        "toxin_id": "SNA795",
+        "affinity_nm": 65.07,
+        "binding_energy": -9.1
+      }
+    ]
+  },
+  {
+    "id": "AB009_SPEC",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep5",
+    "sequence": "WHMDHPGDSYHQEMNSNSHFINLNSYVDMMRIYYLREDEDRLMPDQKFPPMRHRDIYWFQTDPFTKEARHNRNKIGEAIGLAQCGFKKQYPEWDRIFRKDGIFQTYFIAMRNAGDSCEFDVFSGAWPTQPPPPHLFMPYDEGCILQYENLYGWEIFITTRAMCEPNFVGINNKAHFVMKVDKCTFYWVWWSEFIFQACFQPVSPQYVKPMEEYPIGQAFS",
+    "is_broadly_neutralizing": false,
+    "developability_score": 0.89,
+    "cdr_lengths": {
+      "CDR-H1": 8,
+      "CDR-H2": 8,
+      "CDR-H3": 14,
+      "CDR-L1": 13,
+      "CDR-L2": 10,
+      "CDR-L3": 9
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 16.1,
+        "binding_energy": -9.5
+      }
+    ],
+    "targeting_strategy": "specific",
+    "generation_date": "2025-05-29"
+  },
+  {
+    "id": "AB010_BNAB",
+    "target_toxin_id": "SNA005",
+    "target_epitope_id": "SNA005_ep5",
+    "sequence": "MIGRNEFPNTFQSQHALATGNDCIFPISMLQKNIFMFYSCVFHFMFSLPYEMHGYCFCDILHPSGTRSYFWPDAPTRETEMCRMGFMEPQQQPRSEISAMSPDFEPWYWLVEDVYPKEKGRTGWTYGNFNLSHGYCNGSGYMDILVQRRIPKFLLHSNHRMWMDISCIHPLTINACDYMPGTLECFMQSRSYTIECQAWEPMGSYRVHMMTGQIGHCPTQKDRCPQFNPV",
+    "is_broadly_neutralizing": true,
+    "developability_score": 0.79,
+    "breadth_score": 0.72,
+    "cdr_lengths": {
+      "CDR-H1": 12,
+      "CDR-H2": 15,
+      "CDR-H3": 21,
+      "CDR-L1": 9,
+      "CDR-L2": 7,
+      "CDR-L3": 12
+    },
+    "binds_to": [
+      {
+        "toxin_id": "SNA005",
+        "affinity_nm": 37.18,
+        "binding_energy": -8.3
+      },
+      {
+        "toxin_id": "SNA038",
+        "affinity_nm": 98.29,
+        "binding_energy": -8.3
+      },
+      {
+        "toxin_id": "SNA570",
+        "affinity_nm": 119.72,
+        "binding_energy": -9.6
+      },
+      {
+        "toxin_id": "SNA081",
+        "affinity_nm": 66.79,
+        "binding_energy": -8.2
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Production of antibodies against phospholipases A2 from Bothrops snake venoms in tobacco plants",
+    "authors": "Estrada D, et al.",
+    "year": 2018,
+    "plant_system": "Nicotiana tabacum",
+    "target_toxins": [
+      "Phospholipase A2"
+    ],
+    "snake_species": [
+      "Bothrops asper",
+      "Bothrops jararacussu"
+    ],
+    "neutralization_efficacy": "Moderate (50-75% neutralization)",
+    "expression_yield": "45 mg/kg fresh leaf weight",
+    "key_findings": "Successful production of functional anti-PLA2 antibodies in tobacco plants with demonstrated neutralizing capacity"
+  },
+  {
+    "title": "Plant-derived recombinant antibodies for scorpion envenomation therapy",
+    "authors": "Julve JM, et al.",
+    "year": 2020,
+    "plant_system": "Nicotiana benthamiana",
+    "target_toxins": [
+      "\u03b1-toxins",
+      "\u03b2-toxins"
+    ],
+    "snake_species": [
+      "Not applicable (Scorpion)"
+    ],
+    "neutralization_efficacy": "High (>85% neutralization)",
+    "expression_yield": "120 mg/kg fresh leaf weight",
+    "key_findings": "Rapid production of neutralizing antibodies in N. benthamiana with comparable efficacy to horse-derived antivenoms"
+  },
+  {
+    "title": "Development of broadly neutralizing antibodies against elapid snake neurotoxins",
+    "authors": "Rodriguez JM, et al.",
+    "year": 2021,
+    "plant_system": "Rice (Oryza sativa)",
+    "target_toxins": [
+      "\u03b1-neurotoxins",
+      "\u03ba-neurotoxins"
+    ],
+    "snake_species": [
+      "Naja naja",
+      "Bungarus multicinctus",
+      "Dendroaspis polylepis"
+    ],
+    "neutralization_efficacy": "Moderate to High (65-85% neutralization)",
+    "expression_yield": "5 mg/g seed weight",
+    "key_findings": "Storage-stable antibodies with cross-neutralization potential across multiple elapid species"
+  },
+  {
+    "title": "Production of anti-hemorrhagic antibodies in maize seeds",
+    "authors": "Thompson B, et al.",
+    "year": 2019,
+    "plant_system": "Maize (Zea mays)",
+    "target_toxins": [
+      "Snake Venom Metalloproteinases (SVMPs)"
+    ],
+    "snake_species": [
+      "Bothrops atrox",
+      "Echis ocellatus"
+    ],
+    "neutralization_efficacy": "High (80% neutralization of hemorrhagic activity)",
+    "expression_yield": "2 mg/g seed weight",
+    "key_findings": "Long-term stable antibodies with maintained neutralization capacity after 2 years of seed storage"
+  },
+  {
+    "title": "Carrot cell bioreactor production of antibodies against Bothrops snake venom",
+    "authors": "Klein S, et al.",
+    "year": 2022,
+    "plant_system": "Carrot cells (Daucus carota)",
+    "target_toxins": [
+      "Phospholipase A2",
+      "SVMPs",
+      "Serine proteases"
+    ],
+    "snake_species": [
+      "Bothrops jararaca"
+    ],
+    "neutralization_efficacy": "High (90% neutralization)",
+    "expression_yield": "160 mg/L culture",
+    "key_findings": "GMP-compliant production system with high expression levels and potent neutralization"
+  }
+]

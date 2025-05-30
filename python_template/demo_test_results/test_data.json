@@ -1,0 +1,110 @@
+{
+  "epitope": {
+    "id": "DEMO_EPITOPE_001",
+    "sequence": "GFNCYFPLQSYGFQPTNGVGYQ",
+    "start": 435,
+    "end": 456,
+    "score": 0.89,
+    "toxin_id": "TOXIN001",
+    "toxin_family": "three_finger_toxin",
+    "source_species": "Naja naja"
+  },
+  "toxins": [
+    {
+      "id": "TOXIN001",
+      "sequence": "LKCNKLVPLFYKTCPAGKNLCYKMFMVATPKVPVKRGCIDVCPKSSLLVKYVCCNTDRCN",
+      "family": "three_finger_toxin",
+      "source_species": "Naja naja",
+      "function": "neurotoxic",
+      "potency": 2.3
+    },
+    {
+      "id": "TOXIN002",
+      "sequence": "MKTLLLTLVVVTIVCLDLGYTRICYNHQSTTRATTKSCEENSCYKKYWRDHRGTIIERGCGCPTVKPGIKLSCCESEVCNN",
+      "family": "phospholipase_a2",
+      "source_species": "Bungarus caeruleus",
+      "function": "neurotoxic",
+      "potency": 1.8
+    }
+  ],
+  "initial_antibodies": [
+    {
+      "name": "DEMO_AB_01",
+      "heavy_chain": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYGMYWVRQAPGKGLEWVSAINSGSGISGSGGSTYYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDYGDYFDYWGWGQGTLVTVSS",
+      "light_chain": "DIQMTQSPSSLSASVGDRVTITCRASQ------WYQQKPGKAPKLLIY-------GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSIPYTFGQGTKVEIK",
+      "cdr_sequences": {
+        "H1": "SYGMY",
+        "H2": "GISGSGGSTY",
+        "H3": "DYGDYFDYWG",
+        "L1": "SITNYLA",
+        "L2": "AASRLQS",
+        "L3": "QQSYSIPYT"
+      }
+    },
+    {
+      "name": "DEMO_AB_02",
+      "heavy_chain": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYGMYWVRQAPGKGLEWVSAINSGSTISSGGSYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARAKGWFDYWGWGQGTLVTVSS",
+      "light_chain": "DIQMTQSPSSLSASVGDRVTITCRASQ------WYQQKPGKAPKLLIY-------GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSIPYTFGQGTKVEIK",
+      "cdr_sequences": {
+        "H1": "SYGMY",
+        "H2": "TISSGGSYT",
+        "H3": "AKGWFDYWG",
+        "L1": "SITSYLN",
+        "L2": "AASRLHS",
+        "L3": "QQSYSIPYT"
+      }
+    },
+    {
+      "name": "DEMO_AB_03",
+      "heavy_chain": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYNMHWVRQAPGKGLEWVSAINSGSTISSGGSYTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDYGDYFDYWGWGQGTLVTVSS",
+      "light_chain": "DIQMTQSPSSLSASVGDRVTITCRASQ------WYQQKPGKAPKLLIY-------GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSTPPTFGQGTKVEIK",
+      "cdr_sequences": {
+        "H1": "SYNMH",
+        "H2": "TISSGGSYT",
+        "H3": "DYGDYFDYWG",
+        "L1": "SISSYLN",
+        "L2": "AASRLQS",
+        "L3": "QQSYSTPPT"
+      }
+    },
+    {
+      "name": "DEMO_AB_04",
+      "heavy_chain": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYNMHWVRQAPGKGLEWVSAINSGSGISGSGGSTYYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDGGDYAMDYWGWGQGTLVTVSS",
+      "light_chain": "DIQMTQSPSSLSASVGDRVTITCRASQ------WYQQKPGKAPKLLIY-------GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSTPPTFGQGTKVEIK",
+      "cdr_sequences": {
+        "H1": "SYNMH",
+        "H2": "GISGSGGSTY",
+        "H3": "DGGDYAMDYWG",
+        "L1": "SIQSYLN",
+        "L2": "AASSLQS",
+        "L3": "QQSYSTPPT"
+      }
+    },
+    {
+      "name": "DEMO_AB_05",
+      "heavy_chain": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYNMHWVRQAPGKGLEWVSAINSGSGIDPSFGTAYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARREGGVFDYWGWGQGTLVTVSS",
+      "light_chain": "DIQMTQSPSSLSASVGDRVTITCRASQ------WYQQKPGKAPKLLIY-------GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSIPPTFGQGTKVEIK",
+      "cdr_sequences": {
+        "H1": "SYNMH",
+        "H2": "GIDPSFGTA",
+        "H3": "REGGVFDYWG",
+        "L1": "SISSYLN",
+        "L2": "AASNLQS",
+        "L3": "QQSYSIPPT"
+      }
+    },
+    {
+      "name": "DEMO_AB_06",
+      "heavy_chain": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYNMHWVRQAPGKGLEWVSAINSGSGISGSGGSTYYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARREGGVFDYWGWGQGTLVTVSS",
+      "light_chain": "DIQMTQSPSSLSASVGDRVTITCRASQ------WYQQKPGKAPKLLIY-------GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSYSTPPTFGQGTKVEIK",
+      "cdr_sequences": {
+        "H1": "SYNMH",
+        "H2": "GISGSGGSTY",
+        "H3": "REGGVFDYWG",
+        "L1": "SIQSYLN",
+        "L2": "AASSLQS",
+        "L3": "QQSYSTPPT"
+      }
+    }
+  ]
+}
