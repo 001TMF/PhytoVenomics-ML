@@ -1,0 +1,102 @@
+# Example: Using a pre-docked antibody-antigen complex
+# This mode is useful when you already have a crystal structure or docked complex
+# and want to redesign parts of the antibody while maintaining the binding pose
+
+# ============================================================================
+# INPUT FILES - PRE-DOCKED MODE
+# ============================================================================
+
+# Path to pre-docked complex PDB
+complex_pdb: data/input/antibody_toxin_complex.pdb
+
+# Specify which chains are antibody vs antigen
+antibody_chains: ["H", "L"]  # Heavy and light chains
+antigen_chains: ["A"]         # Antigen chain
+
+# Leave these empty for pre-docked mode
+antigen_pdb: null
+framework_pdb: null
+
+# Output directory
+output_dir: ./results/predocked_redesign
+
+
+# ============================================================================
+# DESIGN SETTINGS
+# ============================================================================
+
+design:
+  # Design mode - typically use cdr_h3 for pre-docked complexes
+  mode: cdr_h3
+  num_designs: 20
+  num_steps: 50
+
+
+# ============================================================================
+# EPITOPE INFORMATION (OPTIONAL)
+# ============================================================================
+
+epitope:
+  # If you know specific epitope residues, list them here
+  # Format: Chain + residue number
+  residues:
+    - A45
+    - A48
+    - A52
+
+
+# ============================================================================
+# DOCKING SETTINGS
+# ============================================================================
+
+docking:
+  # Disable docking since we have pre-docked complex
+  enabled: false
+
+
+# ============================================================================
+# RFDIFFUSION SETTINGS
+# ============================================================================
+
+rfdiffusion:
+  path: ./RFdiffusion
+  weights: null
+
+
+# ============================================================================
+# IgLM OPTIMIZATION
+# ============================================================================
+
+iglm:
+  enabled: true
+  species: '[HUMAN]'
+  temperature: 1.0
+
+
+# ============================================================================
+# FILTERING THRESHOLDS
+# ============================================================================
+
+filtering:
+  max_clashes: 100
+  min_plddt: 70.0
+  min_pdockq: 0.23
+  max_sap_score: 50.0
+  min_cdr_interface_pct: 60.0
+
+
+# ============================================================================
+# STRUCTURE PREDICTION
+# ============================================================================
+
+structure_prediction:
+  predictor: chai
+  chai_path: null
+  af3_path: null
+
+
+# ============================================================================
+# COMPUTE SETTINGS
+# ============================================================================
+
+device: cuda:0

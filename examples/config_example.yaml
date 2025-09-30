@@ -1,0 +1,144 @@
+# Example configuration for antibody design pipeline
+# Edit paths and parameters for your specific use case
+
+# ============================================================================
+# INPUT FILES
+# ============================================================================
+
+# Path to antigen (snake toxin) PDB file
+antigen_pdb: data/snake_toxins/pdb_structures/7M6C.pdb
+
+# Path to antibody framework PDB (optional - omit for de novo design)
+# Should be a human antibody variable region (VH+VL or single-chain)
+framework_pdb: data/antibody_structures/human/example_framework.pdb
+
+# Output directory for results
+output_dir: ./results/snake_toxin_antibody
+
+
+# ============================================================================
+# DESIGN SETTINGS
+# ============================================================================
+
+design:
+  # Design mode:
+  #   - cdr_h3: Design only CDR H3 (fastest, most important for binding)
+  #   - single_cdr: Design one CDR at a time
+  #   - multiple_cdrs: Design multiple CDRs simultaneously
+  #   - full: Design entire variable region
+  mode: cdr_h3
+
+  # Number of designs to generate
+  num_designs: 20
+
+  # Number of diffusion steps (higher = better quality but slower)
+  num_steps: 50
+
+
+# ============================================================================
+# EPITOPE INFORMATION (OPTIONAL)
+# ============================================================================
+
+epitope:
+  # Known epitope residues on the antigen
+  # Format: Chain + residue number (e.g., A10 = chain A, residue 10)
+  # These guide docking and design to target specific binding sites
+  residues:
+    - A45
+    - A48
+    - A52
+    - A67
+
+
+# ============================================================================
+# DOCKING SETTINGS
+# ============================================================================
+
+docking:
+  # Enable/disable docking (set to false for de novo design)
+  enabled: true
+
+  # Path to HDock binary
+  hdock_bin: ./bin/hdock
+
+  # Path to HDock createpl binary
+  createpl_bin: ./bin/createpl
+
+
+# ============================================================================
+# RFDIFFUSION SETTINGS
+# ============================================================================
+
+rfdiffusion:
+  # Path to RFdiffusion installation directory
+  path: ./RFdiffusion
+
+  # Path to custom model weights (optional)
+  # If null, uses default RFdiffusion weights
+  weights: null
+
+
+# ============================================================================
+# IgLM OPTIMIZATION
+# ============================================================================
+
+iglm:
+  # Enable/disable IgLM sequence optimization
+  enabled: true
+
+  # Species token for IgLM
+  # Options: [HUMAN], [MOUSE], [RAT], [RABBIT], [RHESUS], [CAMEL]
+  species: '[HUMAN]'
+
+  # Temperature for sequence sampling (higher = more diverse)
+  temperature: 1.0
+
+
+# ============================================================================
+# FILTERING THRESHOLDS
+# ============================================================================
+
+filtering:
+  # Maximum number of atomic clashes allowed
+  max_clashes: 100
+
+  # Minimum predicted LDDT (0-100 scale)
+  # Measures local structure quality
+  min_plddt: 70.0
+
+  # Minimum predicted DockQ score (0-1 scale)
+  # Measures docking quality
+  min_pdockq: 0.23
+
+  # Maximum Spatial Aggregation Propensity (SAP) score
+  # Measures risk of aggregation
+  max_sap_score: 50.0
+
+  # Minimum percentage of interface residues that should be CDRs
+  # Ensures binding is CDR-mediated
+  min_cdr_interface_pct: 60.0
+
+
+# ============================================================================
+# STRUCTURE PREDICTION
+# ============================================================================
+
+structure_prediction:
+  # Structure predictor to use
+  # Options: chai, af3
+  predictor: chai
+
+  # Path to Chai installation (if using Chai)
+  chai_path: null
+
+  # Path to AlphaFold3 installation (if using AF3)
+  af3_path: null
+
+
+# ============================================================================
+# COMPUTE SETTINGS
+# ============================================================================
+
+# Device to use for computation
+# Options: cuda:0, cuda:1, cpu
+device: cuda:0
